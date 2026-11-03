@@ -1,0 +1,32 @@
+VENUE MODEL COMPARISON
+======================================================================
+Input file: C:\Users\dhana\PycharmProjects\PythonProject\ICC Cricket World Cup 2027 Predictor\data\processed\odi_features_with_venue_merged.csv
+Evaluated working-team matches: 2048
+
+Chronological split:
+Train:      1571 | 2002-06-27 to 2019-06-06
+Validation: 237 | 2019-06-08 to 2023-06-25
+Test:       240 | 2023-06-27 to 2026-10-25
+
+Test metrics:
+----------------------------------------------------------------------
+Baseline LR (calibrated)
+  Accuracy:   0.591667
+  ROC AUC:    0.631788
+  Log loss:   0.695453
+  Brier:      0.249593
+
+Baseline + Venue LR (calibrated)
+  Accuracy:   0.612500
+  ROC AUC:    0.658800
+  Log loss:   0.667237
+  Brier:      0.237941
+
+Raw Elo K20
+  Accuracy:   0.604167
+  ROC AUC:    0.635269
+  Log loss:   0.673005
+  Brier:      0.239315
+
+Methodology note:
+The venue model is evaluated on the same test matches as the baseline. The test period has already been examined in earlier model comparisons, so this result is exploratory rather than a pristine final holdout.

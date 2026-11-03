@@ -1,0 +1,28 @@
+VENUE FEATURE MERGE VALIDATION
+=================================================================
+Base feature rows: 2,607
+Venue feature rows: 2,161
+Merged feature rows: 2,607
+Matches involving working 2027 teams: 2,161
+Matches outside working 2027 team set: 446
+Base unique match IDs: 2,607
+Merged unique match IDs: 2,607
+Duplicate merged match IDs: 0
+
+Venue feature missing-value check:
+Expected missing venue values on non-tournament-team matches:
+team_1_venue_matches: 446 missing overall; 0 missing among working 2027 team matches
+team_2_venue_matches: 446 missing overall; 0 missing among working 2027 team matches
+venue_familiarity_difference: 446 missing overall; 0 missing among working 2027 team matches
+team_1_home: 446 missing overall; 0 missing among working 2027 team matches
+team_2_home: 446 missing overall; 0 missing among working 2027 team matches
+home_advantage_difference: 446 missing overall; 0 missing among working 2027 team matches
+
+Merge integrity:
+Base row count preserved: True
+Base match IDs preserved: True
+All working 2027 team matches have venue features: True
+Non-tournament matches allowed to have missing venue features: True
+One-to-one merge validated: True
+
+Source datasets were not modified.

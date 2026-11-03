@@ -1,0 +1,64 @@
+ODI WIN PREDICTION — BASELINE MODEL EVALUATION
+================================================================================
+
+DATA SPLIT
+--------------------------------------------------------------------------------
+Total decided matches: 2,477
+Total unique dates: 2,131
+Train:        1,705 matches | 2002-06-27 to 2019-06-06 | 1,491 unique dates
+Validation:     393 matches | 2019-06-08 to 2023-06-26 | 320 unique dates
+Test:           379 matches | 2023-06-27 to 2026-10-25 | 320 unique dates
+
+Split validation:
+Chronological split based on unique dates.
+No date appears in more than one split.
+
+VALIDATION METRICS
+  accuracy: 0.6743
+  roc_auc: 0.7080
+  log_loss: 0.6311
+  brier_score: 0.2169
+
+TEST METRICS — LOGISTIC REGRESSION
+  accuracy: 0.5989
+  roc_auc: 0.6297
+  log_loss: 0.7324
+  brier_score: 0.2600
+
+TEST METRICS — 50% PROBABILITY BASELINE
+  accuracy: 0.4881
+  roc_auc: 0.5000
+  log_loss: 0.6931
+  brier_score: 0.2500
+
+TEST CONFUSION MATRIX
+--------------------------------------------------------------------------------
+Rows = actual class [0, 1]; columns = predicted class [0, 1]
+[[ 79 115]
+ [ 37 148]]
+
+CLASSIFICATION REPORT
+--------------------------------------------------------------------------------
+                    precision    recall  f1-score   support
+
+Team 1 did not win       0.68      0.41      0.51       194
+        Team 1 won       0.56      0.80      0.66       185
+
+          accuracy                           0.60       379
+         macro avg       0.62      0.60      0.59       379
+      weighted avg       0.62      0.60      0.58       379
+
+
+FEATURES
+--------------------------------------------------------------------------------
+team_1_elo
+team_2_elo
+elo_difference
+team_1_recent_form
+team_2_recent_form
+recent_form_difference
+team_1_matches_played
+team_2_matches_played
+
+Saved model: C:\Users\dhana\PycharmProjects\PythonProject\ICC Cricket World Cup 2027 Predictor\models\logistic_regression_baseline.joblib
+Saved test predictions: C:\Users\dhana\PycharmProjects\PythonProject\ICC Cricket World Cup 2027 Predictor\reports\baseline_test_predictions.csv

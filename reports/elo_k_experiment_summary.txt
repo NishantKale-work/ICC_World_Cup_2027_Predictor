@@ -1,0 +1,41 @@
+ODI ELO K-VALUE EXPERIMENT
+===========================================================================
+
+Split logic:
+Reused the exact unique-date split logic from final_evaluation.py.
+
+Selected K:
+30
+
+Selection criterion:
+Lowest validation log loss; Brier score used as secondary criterion.
+
+Validation results:
+ k_value      split  matches  accuracy      auc  log_loss  brier_score  actual_team_1_win_rate  mean_predicted_team_1_win_probability
+      30 validation      392  0.617347 0.675157  0.641627     0.225708                0.540816                               0.506543
+      20 validation      392  0.591837 0.668920  0.642061     0.226074                0.540816                               0.505456
+      40 validation      392  0.614796 0.678485  0.643649     0.226292                0.540816                               0.507885
+      10 validation      392  0.594388 0.655215  0.646909     0.228194                0.540816                               0.504722
+
+Test results:
+ k_value split  matches  accuracy      auc  log_loss  brier_score  actual_team_1_win_rate  mean_predicted_team_1_win_probability
+      10  test      380  0.597368 0.625097  0.669170     0.238154                0.489474                               0.495070
+      20  test      380  0.594737 0.632219  0.668920     0.237820                0.489474                               0.495773
+      30  test      380  0.607895 0.634298  0.671606     0.238665                0.489474                               0.496715
+      40  test      380  0.610526 0.636986  0.676310     0.240197                0.489474                               0.497609
+
+Selected K validation metrics:
+Accuracy:  0.6173
+AUC:       0.6752
+Log loss:  0.6416
+Brier:     0.2257
+
+Selected K test metrics:
+Accuracy:  0.6079
+AUC:       0.6343
+Log loss:  0.6716
+Brier:     0.2387
+
+Important:
+K was selected using validation results only.
+Test results were not used to select K.

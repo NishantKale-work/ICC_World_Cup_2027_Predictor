@@ -1,0 +1,26 @@
+ODI MODEL COMPARISON SUMMARY
+==================================================
+
+Selection criterion:
+1. Lowest validation log loss
+2. Lowest validation Brier score as tie-breaker
+
+Selected model: Logistic Regression (calibrated)
+
+Selected model validation metrics:
+     split                            model  matches  accuracy      auc  log_loss  brier_score  validation_rank
+validation Logistic Regression (calibrated)      392  0.642857 0.701546  0.629987      0.21818                1
+
+Selected model test metrics:
+split                                      test
+model          Logistic Regression (calibrated)
+matches                                     380
+accuracy                               0.586842
+auc                                    0.614067
+log_loss                               0.731969
+brier_score                            0.261498
+
+Important:
+The model was selected using validation metrics only.
+Test metrics are reported for final assessment and were not
+used to choose the model.

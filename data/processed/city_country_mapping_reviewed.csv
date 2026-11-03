@@ -1,0 +1,150 @@
+city,country,mapping_status,notes,present_in_master
+Aberdeen,Scotland,REVIEWED,Scotland; UK constituent country,TRUE
+Abu Dhabi,United Arab Emirates,REVIEWED,,TRUE
+Adelaide,Australia,REVIEWED,,TRUE
+Ahmedabad,India,REVIEWED,,TRUE
+Al Amarat,Oman,REVIEWED,Also spelled Al Amerat,TRUE
+Amstelveen,Netherlands,REVIEWED,,TRUE
+Antigua,Antigua and Barbuda,REVIEWED,West Indies territory; team-home logic handled separately,TRUE
+Auckland,New Zealand,REVIEWED,,TRUE
+Ayr,Scotland,REVIEWED,"Scotland, not England",TRUE
+Bangalore,India,REVIEWED,Alias of Bengaluru,TRUE
+Bangi,Malaysia,REVIEWED,,TRUE
+Barbados,Barbados,REVIEWED,West Indies territory; team-home logic handled separately,TRUE
+Basseterre,Saint Kitts and Nevis,REVIEWED,,TRUE
+Belfast,Northern Ireland,REVIEWED,UK; cricket home-region requires separate handling,TRUE
+Bengaluru,India,REVIEWED,Alias of Bangalore,TRUE
+Benoni,South Africa,REVIEWED,,TRUE
+Birmingham,England,REVIEWED,UK; England/Wales team representation is combined,TRUE
+Bloemfontein,South Africa,REVIEWED,,TRUE
+Bogra,Bangladesh,REVIEWED,,TRUE
+Bready,Northern Ireland,REVIEWED,UK; cricket home-region requires separate handling,TRUE
+Bridgetown,Barbados,REVIEWED,,TRUE
+Brisbane,Australia,REVIEWED,,TRUE
+Bristol,England,REVIEWED,,TRUE
+Bulawayo,Zimbabwe,REVIEWED,,TRUE
+Cairns,Australia,REVIEWED,,TRUE
+Canberra,Australia,REVIEWED,,TRUE
+Canterbury,England,REVIEWED,"Canterbury, Kent",TRUE
+Cape Town,South Africa,REVIEWED,,TRUE
+Cardiff,Wales,REVIEWED,UK; England/Wales team representation is combined,TRUE
+Centurion,South Africa,REVIEWED,,TRUE
+Chandigarh,India,REVIEWED,,TRUE
+Chattogram,Bangladesh,REVIEWED,Alias of Chittagong,TRUE
+Chelmsford,England,REVIEWED,,TRUE
+Chennai,India,REVIEWED,,TRUE
+Chester-le-Street,England,REVIEWED,,TRUE
+Chittagong,Bangladesh,REVIEWED,Alias of Chattogram,TRUE
+Christchurch,New Zealand,REVIEWED,,TRUE
+Colombo,Sri Lanka,REVIEWED,,TRUE
+Cuttack,India,REVIEWED,,TRUE
+Dallas,United States,REVIEWED,,TRUE
+Dambulla,Sri Lanka,REVIEWED,,TRUE
+Darwin,Australia,REVIEWED,,TRUE
+Delhi,India,REVIEWED,,TRUE
+Deventer,Netherlands,REVIEWED,,TRUE
+Dhaka,Bangladesh,REVIEWED,,TRUE
+Dharamsala,India,REVIEWED,Alias of Dharmasala,TRUE
+Dharmasala,India,REVIEWED,Alias of Dharamsala,TRUE
+Dominica,Dominica,REVIEWED,West Indies territory; team-home logic handled separately,TRUE
+Dubai,United Arab Emirates,REVIEWED,,TRUE
+Dublin,Ireland,REVIEWED,,TRUE
+Dundee,Scotland,REVIEWED,,TRUE
+Dunedin,New Zealand,REVIEWED,,TRUE
+Durban,South Africa,REVIEWED,,TRUE
+East London,South Africa,REVIEWED,Buffalo Park; not England,TRUE
+Edinburgh,Scotland,REVIEWED,,TRUE
+Faisalabad,Pakistan,REVIEWED,,TRUE
+Faridabad,India,REVIEWED,,TRUE
+Fatullah,Bangladesh,REVIEWED,,TRUE
+Glasgow,Scotland,REVIEWED,,TRUE
+Gqeberha,South Africa,REVIEWED,Formerly Port Elizabeth,TRUE
+Grenada,Grenada,REVIEWED,West Indies territory; team-home logic handled separately,TRUE
+Gros Islet,Saint Lucia,REVIEWED,,TRUE
+Guwahati,India,REVIEWED,,TRUE
+Guyana,Guyana,REVIEWED,,TRUE
+Gwalior,India,REVIEWED,,TRUE
+Hambantota,Sri Lanka,REVIEWED,,TRUE
+Hamilton,New Zealand,REVIEWED,,TRUE
+Harare,Zimbabwe,REVIEWED,,TRUE
+Hobart,Australia,REVIEWED,,TRUE
+Hong Kong,Hong Kong,REVIEWED,Special Administrative Region; do not merge with mainland China,TRUE
+Hyderabad,India,REVIEWED,,TRUE
+Indore,India,REVIEWED,,TRUE
+Jaipur,India,REVIEWED,,TRUE
+Jamaica,Jamaica,REVIEWED,West Indies territory; team-home logic handled separately,TRUE
+Jamshedpur,India,REVIEWED,,TRUE
+Johannesburg,South Africa,REVIEWED,,TRUE
+Kandy,Sri Lanka,REVIEWED,,TRUE
+Kanpur,India,REVIEWED,,TRUE
+Karachi,Pakistan,REVIEWED,,TRUE
+Kathmandu,Nepal,REVIEWED,,TRUE
+Khulna,Bangladesh,REVIEWED,,TRUE
+Kimberley,South Africa,REVIEWED,,TRUE
+King City,Canada,REVIEWED,,TRUE
+Kingston,Jamaica,REVIEWED,,TRUE
+Kingstown,Saint Vincent and the Grenadines,REVIEWED,,TRUE
+Kirtipur,Nepal,REVIEWED,,TRUE
+Kochi,India,REVIEWED,,TRUE
+Kolkata,India,REVIEWED,,TRUE
+Kuala Lumpur,Malaysia,REVIEWED,,TRUE
+Lahore,Pakistan,REVIEWED,,TRUE
+Lauderhill,United States,REVIEWED,Florida,TRUE
+Leeds,England,REVIEWED,,TRUE
+Lincoln,New Zealand,REVIEWED,"Lincoln, Canterbury",TRUE
+London,England,REVIEWED,,TRUE
+Lucknow,India,REVIEWED,,TRUE
+Mackay,Australia,REVIEWED,,TRUE
+Manchester,England,REVIEWED,,TRUE
+Margao,India,REVIEWED,,TRUE
+Melbourne,Australia,REVIEWED,,TRUE
+Mirpur,Bangladesh,REVIEWED,Dhaka,TRUE
+Mount Maunganui,New Zealand,REVIEWED,,TRUE
+Multan,Pakistan,REVIEWED,,TRUE
+Mumbai,India,REVIEWED,,TRUE
+Nagpur,India,REVIEWED,,TRUE
+Nairobi,Kenya,REVIEWED,,TRUE
+Napier,New Zealand,REVIEWED,,TRUE
+Nelson,New Zealand,REVIEWED,,TRUE
+New Chandigarh,India,REVIEWED,,TRUE
+North Sound,Antigua and Barbuda,REVIEWED,,TRUE
+Nottingham,England,REVIEWED,,TRUE
+Paarl,South Africa,REVIEWED,,TRUE
+Pearland,United States,REVIEWED,Texas,TRUE
+Perth,Australia,REVIEWED,,TRUE
+Peshawar,Pakistan,REVIEWED,,TRUE
+Pietermaritzburg,South Africa,REVIEWED,,TRUE
+Port Elizabeth,South Africa,REVIEWED,Alias of Gqeberha,TRUE
+Port Moresby,Papua New Guinea,REVIEWED,,TRUE
+Port of Spain,Trinidad and Tobago,REVIEWED,,TRUE
+Potchefstroom,South Africa,REVIEWED,,TRUE
+Providence,Guyana,REVIEWED,Providence Stadium,TRUE
+Pune,India,REVIEWED,,TRUE
+Queenstown,New Zealand,REVIEWED,,TRUE
+Raipur,India,REVIEWED,,TRUE
+Rajkot,India,REVIEWED,,TRUE
+Ranchi,India,REVIEWED,,TRUE
+Rawalpindi,Pakistan,REVIEWED,,TRUE
+Rotterdam,Netherlands,REVIEWED,,TRUE
+Sharjah,United Arab Emirates,REVIEWED,,TRUE
+Sind,Pakistan,REVIEWED,,TRUE
+Southampton,England,REVIEWED,,TRUE
+St George's,Grenada,REVIEWED,,TRUE
+St Kitts,Saint Kitts and Nevis,REVIEWED,,TRUE
+St Lucia,Saint Lucia,REVIEWED,,TRUE
+St Vincent,Saint Vincent and the Grenadines,REVIEWED,,TRUE
+Sydney,Australia,REVIEWED,,TRUE
+Sylhet,Bangladesh,REVIEWED,,TRUE
+Tarouba,Trinidad and Tobago,REVIEWED,,TRUE
+Taunton,England,REVIEWED,,TRUE
+The Hague,Netherlands,REVIEWED,,TRUE
+Thiruvananthapuram,India,REVIEWED,,TRUE
+Toronto,Canada,REVIEWED,,TRUE
+Townsville,Australia,REVIEWED,,TRUE
+Trinidad,Trinidad and Tobago,REVIEWED,,TRUE
+Utrecht,Netherlands,REVIEWED,,TRUE
+Vadodara,India,REVIEWED,,TRUE
+Visakhapatnam,India,REVIEWED,,TRUE
+Wellington,New Zealand,REVIEWED,,TRUE
+Whangarei,New Zealand,REVIEWED,,TRUE
+Windhoek,Namibia,REVIEWED,,TRUE

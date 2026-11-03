@@ -1,0 +1,37 @@
+ODI FINAL MODEL EVALUATION
+===========================================================================
+
+Chronological split by unique date was used.
+Calibration was fitted using a later chronological training window.
+Validation was used to select the candidate model.
+The test set was evaluated after method selection.
+
+VALIDATION RESULTS
+                             method  accuracy      auc  log_loss  brier_score
+           50% probability baseline  0.540816 0.500000  0.693147     0.250000
+       Raw Elo expected probability  0.591837 0.668920  0.642061     0.226074
+   Uncalibrated Logistic Regression  0.658163 0.701546  0.650381     0.222330
+Chronology-safe sigmoid calibration  0.642857 0.701546  0.629987     0.218180
+
+Selected method based on validation log loss: Chronology-safe sigmoid calibration
+
+FINAL TEST RESULTS
+                             method  accuracy      auc  log_loss  brier_score
+           50% probability baseline  0.489474 0.500000  0.693147     0.250000
+       Raw Elo expected probability  0.594737 0.632219  0.668920     0.237820
+   Uncalibrated Logistic Regression  0.565789 0.614067  0.785243     0.275758
+Chronology-safe sigmoid calibration  0.586842 0.614067  0.731969     0.261498
+
+Interpretation:
+- AUC measures ranking ability; higher is better.
+- Log loss and Brier score measure probability quality; lower is better.
+- Accuracy is measured using a 0.5 probability threshold.
+- Raw Elo is a meaningful strength-based benchmark.
+- The 50% baseline is a simple reference benchmark.
+- Results apply to this historical test period and may not
+  generalize perfectly to the 2027 World Cup.
+
+Important limitation:
+The base model was trained on the earlier 80% of the training period.
+The later 20% was reserved for calibration, so the base model does
+not use all pre-validation training matches.

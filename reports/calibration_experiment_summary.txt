@@ -1,0 +1,17 @@
+ODI CALIBRATION EXPERIMENT SUMMARY
+============================================================
+
+Calibration methods were compared on chronological validation data.
+The test set was not used.
+
+                          method  accuracy      auc  log_loss  brier_score
+             Sigmoid calibration  0.665816 0.706053  0.629924     0.217371
+Uncalibrated Logistic Regression  0.673469 0.707075  0.632168     0.217320
+            Isotonic calibration  0.660714 0.703184  0.642660     0.218200
+
+Best validation method: Sigmoid calibration
+Log loss: 0.6299
+Brier score: 0.2174
+
+Lower log loss and Brier score indicate better probability quality.
+AUC measures ranking ability; calibration does not necessarily improve it.

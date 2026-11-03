@@ -1,0 +1,3 @@
+   model      split  matches  mean_predicted_probability  actual_team_1_win_rate  log_loss  brier_score  expected_calibration_error_10_bins
+Elo K=20 validation      392                    0.505456                0.540816  0.642061     0.226074                            0.084049
+Elo K=20       test      380                    0.495773                0.489474  0.668920     0.237820                            0.076269

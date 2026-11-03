@@ -1,0 +1,19 @@
+ODI FEATURE EXPERIMENT SUMMARY
+============================================================
+
+Selection was based on chronological validation data only.
+The test set was not used in these experiments.
+
+Results ranked by log loss, then Brier score:
+
+                                      experiment  feature_count  accuracy      auc  log_loss  brier_score
+Current baseline: Elo + recent form + experience              8  0.673469 0.707075  0.632168     0.217320
+                               Elo + recent form              6  0.640306 0.680084  0.634912     0.221240
+                                        Elo only              3  0.632653 0.670362  0.640817     0.223978
+                                Recent form only              3  0.602041 0.630398  0.663970     0.235614
+
+Best validation experiment: Current baseline: Elo + recent form + experience
+Best validation log loss: 0.6322
+Best validation Brier score: 0.2173
+
+Important: This is a feature-selection result, not final test performance.

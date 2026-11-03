@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.streamlit/secrets.toml
+
+# Raw source datasets (large)
+data/raw/
+
+# Keep processed data, model artifacts, and tournament results

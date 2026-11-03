@@ -1,0 +1,72 @@
+ODI MASTER DATASET VALIDATION
+================================================================================
+
+PRIMARY DATASET FINDINGS
+--------------------------------------------------------------------------------
+Primary match rows: 2,607
+Date range: 2002-06-27 00:00:00 to 2026-10-25 00:00:00
+Missing dates: 0
+Missing winners: 130
+
+Result-type counts:
+  win: 2,477
+  no_result: 103
+  tie: 27
+
+Duplicate match IDs: 0
+Rows involved in repeated date/team combinations: 0
+
+Most common teams:
+  India: 529 appearances
+  Sri Lanka: 493 appearances
+  Australia: 482 appearances
+  England: 452 appearances
+  Pakistan: 422 appearances
+  New Zealand: 398 appearances
+  West Indies: 396 appearances
+  South Africa: 395 appearances
+  Bangladesh: 334 appearances
+  Zimbabwe: 285 appearances
+  Ireland: 139 appearances
+  United Arab Emirates: 122 appearances
+  Scotland: 120 appearances
+  Netherlands: 97 appearances
+  Nepal: 94 appearances
+
+SECONDARY SOURCE COMPARISON
+--------------------------------------------------------------------------------
+Secondary CSV rows: 2,379
+Primary unique comparison keys: 2,607
+Secondary unique comparison keys: 2,379
+Matching date/team combinations: 2,240
+Keys only in primary JSON source: 367
+Keys only in secondary CSV source: 139
+
+Secondary CSV result values:
+  normal: 2,178
+  D/L: 201
+
+Secondary CSV winner status:
+  Winner present: 2,259
+  Winner missing: 120
+
+MASTER DATASET COLUMNS
+--------------------------------------------------------------------------------
+match_id
+date
+team_1
+team_2
+winner
+result_type
+result_detail
+method
+margin_type
+margin_value
+toss_winner
+toss_decision
+venue
+city
+event_name
+match_type
+gender
+source

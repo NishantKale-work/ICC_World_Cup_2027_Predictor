@@ -1,0 +1,5 @@
+experiment,feature_count,features,accuracy,auc,log_loss,brier_score
+Current baseline: Elo + recent form + experience,8,"team_1_elo, team_2_elo, elo_difference, team_1_recent_form, team_2_recent_form, recent_form_difference, team_1_matches_played, team_2_matches_played",0.673469387755102,0.7070754716981131,0.6321679994559708,0.21732006895253106
+Elo + recent form,6,"team_1_elo, team_2_elo, elo_difference, team_1_recent_form, team_2_recent_form, recent_form_difference",0.6403061224489796,0.6800838574423481,0.6349123680208003,0.221239883620353
+Elo only,3,"team_1_elo, team_2_elo, elo_difference",0.6326530612244898,0.6703616352201258,0.6408168530660763,0.22397828136123898
+Recent form only,3,"team_1_recent_form, team_2_recent_form, recent_form_difference",0.6020408163265306,0.630398322851153,0.6639696617288223,0.23561356898632455

@@ -1,0 +1,47 @@
+WORLD CUP 2027 VENUE FEATURE VALIDATION
+=================================================================
+Input rows: 2,607
+Working World Cup teams: 14
+Matches with both teams in working set: 2,161
+Date range: 2002-06-27 to 2026-10-25
+Unique match IDs: 2,161
+Duplicate match IDs: 0
+Dates with multiple matches: 349
+
+Target validation:
+Decided matches: 2,048
+Excluded no-result/tie/invalid-winner matches: 113
+Target 1 (team_1 wins): 1,129
+Target 0 (team_2 wins): 919
+
+Venue feature validation:
+Missing venue familiarity features: 0
+Missing home features: 0
+Team 1 home flags: 1,400
+Team 2 home flags: 322
+
+Home-venue rule validation:
+Afghanistan: 0 home-venue matches
+Australia: 183 home-venue matches
+Bangladesh: 151 home-venue matches
+England: 202 home-venue matches
+India: 194 home-venue matches
+Ireland: 46 home-venue matches
+Netherlands: 19 home-venue matches
+New Zealand: 163 home-venue matches
+Pakistan: 92 home-venue matches
+Scotland: 10 home-venue matches
+South Africa: 173 home-venue matches
+Sri Lanka: 185 home-venue matches
+West Indies: 170 home-venue matches
+Zimbabwe: 134 home-venue matches
+
+Leakage protection:
+Venue familiarity features use only matches before the current date.
+All matches on a date use the same start-of-day venue-count snapshot.
+Venue appearance counts are updated after feature creation for the date.
+Historical matches against teams outside the 14-team set may contribute to venue familiarity, but are not included in the output rows.
+
+Ireland home-country rule:
+Ireland home venues are restricted to Ireland and Northern Ireland.
+England, Scotland, Wales, and other countries do not count as Ireland home venues.

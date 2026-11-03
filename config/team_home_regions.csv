@@ -1,0 +1,15 @@
+﻿team,home_region,mapping_status,notes
+Afghanistan,Afghanistan,REVIEWED,National team
+Australia,Australia,REVIEWED,National team
+Bangladesh,Bangladesh,REVIEWED,National team
+England,England,REVIEWED,England team home region
+India,India,REVIEWED,National team
+Ireland,Ireland,REVIEWED,Island of Ireland; includes Republic of Ireland and Northern Ireland venues
+Netherlands,Netherlands,REVIEWED,National team
+New Zealand,New Zealand,REVIEWED,National team
+Pakistan,Pakistan,REVIEWED,National team
+Scotland,Scotland,REVIEWED,Scotland team home region
+South Africa,South Africa,REVIEWED,National team
+Sri Lanka,Sri Lanka,REVIEWED,National team
+West Indies,,REVIEW_REQUIRED,Composite team; requires territory-level home-region logic
+Zimbabwe,Zimbabwe,REVIEWED,National team

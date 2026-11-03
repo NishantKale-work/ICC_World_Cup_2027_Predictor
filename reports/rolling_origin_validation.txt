@@ -1,0 +1,64 @@
+ROLLING-ORIGIN VALIDATION REPORT
+===========================================================================
+Input: C:\Users\dhana\PycharmProjects\PythonProject\ICC Cricket World Cup 2027 Predictor\data\processed\odi_features_with_venue_merged.csv
+
+Method:
+For each test window, training uses only earlier matches. The immediately preceding four years are used for sigmoid calibration, and the following two years are used for test.
+All three models are evaluated on the same test matches within each window.
+
+Window-level results:
+---------------------------------------------------------------------------
+Window 1 | 2017-01-01 to 2018-12-31 | Baseline LR (calibrated)
+  N=177 | Accuracy=0.638418 | AUC=0.748404 | LogLoss=0.637011 | Brier=0.221678
+
+Window 1 | 2017-01-01 to 2018-12-31 | Venue LR (calibrated)
+  N=177 | Accuracy=0.632768 | AUC=0.734610 | LogLoss=0.646156 | Brier=0.226060
+
+Window 1 | 2017-01-01 to 2018-12-31 | Raw Elo K20
+  N=177 | Accuracy=0.728814 | AUC=0.770370 | LogLoss=0.578347 | Brier=0.195756
+
+Window 2 | 2019-01-01 to 2020-12-31 | Baseline LR (calibrated)
+  N=131 | Accuracy=0.755725 | AUC=0.702747 | LogLoss=0.549312 | Brier=0.177366
+
+Window 2 | 2019-01-01 to 2020-12-31 | Venue LR (calibrated)
+  N=131 | Accuracy=0.763359 | AUC=0.711538 | LogLoss=0.548410 | Brier=0.178131
+
+Window 2 | 2019-01-01 to 2020-12-31 | Raw Elo K20
+  N=131 | Accuracy=0.694656 | AUC=0.696703 | LogLoss=0.597929 | Brier=0.203506
+
+Window 3 | 2021-01-01 to 2022-12-31 | Baseline LR (calibrated)
+  N=122 | Accuracy=0.672131 | AUC=0.730603 | LogLoss=0.643204 | Brier=0.222121
+
+Window 3 | 2021-01-01 to 2022-12-31 | Venue LR (calibrated)
+  N=122 | Accuracy=0.680328 | AUC=0.729795 | LogLoss=0.643546 | Brier=0.218286
+
+Window 3 | 2021-01-01 to 2022-12-31 | Raw Elo K20
+  N=122 | Accuracy=0.598361 | AUC=0.712554 | LogLoss=0.624044 | Brier=0.218374
+
+Window 4 | 2023-01-01 to 2024-12-31 | Baseline LR (calibrated)
+  N=164 | Accuracy=0.628049 | AUC=0.707662 | LogLoss=0.658697 | Brier=0.233577
+
+Window 4 | 2023-01-01 to 2024-12-31 | Venue LR (calibrated)
+  N=164 | Accuracy=0.658537 | AUC=0.730918 | LogLoss=0.625197 | Brier=0.219589
+
+Window 4 | 2023-01-01 to 2024-12-31 | Raw Elo K20
+  N=164 | Accuracy=0.628049 | AUC=0.681872 | LogLoss=0.645801 | Brier=0.226586
+
+Window 5 | 2025-01-01 to 2026-12-31 | Baseline LR (calibrated)
+  N=118 | Accuracy=0.525424 | AUC=0.566379 | LogLoss=0.698082 | Brier=0.252321
+
+Window 5 | 2025-01-01 to 2026-12-31 | Venue LR (calibrated)
+  N=118 | Accuracy=0.542373 | AUC=0.603736 | LogLoss=0.678209 | Brier=0.243085
+
+Window 5 | 2025-01-01 to 2026-12-31 | Raw Elo K20
+  N=118 | Accuracy=0.567797 | AUC=0.599425 | LogLoss=0.691002 | Brier=0.248455
+
+Mean and standard deviation across windows:
+---------------------------------------------------------------------------
+                   model  accuracy_mean  accuracy_std  roc_auc_mean  roc_auc_std  log_loss_mean  log_loss_std  brier_score_mean  brier_score_std
+Baseline LR (calibrated)       0.643949      0.083096      0.691159     0.072127       0.637261      0.054610          0.221412         0.027586
+             Raw Elo K20       0.643535      0.066900      0.692185     0.061764       0.627425      0.043789          0.218536         0.020645
+   Venue LR (calibrated)       0.655473      0.079959      0.702120     0.055720       0.628304      0.048565          0.217030         0.023883
+
+Interpretation caution:
+Rolling-origin results provide a stronger view of temporal consistency, but they do not guarantee future performance. Windows may differ in size and cricket conditions. Compare models on the same windows and inspect each window rather than relying only on averages.

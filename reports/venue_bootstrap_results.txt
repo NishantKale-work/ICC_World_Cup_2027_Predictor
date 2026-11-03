@@ -1,0 +1,40 @@
+DATE-CLUSTERED PAIRED BOOTSTRAP
+======================================================================
+Test matches: 240
+Unique test dates: 213
+Bootstrap resamples: 2,000
+Random seed: 42
+Confidence interval: 95%
+
+Difference is venue model minus baseline model. Positive is better for accuracy/AUC; negative is better for log loss/Brier.
+
+accuracy
+  Baseline: 0.591667 | Venue: 0.612500
+  Difference: 0.020833
+  95% CI: [-0.012767, 0.056034]
+  Valid replicates: 2000/2000
+  Interpretation: CI crosses zero; difference is uncertain
+
+roc_auc
+  Baseline: 0.631788 | Venue: 0.658800
+  Difference: 0.027012
+  95% CI: [0.000574, 0.051558]
+  Valid replicates: 2000/2000
+  Interpretation: CI excludes zero
+
+log_loss
+  Baseline: 0.695453 | Venue: 0.667237
+  Difference: -0.028215
+  95% CI: [-0.044464, -0.011604]
+  Valid replicates: 2000/2000
+  Interpretation: CI excludes zero
+
+brier_score
+  Baseline: 0.249593 | Venue: 0.237941
+  Difference: -0.011652
+  95% CI: [-0.018983, -0.004020]
+  Valid replicates: 2000/2000
+  Interpretation: CI excludes zero
+
+Important limitation:
+This bootstrap estimates uncertainty conditional on the current test period and fitted models. It does not undo prior inspection of the test set or establish that the improvement will generalize to future matches.

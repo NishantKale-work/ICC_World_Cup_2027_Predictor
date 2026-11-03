@@ -1,0 +1,2162 @@
+match_id,date,team_1,team_2,city_resolved,country_resolved,team_1_venue_matches,team_2_venue_matches,venue_familiarity_difference,team_1_home,team_2_home,home_advantage_difference,target
+66283,2002-06-27,England,Sri Lanka,Nottingham,England,0,0,0,1,0,1,1.0
+66284,2002-06-29,England,India,London,England,0,0,0,1,0,1,0.0
+64814,2002-12-29,New Zealand,India,Napier,New Zealand,0,0,0,1,0,1,1.0
+64815,2003-01-01,India,New Zealand,Christchurch,New Zealand,0,0,0,0,1,-1,0.0
+64816,2003-01-04,India,New Zealand,Queenstown,New Zealand,0,0,0,0,1,-1,0.0
+64817,2003-01-08,New Zealand,India,Wellington,New Zealand,0,0,0,1,0,1,0.0
+65634,2003-01-09,Sri Lanka,Australia,Sydney,Australia,0,0,0,0,1,-1,1.0
+65635,2003-01-11,Australia,England,Hobart,Australia,0,0,0,1,0,1,1.0
+65636,2003-01-13,Sri Lanka,England,Sydney,Australia,1,0,1,0,0,0,1.0
+64819,2003-01-14,India,New Zealand,Hamilton,New Zealand,0,0,0,0,1,-1,0.0
+65637,2003-01-15,Sri Lanka,Australia,Brisbane,Australia,0,0,0,0,1,-1,0.0
+65638,2003-01-17,England,Sri Lanka,Adelaide,Australia,0,0,0,0,0,0,1.0
+65639,2003-01-19,England,Australia,Adelaide,Australia,1,0,1,0,1,-1,0.0
+65640,2003-01-21,Sri Lanka,Australia,Melbourne,Australia,0,0,0,0,1,-1,0.0
+65641,2003-01-23,England,Australia,Sydney,Australia,1,1,0,0,1,-1,0.0
+65642,2003-01-25,Australia,England,Melbourne,Australia,1,0,1,1,0,1,1.0
+65235,2003-02-09,West Indies,South Africa,Cape Town,South Africa,0,0,0,0,1,-1,1.0
+65237,2003-02-10,Sri Lanka,New Zealand,Bloemfontein,South Africa,0,0,0,0,0,0,1.0
+65238,2003-02-11,Australia,Pakistan,Johannesburg,South Africa,0,0,0,0,0,0,1.0
+65241,2003-02-12,India,Netherlands,Paarl,South Africa,0,0,0,0,0,0,1.0
+65242,2003-02-13,New Zealand,West Indies,Gqeberha,South Africa,0,0,0,0,0,0,1.0
+65244,2003-02-15,India,Australia,Centurion,South Africa,0,0,0,0,0,0,0.0
+65246,2003-02-16,Netherlands,England,East London,South Africa,0,0,0,0,0,0,0.0
+65248,2003-02-16,South Africa,New Zealand,Johannesburg,South Africa,0,0,0,1,0,1,0.0
+65249,2003-02-18,West Indies,Bangladesh,Benoni,South Africa,0,0,0,0,0,0,
+65250,2003-02-19,India,Zimbabwe,Harare,Zimbabwe,0,1,-1,0,1,-1,1.0
+65254,2003-02-22,Bangladesh,South Africa,Bloemfontein,South Africa,0,0,0,0,1,-1,0.0
+65255,2003-02-22,England,Pakistan,Cape Town,South Africa,0,0,0,0,0,0,1.0
+65259,2003-02-24,Zimbabwe,Australia,Bulawayo,Zimbabwe,0,0,0,1,0,1,0.0
+65260,2003-02-25,Pakistan,Netherlands,Paarl,South Africa,0,1,-1,0,0,0,1.0
+65261,2003-02-26,Bangladesh,New Zealand,Kimberley,South Africa,0,0,0,0,0,0,0.0
+65262,2003-02-26,India,England,Durban,South Africa,0,0,0,0,0,0,1.0
+65265,2003-02-28,Zimbabwe,Netherlands,Bulawayo,Zimbabwe,1,0,1,1,0,1,1.0
+65266,2003-02-28,Sri Lanka,West Indies,Cape Town,South Africa,0,1,-1,0,0,0,1.0
+65268,2003-03-01,Pakistan,India,Centurion,South Africa,0,1,-1,0,0,0,0.0
+65269,2003-03-02,England,Australia,Gqeberha,South Africa,1,0,1,0,0,0,0.0
+65272,2003-03-03,Sri Lanka,South Africa,Durban,South Africa,0,0,0,0,1,-1,
+65273,2003-03-04,Pakistan,Zimbabwe,Bulawayo,Zimbabwe,0,2,-2,0,1,-1,
+65275,2003-03-07,Australia,Sri Lanka,Centurion,South Africa,1,0,1,0,0,0,1.0
+65277,2003-03-08,Zimbabwe,New Zealand,Bloemfontein,South Africa,0,1,-1,0,0,0,0.0
+65278,2003-03-10,India,Sri Lanka,Johannesburg,South Africa,0,0,0,0,0,0,1.0
+65279,2003-03-11,Australia,New Zealand,Gqeberha,South Africa,1,1,0,0,0,0,1.0
+65281,2003-03-14,New Zealand,India,Centurion,South Africa,0,2,-2,0,0,0,0.0
+65282,2003-03-15,Sri Lanka,Zimbabwe,East London,South Africa,0,0,0,0,0,0,1.0
+65284,2003-03-18,Australia,Sri Lanka,Gqeberha,South Africa,2,0,2,0,0,0,1.0
+65286,2003-03-23,Australia,India,Johannesburg,South Africa,1,1,0,0,0,0,1.0
+65803,2003-04-03,Pakistan,Zimbabwe,Sharjah,United Arab Emirates,0,0,0,0,0,0,1.0
+65804,2003-04-04,Sri Lanka,Pakistan,Sharjah,United Arab Emirates,0,1,-1,0,0,0,0.0
+65807,2003-04-07,Sri Lanka,Zimbabwe,Sharjah,United Arab Emirates,2,2,0,0,0,0,0.0
+65809,2003-04-10,Zimbabwe,Pakistan,Sharjah,United Arab Emirates,3,3,0,0,0,0,0.0
+66356,2003-04-21,India,South Africa,Dhaka,Bangladesh,0,0,0,0,0,0,
+66357,2003-05-10,Pakistan,Sri Lanka,Dambulla,Sri Lanka,0,0,0,0,1,-1,1.0
+66358,2003-05-11,Pakistan,New Zealand,Dambulla,Sri Lanka,1,0,1,0,0,0,0.0
+64820,2003-05-17,Australia,West Indies,Kingston,Jamaica,0,0,0,0,1,-1,1.0
+66361,2003-05-19,New Zealand,Sri Lanka,Dambulla,Sri Lanka,1,1,0,0,1,-1,1.0
+66363,2003-05-23,Pakistan,New Zealand,Dambulla,Sri Lanka,2,2,0,0,0,0,0.0
+64825,2003-05-30,Australia,West Indies,St George's,Grenada,0,0,0,0,1,-1,0.0
+64826,2003-06-01,Australia,West Indies,St George's,Grenada,1,1,0,0,1,-1,0.0
+64827,2003-06-07,Sri Lanka,West Indies,Bridgetown,Barbados,0,0,0,0,1,-1,1.0
+64829,2003-06-11,Sri Lanka,West Indies,Kingstown,Saint Vincent and the Grenadines,0,0,0,0,1,-1,0.0
+65029,2003-06-17,England,Pakistan,Manchester,England,0,0,0,1,0,1,0.0
+65030,2003-06-20,Pakistan,England,London,England,0,1,-1,0,1,-1,0.0
+65031,2003-06-22,Pakistan,England,London,England,1,2,-1,0,1,-1,0.0
+66293,2003-06-26,England,Zimbabwe,Nottingham,England,1,0,1,1,0,1,0.0
+66294,2003-06-28,South Africa,England,London,England,0,3,-3,0,1,-1,0.0
+66295,2003-06-29,South Africa,Zimbabwe,Canterbury,England,0,0,0,0,0,0,1.0
+66296,2003-07-01,England,Zimbabwe,Leeds,England,0,0,0,1,0,1,
+66297,2003-07-03,England,South Africa,Manchester,England,1,0,1,1,0,1,0.0
+66299,2003-07-06,Zimbabwe,England,Bristol,England,0,0,0,0,1,-1,0.0
+66301,2003-07-10,Zimbabwe,South Africa,Southampton,England,0,0,0,0,0,0,0.0
+66302,2003-07-12,South Africa,England,London,England,1,4,-3,0,1,-1,0.0
+64830,2003-08-02,Bangladesh,Australia,Cairns,Australia,0,0,0,0,1,-1,0.0
+64831,2003-08-03,Bangladesh,Australia,Cairns,Australia,1,1,0,0,1,-1,0.0
+64832,2003-08-06,Australia,Bangladesh,Darwin,Australia,0,0,0,1,0,1,1.0
+64833,2003-09-09,Pakistan,Bangladesh,Multan,Pakistan,0,0,0,1,0,1,1.0
+64836,2003-09-18,Bangladesh,Pakistan,Rawalpindi,Pakistan,0,0,0,0,1,-1,0.0
+64837,2003-09-21,Pakistan,Bangladesh,Karachi,Pakistan,0,0,0,1,0,1,1.0
+64838,2003-10-03,Pakistan,South Africa,Lahore,Pakistan,0,0,0,1,0,1,1.0
+64839,2003-10-05,Pakistan,South Africa,Lahore,Pakistan,1,1,0,1,0,1,1.0
+64840,2003-10-07,Pakistan,South Africa,Faisalabad,Pakistan,0,0,0,1,0,1,0.0
+64841,2003-10-10,Pakistan,South Africa,Rawalpindi,Pakistan,1,0,1,1,0,1,0.0
+64842,2003-10-12,Pakistan,South Africa,Rawalpindi,Pakistan,2,1,1,1,0,1,0.0
+66364,2003-10-23,India,New Zealand,Chennai,India,0,0,0,1,0,1,
+66365,2003-10-26,India,Australia,Gwalior,India,0,0,0,1,0,1,1.0
+66366,2003-10-29,New Zealand,Australia,Faridabad,India,0,0,0,0,0,0,0.0
+66367,2003-11-01,Australia,India,Mumbai,India,0,0,0,0,1,-1,1.0
+66368,2003-11-03,New Zealand,Australia,Pune,India,0,0,0,0,0,0,0.0
+66369,2003-11-06,India,New Zealand,Cuttack,India,0,0,0,1,0,1,0.0
+64843,2003-11-07,Bangladesh,England,Chattogram,Bangladesh,0,0,0,1,0,1,0.0
+64844,2003-11-10,Bangladesh,England,Dhaka,Bangladesh,0,0,0,1,0,1,0.0
+64845,2003-11-12,Bangladesh,England,Dhaka,Bangladesh,1,1,0,1,0,1,0.0
+66372,2003-11-15,India,New Zealand,Hyderabad,India,0,0,0,1,0,1,1.0
+64846,2003-11-18,England,Sri Lanka,Dambulla,Sri Lanka,0,2,-2,0,1,-1,0.0
+64848,2003-11-23,West Indies,Zimbabwe,Bulawayo,Zimbabwe,0,3,-3,0,1,-1,0.0
+64849,2003-11-26,Zimbabwe,West Indies,Harare,Zimbabwe,2,0,2,1,0,1,1.0
+64850,2003-11-29,New Zealand,Pakistan,Lahore,Pakistan,0,2,-2,0,1,-1,0.0
+64851,2003-11-29,West Indies,Zimbabwe,Harare,Zimbabwe,1,3,-2,0,1,-1,1.0
+64852,2003-11-30,Zimbabwe,West Indies,Harare,Zimbabwe,4,2,2,1,0,1,0.0
+64853,2003-12-01,Pakistan,New Zealand,Lahore,Pakistan,3,1,2,1,0,1,1.0
+64855,2003-12-05,New Zealand,Pakistan,Rawalpindi,Pakistan,0,3,-3,0,1,-1,0.0
+64857,2004-01-03,Pakistan,New Zealand,Auckland,New Zealand,0,0,0,0,1,-1,0.0
+65643,2004-01-09,Australia,India,Melbourne,Australia,2,0,2,1,0,1,1.0
+65644,2004-01-11,Australia,Zimbabwe,Sydney,Australia,2,0,2,1,0,1,1.0
+65645,2004-01-14,Zimbabwe,India,Hobart,Australia,0,0,0,0,0,0,0.0
+65646,2004-01-16,Australia,Zimbabwe,Hobart,Australia,1,1,0,1,0,1,1.0
+65647,2004-01-18,India,Australia,Brisbane,Australia,0,1,-1,0,1,-1,1.0
+65648,2004-01-20,India,Zimbabwe,Brisbane,Australia,1,0,1,0,0,0,1.0
+65649,2004-01-22,India,Australia,Sydney,Australia,0,3,-3,0,1,-1,0.0
+64862,2004-01-25,South Africa,West Indies,Cape Town,South Africa,1,2,-1,1,0,1,1.0
+65652,2004-01-29,Australia,Zimbabwe,Melbourne,Australia,3,0,3,1,0,1,
+64864,2004-01-30,West Indies,South Africa,Durban,South Africa,0,1,-1,0,1,-1,
+64865,2004-02-01,South Africa,West Indies,Centurion,South Africa,0,1,-1,1,0,1,0.0
+65653,2004-02-01,India,Australia,Perth,Australia,0,0,0,0,1,-1,0.0
+65655,2004-02-06,India,Australia,Melbourne,Australia,1,4,-3,0,1,-1,0.0
+65656,2004-02-08,Australia,India,Sydney,Australia,4,1,3,1,0,1,1.0
+64870,2004-02-20,Australia,Sri Lanka,Dambulla,Sri Lanka,0,3,-3,0,1,-1,1.0
+64871,2004-02-22,Sri Lanka,Australia,Dambulla,Sri Lanka,4,1,3,1,0,1,1.0
+64872,2004-02-25,South Africa,New Zealand,Dunedin,New Zealand,0,0,0,0,1,-1,0.0
+64874,2004-02-27,Australia,Sri Lanka,Colombo,Sri Lanka,0,0,0,0,1,-1,1.0
+64881,2004-03-14,Bangladesh,Zimbabwe,Harare,Zimbabwe,0,5,-5,0,1,-1,0.0
+64882,2004-03-16,Pakistan,India,Rawalpindi,Pakistan,4,0,4,1,0,1,1.0
+64883,2004-03-19,India,Pakistan,Peshawar,Pakistan,0,0,0,0,1,-1,0.0
+64884,2004-03-21,Pakistan,India,Lahore,Pakistan,4,0,4,1,0,1,0.0
+64885,2004-03-24,India,Pakistan,Lahore,Pakistan,1,5,-4,0,1,-1,1.0
+64887,2004-04-20,Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,4,0,4,1,0,1,0.0
+64889,2004-04-24,West Indies,England,Port of Spain,Trinidad and Tobago,0,0,0,1,0,1,
+64891,2004-04-27,Sri Lanka,Zimbabwe,Harare,Zimbabwe,0,6,-6,0,1,-1,1.0
+64894,2004-05-02,England,West Indies,Gros Islet,Saint Lucia,0,0,0,0,1,-1,0.0
+64896,2004-05-15,Bangladesh,West Indies,Kingstown,Saint Vincent and the Grenadines,0,1,-1,0,1,-1,0.0
+64897,2004-05-16,West Indies,Bangladesh,Kingstown,Saint Vincent and the Grenadines,2,1,1,1,0,1,1.0
+64898,2004-05-19,Bangladesh,West Indies,St George's,Grenada,0,2,-2,0,1,-1,0.0
+64899,2004-05-25,Zimbabwe,Australia,Harare,Zimbabwe,7,0,7,1,0,1,0.0
+64900,2004-05-27,Australia,Zimbabwe,Harare,Zimbabwe,1,8,-7,0,1,-1,1.0
+64901,2004-05-29,Zimbabwe,Australia,Harare,Zimbabwe,9,2,7,1,0,1,0.0
+66304,2004-06-27,England,West Indies,Nottingham,England,2,0,2,1,0,1,0.0
+66305,2004-06-29,England,New Zealand,Chester-le-Street,England,0,0,0,1,0,1,0.0
+66306,2004-07-01,West Indies,England,Leeds,England,0,1,-1,0,1,-1,0.0
+66309,2004-07-06,England,West Indies,London,England,5,0,5,1,0,1,0.0
+66311,2004-07-10,New Zealand,West Indies,London,England,0,1,-1,0,0,0,1.0
+65708,2004-07-17,Pakistan,Bangladesh,Colombo,Sri Lanka,0,0,0,0,0,0,1.0
+65713,2004-07-21,Pakistan,Sri Lanka,Colombo,Sri Lanka,1,1,0,0,1,-1,0.0
+65714,2004-07-23,Bangladesh,Sri Lanka,Colombo,Sri Lanka,1,2,-1,0,1,-1,0.0
+65716,2004-07-27,India,Sri Lanka,Colombo,Sri Lanka,0,3,-3,0,1,-1,1.0
+65718,2004-08-01,Sri Lanka,India,Colombo,Sri Lanka,4,1,3,1,0,1,1.0
+66374,2004-08-21,Pakistan,India,Amstelveen,Netherlands,0,0,0,0,0,0,1.0
+66375,2004-08-23,Australia,India,Amstelveen,Netherlands,0,1,-1,0,0,0,
+64905,2004-08-28,South Africa,Sri Lanka,Dambulla,Sri Lanka,0,5,-5,0,1,-1,0.0
+64906,2004-08-31,Sri Lanka,South Africa,Colombo,Sri Lanka,5,0,5,1,0,1,1.0
+65032,2004-09-01,India,England,Nottingham,England,0,3,-3,0,1,-1,0.0
+65033,2004-09-03,England,India,London,England,6,1,5,1,0,1,1.0
+66377,2004-09-04,Australia,Pakistan,London,England,0,2,-2,0,0,0,1.0
+65034,2004-09-05,India,England,London,England,2,7,-5,0,1,-1,1.0
+66196,2004-09-10,England,Zimbabwe,Birmingham,England,0,0,0,1,0,1,1.0
+66201,2004-09-14,Zimbabwe,Sri Lanka,London,England,0,0,0,0,0,0,0.0
+66203,2004-09-15,West Indies,Bangladesh,Southampton,England,0,0,0,0,0,0,1.0
+66204,2004-09-16,New Zealand,Australia,London,England,2,1,1,0,0,0,0.0
+66205,2004-09-17,England,Sri Lanka,Southampton,England,0,0,0,1,0,1,1.0
+66206,2004-09-18,South Africa,West Indies,London,England,2,2,0,0,0,0,0.0
+66207,2004-09-19,India,Pakistan,Birmingham,England,0,1,-1,0,0,0,0.0
+66208,2004-09-21,Australia,England,Birmingham,England,0,1,-1,0,1,-1,0.0
+66209,2004-09-22,Pakistan,West Indies,Southampton,England,0,1,-1,0,0,0,0.0
+66210,2004-09-25,England,West Indies,London,England,8,3,5,1,0,1,0.0
+66378,2004-09-30,Pakistan,Zimbabwe,Multan,Pakistan,1,0,1,1,0,1,1.0
+66379,2004-10-03,Zimbabwe,Pakistan,Peshawar,Pakistan,0,1,-1,0,1,-1,0.0
+66380,2004-10-06,Sri Lanka,Pakistan,Karachi,Pakistan,0,1,-1,0,1,-1,0.0
+66381,2004-10-09,Zimbabwe,Sri Lanka,Rawalpindi,Pakistan,0,0,0,0,0,0,0.0
+66383,2004-10-16,Sri Lanka,Pakistan,Lahore,Pakistan,0,6,-6,0,1,-1,1.0
+64907,2004-11-02,New Zealand,Bangladesh,Chattogram,Bangladesh,0,1,-1,0,1,-1,1.0
+64910,2004-11-28,Zimbabwe,England,Harare,Zimbabwe,10,0,10,1,0,1,0.0
+64911,2004-12-01,England,Zimbabwe,Harare,Zimbabwe,1,11,-10,0,1,-1,1.0
+64913,2004-12-05,England,Zimbabwe,Bulawayo,Zimbabwe,0,5,-5,0,1,-1,1.0
+66385,2004-12-05,Australia,New Zealand,Melbourne,Australia,5,0,5,1,0,1,0.0
+66386,2004-12-08,Australia,New Zealand,Sydney,Australia,5,0,5,1,0,1,1.0
+64914,2004-12-23,India,Bangladesh,Chattogram,Bangladesh,0,2,-2,0,1,-1,1.0
+64917,2004-12-27,India,Bangladesh,Dhaka,Bangladesh,1,2,-1,0,1,-1,1.0
+65659,2005-01-19,West Indies,Pakistan,Brisbane,Australia,0,0,0,0,0,0,0.0
+65660,2005-01-21,West Indies,Australia,Brisbane,Australia,1,2,-1,0,1,-1,
+65661,2005-01-23,Pakistan,Australia,Sydney,Australia,0,6,-6,0,1,-1,0.0
+64919,2005-01-24,Zimbabwe,Bangladesh,Chattogram,Bangladesh,0,3,-3,0,1,-1,1.0
+65662,2005-01-26,Australia,West Indies,Adelaide,Australia,1,0,1,1,0,1,1.0
+64922,2005-01-30,South Africa,England,Johannesburg,South Africa,1,0,1,1,0,1,0.0
+65664,2005-01-30,Australia,Pakistan,Perth,Australia,1,0,1,1,0,1,0.0
+64923,2005-01-31,Zimbabwe,Bangladesh,Dhaka,Bangladesh,0,3,-3,0,1,-1,0.0
+65665,2005-02-01,Pakistan,West Indies,Perth,Australia,1,0,1,0,0,0,1.0
+64924,2005-02-02,England,South Africa,Bloemfontein,South Africa,0,1,-1,0,1,-1,
+64925,2005-02-04,England,South Africa,Port Elizabeth,South Africa,0,0,0,0,1,-1,0.0
+65666,2005-02-04,Australia,Pakistan,Melbourne,Australia,6,0,6,1,0,1,1.0
+64926,2005-02-06,South Africa,England,Cape Town,South Africa,2,1,1,1,0,1,1.0
+64927,2005-02-09,South Africa,England,East London,South Africa,1,1,0,1,0,1,1.0
+64928,2005-02-11,South Africa,England,Durban,South Africa,2,1,1,1,0,1,
+64929,2005-02-13,England,South Africa,Centurion,South Africa,0,1,-1,0,1,-1,0.0
+64932,2005-02-25,South Africa,Zimbabwe,Johannesburg,South Africa,2,0,2,1,0,1,1.0
+64933,2005-02-26,Australia,New Zealand,Auckland,New Zealand,0,1,-1,0,1,-1,1.0
+64934,2005-02-27,South Africa,Zimbabwe,Durban,South Africa,3,0,3,1,0,1,1.0
+64935,2005-03-01,New Zealand,Australia,Wellington,New Zealand,1,0,1,1,0,1,0.0
+64936,2005-03-02,Zimbabwe,South Africa,Port Elizabeth,South Africa,0,1,-1,0,1,-1,0.0
+64939,2005-04-05,India,Pakistan,Visakhapatnam,India,0,0,0,1,0,1,1.0
+64941,2005-04-12,India,Pakistan,Ahmedabad,India,0,0,0,1,0,1,0.0
+64942,2005-04-15,India,Pakistan,Kanpur,India,0,0,0,1,0,1,0.0
+64943,2005-04-17,Pakistan,India,Delhi,India,0,0,0,0,1,-1,1.0
+208835,2005-05-08,West Indies,South Africa,Jamaica,Jamaica,0,0,0,1,0,1,0.0
+209339,2005-05-15,West Indies,South Africa,Trinidad,Trinidad and Tobago,0,0,0,1,0,1,0.0
+209582,2005-05-18,Pakistan,West Indies,St Vincent,Saint Vincent and the Grenadines,0,0,0,0,1,-1,1.0
+209768,2005-05-22,Pakistan,West Indies,St Lucia,Saint Lucia,0,0,0,0,1,-1,1.0
+211244,2005-06-16,Bangladesh,England,London,England,0,9,-9,0,1,-1,0.0
+211364,2005-06-18,Australia,Bangladesh,Cardiff,Wales,0,0,0,0,0,0,0.0
+211678,2005-06-23,Australia,England,Chester-le-Street,England,0,1,-1,0,1,-1,1.0
+211824,2005-06-25,Bangladesh,Australia,Manchester,England,0,0,0,0,0,0,0.0
+211860,2005-06-26,Bangladesh,England,Leeds,England,0,2,-2,0,1,-1,0.0
+212020,2005-06-28,Australia,England,Birmingham,England,1,2,-1,0,1,-1,
+212253,2005-06-30,Bangladesh,Australia,Canterbury,England,0,0,0,0,0,0,0.0
+212452,2005-07-02,Australia,England,London,England,2,10,-8,0,1,-1,
+213288,2005-07-12,England,Australia,London,England,11,3,8,1,0,1,0.0
+214742,2005-07-31,West Indies,India,Dambulla,Sri Lanka,0,0,0,0,0,0,0.0
+214852,2005-08-02,Sri Lanka,West Indies,Dambulla,Sri Lanka,6,1,5,1,0,1,1.0
+215134,2005-08-06,West Indies,Sri Lanka,Colombo,Sri Lanka,0,6,-6,0,1,-1,1.0
+217481,2005-08-29,India,Zimbabwe,Harare,Zimbabwe,1,12,-11,0,1,-1,1.0
+217647,2005-08-31,Sri Lanka,Bangladesh,Colombo,Sri Lanka,7,2,5,1,0,1,1.0
+217648,2005-08-31,New Zealand,Zimbabwe,Harare,Zimbabwe,0,13,-13,0,1,-1,1.0
+217979,2005-09-04,Zimbabwe,India,Harare,Zimbabwe,14,2,12,1,0,1,0.0
+218250,2005-09-06,India,New Zealand,Harare,Zimbabwe,3,1,2,0,0,0,0.0
+223018,2005-10-25,India,Sri Lanka,Nagpur,India,0,0,0,1,0,1,1.0
+223334,2005-10-28,Sri Lanka,India,Chandigarh,India,0,0,0,0,1,-1,0.0
+223335,2005-10-28,South Africa,New Zealand,Cape Town,South Africa,3,0,3,1,0,1,1.0
+223542,2005-10-30,New Zealand,South Africa,Port Elizabeth,South Africa,0,2,-2,0,1,-1,0.0
+223902,2005-11-03,Sri Lanka,India,Pune,India,0,0,0,0,1,-1,0.0
+224044,2005-11-04,South Africa,New Zealand,Durban,South Africa,4,0,4,1,0,1,
+224227,2005-11-06,New Zealand,South Africa,Centurion,South Africa,1,2,-1,0,1,-1,0.0
+224231,2005-11-06,India,Sri Lanka,Ahmedabad,India,1,0,1,1,0,1,0.0
+224556,2005-11-09,Sri Lanka,India,Rajkot,India,0,0,0,0,1,-1,0.0
+225437,2005-11-12,Sri Lanka,India,Vadodara,India,0,0,0,0,1,-1,0.0
+225959,2005-11-16,India,South Africa,Hyderabad,India,1,0,1,1,0,1,0.0
+226359,2005-11-28,South Africa,India,Mumbai,India,0,1,-1,0,1,-1,0.0
+226364,2005-12-03,Australia,New Zealand,Auckland,New Zealand,1,2,-1,0,1,-1,1.0
+226352,2005-12-10,England,Pakistan,Lahore,Pakistan,0,7,-7,0,1,-1,1.0
+226354,2005-12-15,Pakistan,England,Karachi,Pakistan,2,0,2,1,0,1,1.0
+226356,2005-12-21,England,Pakistan,Rawalpindi,Pakistan,0,5,-5,0,1,-1,1.0
+226390,2005-12-31,Sri Lanka,New Zealand,Queenstown,New Zealand,0,1,-1,0,1,-1,0.0
+226391,2006-01-03,New Zealand,Sri Lanka,Christchurch,New Zealand,1,0,1,1,0,1,1.0
+226392,2006-01-06,New Zealand,Sri Lanka,Wellington,New Zealand,2,0,2,1,0,1,1.0
+226375,2006-01-15,Australia,South Africa,Brisbane,Australia,3,0,3,1,0,1,0.0
+226383,2006-01-17,South Africa,Sri Lanka,Brisbane,Australia,1,1,0,0,0,0,0.0
+226376,2006-01-20,Australia,South Africa,Melbourne,Australia,9,0,9,1,0,1,1.0
+226380,2006-01-22,Australia,Sri Lanka,Sydney,Australia,7,2,5,1,0,1,0.0
+226384,2006-01-24,South Africa,Sri Lanka,Adelaide,Australia,0,1,-1,0,0,0,1.0
+226381,2006-01-26,Australia,Sri Lanka,Adelaide,Australia,2,2,0,1,0,1,1.0
+226382,2006-01-29,Australia,Sri Lanka,Perth,Australia,2,0,2,1,0,1,1.0
+226385,2006-01-31,South Africa,Sri Lanka,Perth,Australia,0,1,-1,0,0,0,1.0
+226377,2006-02-03,Australia,South Africa,Melbourne,Australia,10,1,9,1,0,1,1.0
+226378,2006-02-05,Australia,South Africa,Sydney,Australia,8,0,8,1,0,1,1.0
+235831,2006-02-06,Pakistan,India,Peshawar,Pakistan,2,1,1,1,0,1,1.0
+226386,2006-02-07,South Africa,Sri Lanka,Hobart,Australia,0,0,0,0,0,0,0.0
+236358,2006-02-10,Australia,Sri Lanka,Adelaide,Australia,3,3,0,1,0,1,0.0
+236520,2006-02-11,Pakistan,India,Rawalpindi,Pakistan,6,1,5,1,0,1,0.0
+236595,2006-02-12,Australia,Sri Lanka,Sydney,Australia,9,3,6,1,0,1,1.0
+236809,2006-02-13,Pakistan,India,Lahore,Pakistan,8,2,6,1,0,1,0.0
+236963,2006-02-14,Australia,Sri Lanka,Brisbane,Australia,4,2,2,1,0,1,1.0
+237222,2006-02-16,Pakistan,India,Multan,Pakistan,2,0,2,1,0,1,0.0
+237568,2006-02-18,New Zealand,West Indies,Wellington,New Zealand,3,0,3,1,0,1,1.0
+237571,2006-02-19,Pakistan,India,Karachi,Pakistan,3,0,3,1,0,1,0.0
+237574,2006-02-20,Bangladesh,Sri Lanka,Bogra,Bangladesh,0,0,0,1,0,1,0.0
+238169,2006-02-22,Bangladesh,Sri Lanka,Bogra,Bangladesh,1,1,0,1,0,1,1.0
+238176,2006-02-22,New Zealand,West Indies,Queenstown,New Zealand,2,0,2,1,0,1,1.0
+238170,2006-02-25,Bangladesh,Sri Lanka,Chittagong,Bangladesh,0,0,0,1,0,1,0.0
+238177,2006-02-25,New Zealand,West Indies,Christchurch,New Zealand,2,0,2,1,0,1,1.0
+238196,2006-02-26,South Africa,Australia,Centurion,South Africa,3,2,1,1,0,1,1.0
+238178,2006-03-01,New Zealand,West Indies,Napier,New Zealand,1,0,1,1,0,1,1.0
+238197,2006-03-03,South Africa,Australia,Cape Town,South Africa,4,0,4,1,0,1,1.0
+238179,2006-03-04,New Zealand,West Indies,Auckland,New Zealand,3,0,3,1,0,1,0.0
+238198,2006-03-05,South Africa,Australia,Port Elizabeth,South Africa,3,0,3,1,0,1,0.0
+238199,2006-03-10,South Africa,Australia,Durban,South Africa,5,1,4,1,0,1,0.0
+238200,2006-03-12,South Africa,Australia,Johannesburg,South Africa,3,2,1,1,0,1,1.0
+238213,2006-03-17,Sri Lanka,Pakistan,Colombo,Sri Lanka,8,2,6,1,0,1,
+238214,2006-03-19,Sri Lanka,Pakistan,Colombo,Sri Lanka,9,3,6,1,0,1,0.0
+238215,2006-03-22,Sri Lanka,Pakistan,Colombo,Sri Lanka,10,4,6,1,0,1,0.0
+238188,2006-03-28,India,England,Delhi,India,1,0,1,1,0,1,1.0
+238189,2006-03-31,India,England,Faridabad,India,0,0,0,1,0,1,1.0
+238190,2006-04-03,India,England,Margao,India,0,0,0,1,0,1,1.0
+238193,2006-04-12,India,England,Jamshedpur,India,0,0,0,1,0,1,0.0
+238194,2006-04-15,India,England,Indore,India,0,0,0,1,0,1,1.0
+244510,2006-04-18,India,Pakistan,Abu Dhabi,United Arab Emirates,0,0,0,0,0,0,0.0
+244511,2006-04-19,India,Pakistan,Abu Dhabi,United Arab Emirates,1,1,0,0,0,0,1.0
+238173,2006-04-23,Bangladesh,Australia,Chittagong,Bangladesh,1,0,1,1,0,1,0.0
+238174,2006-04-26,Bangladesh,Australia,Fatullah,Bangladesh,0,0,0,1,0,1,0.0
+238175,2006-04-28,Bangladesh,Australia,Fatullah,Bangladesh,1,1,0,1,0,1,0.0
+239907,2006-04-29,West Indies,Zimbabwe,Antigua,Antigua and Barbuda,0,0,0,1,0,1,1.0
+239908,2006-04-30,West Indies,Zimbabwe,Antigua,Antigua and Barbuda,1,1,0,1,0,1,1.0
+239911,2006-05-10,West Indies,Zimbabwe,St Lucia,Saint Lucia,1,0,1,1,0,1,1.0
+239912,2006-05-13,West Indies,Zimbabwe,Trinidad,Trinidad and Tobago,1,0,1,1,0,1,
+239913,2006-05-14,West Indies,Zimbabwe,Trinidad,Trinidad and Tobago,2,1,1,1,0,1,1.0
+239916,2006-05-20,West Indies,India,Jamaica,Jamaica,1,0,1,1,0,1,1.0
+239917,2006-05-23,West Indies,India,St Kitts,Saint Kitts and Nevis,0,0,0,1,0,1,1.0
+239918,2006-05-26,West Indies,India,Trinidad,Trinidad and Tobago,3,0,3,1,0,1,1.0
+239919,2006-05-28,West Indies,India,Trinidad,Trinidad and Tobago,4,1,3,1,0,1,1.0
+225171,2006-06-13,Ireland,England,Belfast,Northern Ireland,0,0,0,1,0,1,0.0
+225250,2006-06-17,England,Sri Lanka,London,England,12,1,11,1,0,1,0.0
+225251,2006-06-20,England,Sri Lanka,London,England,13,2,11,1,0,1,0.0
+225252,2006-06-24,England,Sri Lanka,Chester-le-Street,England,2,0,2,1,0,1,0.0
+225253,2006-06-28,England,Sri Lanka,Manchester,England,2,0,2,1,0,1,0.0
+225254,2006-07-01,England,Sri Lanka,Leeds,England,3,0,3,1,0,1,0.0
+249207,2006-08-06,Zimbabwe,Bangladesh,Harare,Zimbabwe,15,1,14,1,0,1,0.0
+256665,2006-08-18,Sri Lanka,India,Colombo,Sri Lanka,11,2,9,1,0,1,
+225245,2006-08-30,England,Pakistan,Cardiff,Wales,0,0,0,0,0,0,
+225246,2006-09-02,England,Pakistan,London,England,14,3,11,1,0,1,0.0
+225247,2006-09-05,England,Pakistan,Southampton,England,1,1,0,1,0,1,0.0
+225248,2006-09-08,England,Pakistan,Nottingham,England,4,0,4,1,0,1,1.0
+225249,2006-09-10,England,Pakistan,Birmingham,England,3,2,1,1,0,1,1.0
+256607,2006-09-14,India,West Indies,Kuala Lumpur,Malaysia,0,0,0,0,0,0,0.0
+255961,2006-09-15,South Africa,Zimbabwe,Bloemfontein,South Africa,2,2,0,1,0,1,1.0
+256608,2006-09-16,Australia,India,Kuala Lumpur,Malaysia,0,1,-1,0,0,0,
+256610,2006-09-18,Australia,West Indies,Kuala Lumpur,Malaysia,1,1,0,0,0,0,0.0
+259793,2006-09-18,South Africa,Zimbabwe,East London,South Africa,2,1,1,1,0,1,1.0
+256612,2006-09-20,India,West Indies,Kuala Lumpur,Malaysia,2,2,0,0,0,0,1.0
+257470,2006-09-20,South Africa,Zimbabwe,Potchefstroom,South Africa,1,0,1,1,0,1,1.0
+256614,2006-09-22,Australia,India,Kuala Lumpur,Malaysia,2,3,-1,0,0,0,1.0
+256615,2006-09-24,Australia,West Indies,Kuala Lumpur,Malaysia,3,3,0,0,0,0,1.0
+249739,2006-10-07,Bangladesh,Sri Lanka,Chandigarh,India,0,1,-1,0,0,0,0.0
+249740,2006-10-08,West Indies,Zimbabwe,Ahmedabad,India,0,0,0,0,0,0,1.0
+249741,2006-10-10,Sri Lanka,Zimbabwe,Ahmedabad,India,1,1,0,0,0,0,1.0
+249742,2006-10-11,Bangladesh,West Indies,Jaipur,India,0,0,0,0,0,0,0.0
+249743,2006-10-13,Bangladesh,Zimbabwe,Jaipur,India,1,0,1,0,0,0,1.0
+249744,2006-10-14,Sri Lanka,West Indies,Mumbai,India,0,0,0,0,0,0,1.0
+249745,2006-10-15,India,England,Jaipur,India,0,0,0,1,0,1,1.0
+249746,2006-10-16,New Zealand,South Africa,Mumbai,India,0,1,-1,0,0,0,1.0
+249747,2006-10-17,Pakistan,Sri Lanka,Jaipur,India,0,0,0,0,0,0,1.0
+249748,2006-10-18,Australia,West Indies,Mumbai,India,1,1,0,0,0,0,0.0
+249749,2006-10-20,New Zealand,Sri Lanka,Mumbai,India,1,1,0,0,0,0,0.0
+249750,2006-10-21,Australia,England,Jaipur,India,0,1,-1,0,0,0,1.0
+249751,2006-10-24,South Africa,Sri Lanka,Ahmedabad,India,0,2,-2,0,0,0,1.0
+249752,2006-10-25,New Zealand,Pakistan,Chandigarh,India,0,0,0,0,0,0,1.0
+249753,2006-10-26,India,West Indies,Ahmedabad,India,2,1,1,1,0,1,0.0
+249754,2006-10-27,Pakistan,South Africa,Chandigarh,India,1,0,1,0,0,0,0.0
+249755,2006-10-28,England,West Indies,Ahmedabad,India,0,2,-2,0,0,0,1.0
+249756,2006-10-29,India,Australia,Chandigarh,India,1,0,1,1,0,1,0.0
+249757,2006-11-01,Australia,New Zealand,Chandigarh,India,1,1,0,0,0,0,1.0
+249758,2006-11-02,South Africa,West Indies,Jaipur,India,0,1,-1,0,0,0,0.0
+249759,2006-11-05,Australia,West Indies,Mumbai,India,2,2,0,0,0,0,1.0
+249211,2006-11-22,South Africa,India,Durban,South Africa,6,2,4,1,0,1,1.0
+249212,2006-11-26,South Africa,India,Cape Town,South Africa,5,1,4,1,0,1,1.0
+249213,2006-11-29,South Africa,India,Port Elizabeth,South Africa,4,0,4,1,0,1,1.0
+249214,2006-12-03,South Africa,India,Centurion,South Africa,4,3,1,1,0,1,1.0
+264068,2006-12-03,Bangladesh,Zimbabwe,Bogra,Bangladesh,2,0,2,1,0,1,1.0
+264069,2006-12-05,Bangladesh,Zimbabwe,Bogra,Bangladesh,3,1,2,1,0,1,1.0
+257769,2006-12-07,Pakistan,West Indies,Faisalabad,Pakistan,1,0,1,1,0,1,1.0
+264070,2006-12-08,Bangladesh,Zimbabwe,Mirpur,Bangladesh,0,0,0,1,0,1,1.0
+264071,2006-12-09,Bangladesh,Zimbabwe,Mirpur,Bangladesh,1,1,0,1,0,1,1.0
+257770,2006-12-10,Pakistan,West Indies,Lahore,Pakistan,9,0,9,1,0,1,1.0
+257771,2006-12-13,Pakistan,West Indies,Multan,Pakistan,3,0,3,1,0,1,0.0
+257772,2006-12-16,Pakistan,West Indies,Karachi,Pakistan,4,0,4,1,0,1,1.0
+251489,2006-12-28,New Zealand,Sri Lanka,Napier,New Zealand,2,0,2,1,0,1,0.0
+251491,2007-01-02,New Zealand,Sri Lanka,Christchurch,New Zealand,3,1,2,1,0,1,1.0
+251492,2007-01-06,New Zealand,Sri Lanka,Auckland,New Zealand,4,0,4,1,0,1,0.0
+249232,2007-01-12,Australia,England,Melbourne,Australia,11,1,10,1,0,1,1.0
+249228,2007-01-14,Australia,New Zealand,Hobart,Australia,2,0,2,1,0,1,1.0
+249236,2007-01-16,England,New Zealand,Hobart,Australia,1,1,0,0,0,0,1.0
+249233,2007-01-19,Australia,England,Brisbane,Australia,5,0,5,1,0,1,1.0
+249229,2007-01-21,Australia,New Zealand,Sydney,Australia,10,1,9,1,0,1,1.0
+249237,2007-01-23,England,New Zealand,Adelaide,Australia,2,0,2,0,0,0,0.0
+249234,2007-01-26,Australia,England,Adelaide,Australia,4,3,1,1,0,1,1.0
+267708,2007-01-27,India,West Indies,Chennai,India,1,0,1,1,0,1,0.0
+249230,2007-01-28,Australia,New Zealand,Perth,Australia,3,0,3,1,0,1,1.0
+249238,2007-01-30,England,New Zealand,Perth,Australia,0,1,-1,0,0,0,0.0
+267709,2007-01-31,India,West Indies,Vadodara,India,1,0,1,1,0,1,1.0
+249235,2007-02-02,Australia,England,Sydney,Australia,11,2,9,1,0,1,0.0
+249231,2007-02-04,Australia,New Zealand,Melbourne,Australia,12,1,11,1,0,1,1.0
+250668,2007-02-04,South Africa,Pakistan,Centurion,South Africa,5,1,4,1,0,1,1.0
+249239,2007-02-06,England,New Zealand,Brisbane,Australia,1,0,1,0,0,0,1.0
+250669,2007-02-07,South Africa,Pakistan,Durban,South Africa,7,0,7,1,0,1,0.0
+267710,2007-02-08,India,Sri Lanka,Kolkata,India,0,0,0,1,0,1,
+249240,2007-02-09,Australia,England,Melbourne,Australia,13,2,11,1,0,1,0.0
+250670,2007-02-09,South Africa,Pakistan,Port Elizabeth,South Africa,5,0,5,1,0,1,
+249241,2007-02-11,Australia,England,Sydney,Australia,12,3,9,1,0,1,0.0
+250671,2007-02-11,South Africa,Pakistan,Cape Town,South Africa,6,1,5,1,0,1,1.0
+267712,2007-02-11,India,Sri Lanka,Rajkot,India,1,1,0,1,0,1,0.0
+250672,2007-02-14,South Africa,Pakistan,Johannesburg,South Africa,4,1,3,1,0,1,1.0
+267715,2007-02-14,India,Sri Lanka,Margao,India,1,0,1,1,0,1,1.0
+251494,2007-02-16,New Zealand,Australia,Wellington,New Zealand,4,1,3,1,0,1,1.0
+267713,2007-02-17,India,Sri Lanka,Visakhapatnam,India,1,0,1,1,0,1,1.0
+251495,2007-02-18,New Zealand,Australia,Auckland,New Zealand,5,2,3,1,0,1,1.0
+251496,2007-02-20,New Zealand,Australia,Hamilton,New Zealand,1,0,1,1,0,1,1.0
+247457,2007-03-13,West Indies,Pakistan,Jamaica,Jamaica,2,0,2,1,0,1,1.0
+247458,2007-03-14,Australia,Scotland,St Kitts,Saint Kitts and Nevis,0,0,0,0,0,0,1.0
+247461,2007-03-15,Ireland,Zimbabwe,Jamaica,Jamaica,0,0,0,0,0,0,
+247462,2007-03-16,Netherlands,South Africa,St Kitts,Saint Kitts and Nevis,0,0,0,0,0,0,0.0
+247463,2007-03-16,England,New Zealand,St Lucia,Saint Lucia,0,0,0,0,0,0,0.0
+247464,2007-03-17,Bangladesh,India,Trinidad,Trinidad and Tobago,0,2,-2,0,0,0,1.0
+247465,2007-03-17,Ireland,Pakistan,Jamaica,Jamaica,1,1,0,0,0,0,1.0
+247466,2007-03-18,Australia,Netherlands,St Kitts,Saint Kitts and Nevis,1,1,0,0,0,0,1.0
+247469,2007-03-19,West Indies,Zimbabwe,Jamaica,Jamaica,3,1,2,1,0,1,1.0
+247470,2007-03-20,Scotland,South Africa,St Kitts,Saint Kitts and Nevis,1,1,0,0,0,0,0.0
+247472,2007-03-21,Bangladesh,Sri Lanka,Trinidad,Trinidad and Tobago,1,1,0,0,0,0,0.0
+247473,2007-03-21,Pakistan,Zimbabwe,Jamaica,Jamaica,2,2,0,0,0,0,1.0
+247474,2007-03-22,Netherlands,Scotland,St Kitts,Saint Kitts and Nevis,2,2,0,0,0,0,1.0
+247476,2007-03-23,India,Sri Lanka,Trinidad,Trinidad and Tobago,4,2,2,0,0,0,0.0
+247477,2007-03-23,West Indies,Ireland,Jamaica,Jamaica,4,2,2,1,0,1,1.0
+247478,2007-03-24,Australia,South Africa,St Kitts,Saint Kitts and Nevis,2,2,0,0,0,0,1.0
+247481,2007-03-27,West Indies,Australia,Antigua,Antigua and Barbuda,2,0,2,1,0,1,0.0
+247482,2007-03-28,South Africa,Sri Lanka,Guyana,Guyana,0,0,0,0,0,0,1.0
+247483,2007-03-29,West Indies,New Zealand,Antigua,Antigua and Barbuda,3,0,3,1,0,1,0.0
+247484,2007-03-30,England,Ireland,Guyana,Guyana,0,0,0,0,0,0,1.0
+247485,2007-03-31,Australia,Bangladesh,Antigua,Antigua and Barbuda,1,0,1,0,0,0,1.0
+247486,2007-04-01,West Indies,Sri Lanka,Guyana,Guyana,0,1,-1,1,0,1,0.0
+247487,2007-04-02,Bangladesh,New Zealand,Antigua,Antigua and Barbuda,1,1,0,0,0,0,0.0
+247488,2007-04-03,Ireland,South Africa,Guyana,Guyana,1,1,0,0,0,0,0.0
+247489,2007-04-04,England,Sri Lanka,Antigua,Antigua and Barbuda,0,0,0,0,0,0,0.0
+247490,2007-04-07,Bangladesh,South Africa,Guyana,Guyana,0,2,-2,0,0,0,1.0
+247491,2007-04-08,Australia,England,Antigua,Antigua and Barbuda,2,1,1,0,0,0,1.0
+247492,2007-04-09,Ireland,New Zealand,Guyana,Guyana,2,0,2,0,0,0,0.0
+247493,2007-04-10,West Indies,South Africa,Grenada,Grenada,0,0,0,1,0,1,0.0
+247494,2007-04-11,Bangladesh,England,Barbados,Barbados,0,0,0,0,0,0,0.0
+247495,2007-04-12,New Zealand,Sri Lanka,Grenada,Grenada,0,0,0,0,0,0,0.0
+247496,2007-04-13,Australia,Ireland,Barbados,Barbados,0,0,0,0,0,0,1.0
+247497,2007-04-14,New Zealand,South Africa,Grenada,Grenada,1,1,0,0,0,0,1.0
+247498,2007-04-15,Bangladesh,Ireland,Barbados,Barbados,1,1,0,0,0,0,0.0
+247499,2007-04-16,Australia,Sri Lanka,Grenada,Grenada,0,1,-1,0,0,0,1.0
+247500,2007-04-17,England,South Africa,Barbados,Barbados,1,0,1,0,0,0,0.0
+247501,2007-04-18,Ireland,Sri Lanka,Grenada,Grenada,0,2,-2,0,0,0,0.0
+247502,2007-04-19,West Indies,Bangladesh,Barbados,Barbados,0,2,-2,1,0,1,1.0
+247503,2007-04-20,Australia,New Zealand,Grenada,Grenada,1,2,-1,0,0,0,1.0
+247504,2007-04-21,West Indies,England,Barbados,Barbados,1,2,-1,1,0,1,0.0
+247505,2007-04-24,New Zealand,Sri Lanka,Jamaica,Jamaica,0,0,0,0,0,0,0.0
+247506,2007-04-25,Australia,South Africa,St Lucia,Saint Lucia,0,0,0,0,0,0,1.0
+247507,2007-04-28,Australia,Sri Lanka,Barbados,Barbados,1,0,1,0,0,0,1.0
+282688,2007-05-10,Bangladesh,India,Mirpur,Bangladesh,2,0,2,1,0,1,0.0
+282689,2007-05-12,Bangladesh,India,Mirpur,Bangladesh,3,1,2,1,0,1,0.0
+293071,2007-06-23,Ireland,India,Belfast,Northern Ireland,1,0,1,1,0,1,0.0
+293072,2007-06-24,Ireland,South Africa,Belfast,Northern Ireland,2,0,2,1,0,1,0.0
+293076,2007-06-26,India,South Africa,Belfast,Northern Ireland,1,1,0,0,0,0,0.0
+293077,2007-06-29,India,South Africa,Belfast,Northern Ireland,2,2,0,0,0,0,1.0
+258465,2007-07-01,England,West Indies,London,England,15,4,11,1,0,1,1.0
+293078,2007-07-01,India,South Africa,Belfast,Northern Ireland,3,3,0,0,0,0,1.0
+258466,2007-07-04,England,West Indies,Birmingham,England,4,0,4,1,0,1,0.0
+258467,2007-07-07,England,West Indies,Nottingham,England,5,1,4,1,0,1,0.0
+295785,2007-07-13,Netherlands,Scotland,Belfast,Northern Ireland,0,0,0,0,0,0,
+295788,2007-07-14,Ireland,West Indies,Dublin,Ireland,0,0,0,1,0,1,
+293481,2007-07-20,Sri Lanka,Bangladesh,Colombo,Sri Lanka,12,3,9,1,0,1,1.0
+293482,2007-07-23,Sri Lanka,Bangladesh,Colombo,Sri Lanka,13,4,9,1,0,1,1.0
+293483,2007-07-25,Sri Lanka,Bangladesh,Colombo,Sri Lanka,14,5,9,1,0,1,1.0
+275789,2007-08-16,Scotland,India,Glasgow,Scotland,0,0,0,1,0,1,0.0
+258471,2007-08-21,England,India,Southampton,England,2,1,1,1,0,1,1.0
+300486,2007-08-22,Zimbabwe,South Africa,Bulawayo,Zimbabwe,6,0,6,1,0,1,0.0
+258472,2007-08-24,England,India,Bristol,England,1,0,1,1,0,1,0.0
+300487,2007-08-25,Zimbabwe,South Africa,Harare,Zimbabwe,16,0,16,1,0,1,0.0
+300488,2007-08-26,Zimbabwe,South Africa,Harare,Zimbabwe,17,1,16,1,0,1,0.0
+258473,2007-08-27,England,India,Birmingham,England,5,1,4,1,0,1,1.0
+258474,2007-08-30,England,India,Manchester,England,3,0,3,1,0,1,1.0
+258475,2007-09-02,England,India,Leeds,England,4,0,4,1,0,1,0.0
+258476,2007-09-05,England,India,London,England,16,3,13,1,0,1,0.0
+258477,2007-09-08,England,India,London,England,17,4,13,1,0,1,1.0
+297793,2007-09-29,India,Australia,Bangalore,India,0,0,0,1,0,1,
+291217,2007-10-01,Sri Lanka,England,Dambulla,Sri Lanka,7,1,6,1,0,1,1.0
+297794,2007-10-02,India,Australia,Kochi,India,0,0,0,1,0,1,0.0
+291218,2007-10-04,Sri Lanka,England,Dambulla,Sri Lanka,8,2,6,1,0,1,0.0
+297795,2007-10-05,India,Australia,Hyderabad,India,2,0,2,1,0,1,0.0
+297796,2007-10-08,India,Australia,Chandigarh,India,2,2,0,1,0,1,1.0
+291220,2007-10-10,Sri Lanka,England,Colombo,Sri Lanka,15,0,15,1,0,1,0.0
+297797,2007-10-11,India,Australia,Vadodara,India,2,0,2,1,0,1,0.0
+291221,2007-10-13,Sri Lanka,England,Colombo,Sri Lanka,16,1,15,1,0,1,1.0
+297798,2007-10-14,India,Australia,Nagpur,India,1,0,1,1,0,1,0.0
+297799,2007-10-17,India,Australia,Mumbai,India,2,3,-1,1,0,1,1.0
+299006,2007-10-18,Pakistan,South Africa,Lahore,Pakistan,10,2,8,1,0,1,0.0
+299007,2007-10-20,Pakistan,South Africa,Lahore,Pakistan,11,3,8,1,0,1,1.0
+299008,2007-10-23,Pakistan,South Africa,Faisalabad,Pakistan,2,1,1,1,0,1,1.0
+299009,2007-10-26,Pakistan,South Africa,Multan,Pakistan,4,0,4,1,0,1,0.0
+299010,2007-10-29,Pakistan,South Africa,Lahore,Pakistan,12,4,8,1,0,1,0.0
+297801,2007-11-05,India,Pakistan,Guwahati,India,0,0,0,1,0,1,1.0
+297802,2007-11-08,India,Pakistan,Chandigarh,India,3,2,1,1,0,1,0.0
+297803,2007-11-11,India,Pakistan,Kanpur,India,1,1,0,1,0,1,1.0
+297804,2007-11-15,India,Pakistan,Gwalior,India,1,0,1,1,0,1,1.0
+297805,2007-11-18,India,Pakistan,Jaipur,India,1,1,0,1,0,1,0.0
+298796,2007-11-25,South Africa,New Zealand,Durban,South Africa,8,1,7,1,0,1,1.0
+298797,2007-11-30,South Africa,New Zealand,Port Elizabeth,South Africa,6,1,5,1,0,1,0.0
+317578,2007-11-30,Zimbabwe,West Indies,Harare,Zimbabwe,18,3,15,1,0,1,1.0
+298798,2007-12-02,South Africa,New Zealand,Cape Town,South Africa,7,1,6,1,0,1,1.0
+317579,2007-12-02,Zimbabwe,West Indies,Harare,Zimbabwe,19,4,15,1,0,1,0.0
+317581,2007-12-07,Zimbabwe,West Indies,Bulawayo,Zimbabwe,7,1,6,1,0,1,0.0
+291345,2007-12-14,Australia,New Zealand,Adelaide,Australia,5,1,4,1,0,1,1.0
+291346,2007-12-16,Australia,New Zealand,Sydney,Australia,13,2,11,1,0,1,
+291347,2007-12-20,Australia,New Zealand,Hobart,Australia,3,2,1,1,0,1,1.0
+300426,2007-12-26,New Zealand,Bangladesh,Auckland,New Zealand,6,0,6,1,0,1,1.0
+300427,2007-12-28,New Zealand,Bangladesh,Napier,New Zealand,3,0,3,1,0,1,1.0
+300428,2007-12-31,New Zealand,Bangladesh,Queenstown,New Zealand,3,0,3,1,0,1,1.0
+298805,2008-01-20,South Africa,West Indies,Centurion,South Africa,6,2,4,1,0,1,1.0
+325800,2008-01-21,Pakistan,Zimbabwe,Karachi,Pakistan,5,0,5,1,0,1,1.0
+325801,2008-01-24,Pakistan,Zimbabwe,Sind,Pakistan,0,0,0,1,0,1,1.0
+298806,2008-01-25,South Africa,West Indies,Cape Town,South Africa,8,3,5,1,0,1,1.0
+298807,2008-01-27,South Africa,West Indies,Port Elizabeth,South Africa,7,0,7,1,0,1,1.0
+325802,2008-01-27,Pakistan,Zimbabwe,Multan,Pakistan,5,1,4,1,0,1,1.0
+325803,2008-01-30,Pakistan,Zimbabwe,Faisalabad,Pakistan,3,0,3,1,0,1,1.0
+298808,2008-02-01,South Africa,West Indies,Durban,South Africa,9,1,8,1,0,1,1.0
+325804,2008-02-02,Pakistan,Zimbabwe,Sheikhupura,Pakistan,0,0,0,1,0,1,1.0
+291359,2008-02-03,Australia,India,Brisbane,Australia,6,2,4,1,0,1,
+298809,2008-02-03,South Africa,West Indies,Johannesburg,South Africa,5,0,5,1,0,1,1.0
+291360,2008-02-05,India,Sri Lanka,Brisbane,Australia,3,3,0,0,0,0,
+291361,2008-02-08,Australia,Sri Lanka,Sydney,Australia,14,4,10,1,0,1,1.0
+300437,2008-02-09,New Zealand,England,Wellington,New Zealand,5,0,5,1,0,1,1.0
+291362,2008-02-10,Australia,India,Melbourne,Australia,14,2,12,1,0,1,0.0
+300438,2008-02-12,New Zealand,England,Hamilton,New Zealand,2,0,2,1,0,1,1.0
+291364,2008-02-15,Australia,Sri Lanka,Perth,Australia,4,2,2,1,0,1,1.0
+300439,2008-02-15,New Zealand,England,Auckland,New Zealand,7,0,7,1,0,1,0.0
+291365,2008-02-17,Australia,India,Adelaide,Australia,6,0,6,1,0,1,1.0
+291366,2008-02-19,India,Sri Lanka,Adelaide,Australia,1,4,-3,0,0,0,1.0
+300440,2008-02-20,New Zealand,England,Napier,New Zealand,4,0,4,1,0,1,
+291367,2008-02-22,Australia,Sri Lanka,Melbourne,Australia,15,1,14,1,0,1,1.0
+300441,2008-02-23,New Zealand,England,Christchurch,New Zealand,4,0,4,1,0,1,1.0
+291368,2008-02-24,Australia,India,Sydney,Australia,15,2,13,1,0,1,1.0
+291369,2008-02-26,India,Sri Lanka,Hobart,Australia,1,1,0,0,0,0,1.0
+291370,2008-02-29,Australia,Sri Lanka,Melbourne,Australia,16,2,14,1,0,1,0.0
+291371,2008-03-02,Australia,India,Sydney,Australia,16,3,13,1,0,1,0.0
+291372,2008-03-04,Australia,India,Brisbane,Australia,7,4,3,1,0,1,0.0
+323949,2008-03-09,Bangladesh,South Africa,Chittagong,Bangladesh,2,0,2,1,0,1,0.0
+323950,2008-03-12,Bangladesh,South Africa,Mirpur,Bangladesh,4,0,4,1,0,1,0.0
+323951,2008-03-14,Bangladesh,South Africa,Mirpur,Bangladesh,5,1,4,1,0,1,0.0
+343759,2008-04-08,Pakistan,Bangladesh,Lahore,Pakistan,13,0,13,1,0,1,1.0
+319134,2008-04-10,West Indies,Sri Lanka,Trinidad,Trinidad and Tobago,5,3,2,1,0,1,1.0
+343760,2008-04-11,Pakistan,Bangladesh,Faisalabad,Pakistan,4,0,4,1,0,1,1.0
+319135,2008-04-12,West Indies,Sri Lanka,Trinidad,Trinidad and Tobago,6,4,2,1,0,1,1.0
+343761,2008-04-13,Pakistan,Bangladesh,Lahore,Pakistan,14,1,13,1,0,1,1.0
+319136,2008-04-15,West Indies,Sri Lanka,St Lucia,Saint Lucia,2,0,2,1,0,1,
+343762,2008-04-16,Pakistan,Bangladesh,Multan,Pakistan,6,1,5,1,0,1,1.0
+343763,2008-04-19,Pakistan,Bangladesh,Karachi,Pakistan,6,1,5,1,0,1,1.0
+345468,2008-06-08,Bangladesh,Pakistan,Mirpur,Bangladesh,6,0,6,1,0,1,0.0
+345469,2008-06-10,India,Pakistan,Mirpur,Bangladesh,2,1,1,0,0,0,1.0
+345470,2008-06-12,Bangladesh,India,Mirpur,Bangladesh,7,3,4,1,0,1,0.0
+345471,2008-06-14,India,Pakistan,Mirpur,Bangladesh,4,2,2,0,0,0,0.0
+296904,2008-06-15,England,New Zealand,Chester-le-Street,England,3,1,2,1,0,1,1.0
+296905,2008-06-18,England,New Zealand,Birmingham,England,6,0,6,1,0,1,
+296906,2008-06-21,England,New Zealand,Bristol,England,2,0,2,1,0,1,0.0
+319143,2008-06-24,West Indies,Australia,St Vincent,Saint Vincent and the Grenadines,1,0,1,1,0,1,0.0
+296907,2008-06-25,England,New Zealand,London,England,18,3,15,1,0,1,0.0
+335348,2008-06-25,Bangladesh,Sri Lanka,Lahore,Pakistan,3,1,2,0,0,0,0.0
+335351,2008-06-26,Pakistan,India,Karachi,Pakistan,8,2,6,1,0,1,0.0
+319144,2008-06-27,West Indies,Australia,Grenada,Grenada,1,2,-1,1,0,1,0.0
+296908,2008-06-28,England,New Zealand,London,England,19,4,15,1,0,1,0.0
+335352,2008-06-28,Bangladesh,India,Karachi,Pakistan,2,3,-1,0,0,0,0.0
+319145,2008-06-29,West Indies,Australia,Grenada,Grenada,2,3,-1,1,0,1,0.0
+335353,2008-06-29,Pakistan,Sri Lanka,Karachi,Pakistan,9,1,8,1,0,1,0.0
+335354,2008-06-30,Bangladesh,Sri Lanka,Karachi,Pakistan,3,2,1,0,0,0,0.0
+335355,2008-07-02,Pakistan,India,Karachi,Pakistan,10,4,6,1,0,1,1.0
+335356,2008-07-03,India,Sri Lanka,Karachi,Pakistan,5,3,2,0,0,0,1.0
+319146,2008-07-04,West Indies,Australia,St Kitts,Saint Kitts and Nevis,1,3,-2,1,0,1,0.0
+335357,2008-07-04,Pakistan,Bangladesh,Karachi,Pakistan,11,4,7,1,0,1,1.0
+319147,2008-07-06,West Indies,Australia,St Kitts,Saint Kitts and Nevis,2,4,-2,1,0,1,0.0
+335358,2008-07-06,India,Sri Lanka,Karachi,Pakistan,6,4,2,0,0,0,0.0
+325579,2008-07-29,Netherlands,Scotland,Dublin,Ireland,0,0,0,0,0,0,0.0
+325580,2008-07-31,Ireland,Scotland,Dublin,Ireland,1,1,0,1,0,1,1.0
+343732,2008-08-18,Sri Lanka,India,Dambulla,Sri Lanka,9,1,8,1,0,1,1.0
+343733,2008-08-20,Sri Lanka,India,Dambulla,Sri Lanka,10,2,8,1,0,1,0.0
+296914,2008-08-22,England,South Africa,Leeds,England,5,0,5,1,0,1,1.0
+343734,2008-08-24,Sri Lanka,India,Colombo,Sri Lanka,17,3,14,1,0,1,0.0
+296915,2008-08-26,England,South Africa,Nottingham,England,6,0,6,1,0,1,1.0
+366341,2008-08-27,Sri Lanka,India,Colombo,Sri Lanka,18,4,14,1,0,1,0.0
+296916,2008-08-29,England,South Africa,London,England,20,3,17,1,0,1,1.0
+343736,2008-08-29,Sri Lanka,India,Colombo,Sri Lanka,19,5,14,1,0,1,1.0
+336201,2008-08-30,Australia,Bangladesh,Darwin,Australia,1,1,0,1,0,1,1.0
+296917,2008-08-31,England,South Africa,London,England,21,4,17,1,0,1,1.0
+296918,2008-09-03,England,South Africa,Cardiff,Wales,1,0,1,0,0,0,
+336202,2008-09-03,Australia,Bangladesh,Darwin,Australia,2,2,0,1,0,1,1.0
+336204,2008-09-06,Australia,Bangladesh,Darwin,Australia,3,3,0,1,0,1,1.0
+325581,2008-10-17,Ireland,Zimbabwe,Nairobi,Kenya,0,0,0,0,0,0,0.0
+350348,2008-11-07,South Africa,Bangladesh,Potchefstroom,South Africa,2,0,2,1,0,1,1.0
+374059,2008-11-12,Pakistan,West Indies,Abu Dhabi,United Arab Emirates,2,0,2,0,0,0,1.0
+361043,2008-11-14,India,England,Rajkot,India,2,0,2,1,0,1,1.0
+374060,2008-11-14,Pakistan,West Indies,Abu Dhabi,United Arab Emirates,3,1,2,0,0,0,1.0
+361044,2008-11-17,India,England,Indore,India,1,1,0,1,0,1,1.0
+361045,2008-11-20,India,England,Kanpur,India,2,0,2,1,0,1,1.0
+375456,2008-11-20,Zimbabwe,Sri Lanka,Harare,Zimbabwe,20,1,19,1,0,1,0.0
+375457,2008-11-22,Zimbabwe,Sri Lanka,Harare,Zimbabwe,21,2,19,1,0,1,0.0
+361046,2008-11-23,India,England,Bangalore,India,1,0,1,1,0,1,1.0
+375460,2008-11-24,Zimbabwe,Sri Lanka,Harare,Zimbabwe,22,3,19,1,0,1,0.0
+361047,2008-11-26,India,England,Cuttack,India,1,0,1,1,0,1,1.0
+375462,2008-11-30,Zimbabwe,Sri Lanka,Harare,Zimbabwe,23,4,19,1,0,1,0.0
+366709,2008-12-31,New Zealand,West Indies,Queenstown,New Zealand,4,1,3,1,0,1,
+366711,2009-01-07,New Zealand,West Indies,Wellington,New Zealand,6,1,5,1,0,1,1.0
+378753,2009-01-10,Bangladesh,Zimbabwe,Mirpur,Bangladesh,8,2,6,1,0,1,0.0
+378755,2009-01-14,Bangladesh,Sri Lanka,Mirpur,Bangladesh,9,0,9,1,0,1,1.0
+351684,2009-01-16,Australia,South Africa,Melbourne,Australia,17,2,15,1,0,1,0.0
+351685,2009-01-18,Australia,South Africa,Hobart,Australia,4,1,3,1,0,1,1.0
+385749,2009-01-20,Pakistan,Sri Lanka,Karachi,Pakistan,12,5,7,1,0,1,1.0
+385750,2009-01-21,Pakistan,Sri Lanka,Karachi,Pakistan,13,6,7,1,0,1,0.0
+351686,2009-01-23,Australia,South Africa,Sydney,Australia,17,1,16,1,0,1,0.0
+378759,2009-01-23,Bangladesh,Zimbabwe,Mirpur,Bangladesh,10,3,7,1,0,1,1.0
+385751,2009-01-24,Pakistan,Sri Lanka,Lahore,Pakistan,15,3,12,1,0,1,0.0
+351687,2009-01-26,Australia,South Africa,Adelaide,Australia,7,1,6,1,0,1,0.0
+386530,2009-01-28,Sri Lanka,India,Dambulla,Sri Lanka,11,3,8,1,0,1,0.0
+351688,2009-01-30,Australia,South Africa,Perth,Australia,5,1,4,1,0,1,0.0
+386531,2009-01-31,Sri Lanka,India,Colombo,Sri Lanka,20,6,14,1,0,1,0.0
+351689,2009-02-01,Australia,New Zealand,Perth,Australia,6,2,4,1,0,1,0.0
+386532,2009-02-03,Sri Lanka,India,Colombo,Sri Lanka,21,7,14,1,0,1,0.0
+386533,2009-02-05,Sri Lanka,India,Colombo,Sri Lanka,22,8,14,1,0,1,0.0
+351690,2009-02-06,Australia,New Zealand,Melbourne,Australia,18,2,16,1,0,1,0.0
+351691,2009-02-08,Australia,New Zealand,Sydney,Australia,18,3,15,1,0,1,1.0
+386534,2009-02-08,Sri Lanka,India,Colombo,Sri Lanka,23,9,14,1,0,1,1.0
+351692,2009-02-10,Australia,New Zealand,Adelaide,Australia,8,2,6,1,0,1,1.0
+351693,2009-02-13,Australia,New Zealand,Brisbane,Australia,8,1,7,1,0,1,
+366623,2009-03-03,New Zealand,India,Napier,New Zealand,5,1,4,1,0,1,0.0
+366626,2009-03-06,New Zealand,India,Wellington,New Zealand,7,1,6,1,0,1,
+366627,2009-03-08,New Zealand,India,Christchurch,New Zealand,5,1,4,1,0,1,0.0
+366624,2009-03-11,New Zealand,India,Hamilton,New Zealand,3,1,2,1,0,1,0.0
+366625,2009-03-14,New Zealand,India,Auckland,New Zealand,8,0,8,1,0,1,1.0
+352665,2009-03-20,West Indies,England,Guyana,Guyana,1,1,0,1,0,1,0.0
+352666,2009-03-22,West Indies,England,Guyana,Guyana,2,2,0,1,0,1,1.0
+352667,2009-03-27,West Indies,England,Barbados,Barbados,2,3,-1,1,0,1,1.0
+352668,2009-03-29,West Indies,England,Barbados,Barbados,3,4,-1,1,0,1,0.0
+390204,2009-04-01,Ireland,Scotland,Benoni,South Africa,0,0,0,0,0,0,1.0
+350477,2009-04-03,South Africa,Australia,Durban,South Africa,10,2,8,1,0,1,0.0
+352669,2009-04-03,West Indies,England,St Lucia,Saint Lucia,3,3,0,1,0,1,0.0
+350478,2009-04-05,South Africa,Australia,Centurion,South Africa,7,3,4,1,0,1,1.0
+350479,2009-04-09,South Africa,Australia,Cape Town,South Africa,9,1,8,1,0,1,1.0
+350480,2009-04-13,South Africa,Australia,Port Elizabeth,South Africa,8,1,7,1,0,1,1.0
+350481,2009-04-17,South Africa,Australia,Johannesburg,South Africa,6,3,3,1,0,1,0.0
+392616,2009-04-22,Australia,Pakistan,Dubai,United Arab Emirates,0,0,0,0,0,0,0.0
+392617,2009-04-24,Australia,Pakistan,Dubai,United Arab Emirates,1,1,0,0,0,0,1.0
+392618,2009-04-27,Australia,Pakistan,Abu Dhabi,United Arab Emirates,0,4,-4,0,0,0,1.0
+392619,2009-05-01,Australia,Pakistan,Abu Dhabi,United Arab Emirates,1,5,-4,0,0,0,1.0
+392620,2009-05-03,Australia,Pakistan,Abu Dhabi,United Arab Emirates,2,6,-4,0,0,0,0.0
+380715,2009-05-24,England,West Indies,Bristol,England,3,0,3,1,0,1,1.0
+380716,2009-05-26,England,West Indies,Birmingham,England,7,1,6,1,0,1,1.0
+377313,2009-06-26,West Indies,India,Jamaica,Jamaica,5,1,4,1,0,1,0.0
+377314,2009-06-28,West Indies,India,Jamaica,Jamaica,6,2,4,1,0,1,1.0
+377315,2009-07-03,West Indies,India,St Lucia,Saint Lucia,4,0,4,1,0,1,0.0
+377316,2009-07-05,West Indies,India,St Lucia,Saint Lucia,5,1,4,1,0,1,
+401073,2009-07-26,West Indies,Bangladesh,Dominica,Dominica,0,0,0,1,0,1,0.0
+401074,2009-07-28,West Indies,Bangladesh,Dominica,Dominica,1,1,0,1,0,1,0.0
+403370,2009-07-30,Sri Lanka,Pakistan,Dambulla,Sri Lanka,12,3,9,1,0,1,1.0
+401075,2009-07-31,West Indies,Bangladesh,St Kitts,Saint Kitts and Nevis,3,0,3,1,0,1,0.0
+403371,2009-08-01,Sri Lanka,Pakistan,Dambulla,Sri Lanka,13,4,9,1,0,1,1.0
+403372,2009-08-03,Sri Lanka,Pakistan,Dambulla,Sri Lanka,14,5,9,1,0,1,1.0
+403373,2009-08-07,Sri Lanka,Pakistan,Colombo,Sri Lanka,24,5,19,1,0,1,0.0
+403374,2009-08-09,Sri Lanka,Pakistan,Colombo,Sri Lanka,25,6,19,1,0,1,0.0
+410337,2009-08-09,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,8,0,8,1,0,1,0.0
+410338,2009-08-11,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,9,1,8,1,0,1,0.0
+410339,2009-08-14,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,10,2,8,1,0,1,1.0
+410340,2009-08-16,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,11,3,8,1,0,1,0.0
+410341,2009-08-18,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,12,4,8,1,0,1,0.0
+383275,2009-08-27,Ireland,England,Belfast,Northern Ireland,4,1,3,1,0,1,0.0
+350043,2009-09-04,England,Australia,London,England,22,4,18,1,0,1,0.0
+350044,2009-09-06,England,Australia,London,England,23,5,18,1,0,1,0.0
+403380,2009-09-08,Sri Lanka,New Zealand,Colombo,Sri Lanka,26,0,26,1,0,1,1.0
+350045,2009-09-09,England,Australia,Southampton,England,3,1,2,1,0,1,0.0
+403382,2009-09-11,India,New Zealand,Colombo,Sri Lanka,10,1,9,0,0,0,1.0
+350046,2009-09-12,England,Australia,London,England,24,6,18,1,0,1,0.0
+403381,2009-09-12,Sri Lanka,India,Colombo,Sri Lanka,27,11,16,1,0,1,1.0
+403383,2009-09-14,Sri Lanka,India,Colombo,Sri Lanka,28,12,16,1,0,1,0.0
+350047,2009-09-15,England,Australia,Nottingham,England,7,0,7,1,0,1,0.0
+350048,2009-09-17,England,Australia,Nottingham,England,8,1,7,1,0,1,0.0
+350049,2009-09-20,England,Australia,Chester-le-Street,England,4,1,3,1,0,1,1.0
+415273,2009-09-22,South Africa,Sri Lanka,Centurion,South Africa,8,1,7,1,0,1,0.0
+415274,2009-09-23,Pakistan,West Indies,Johannesburg,South Africa,2,1,1,0,0,0,1.0
+415275,2009-09-24,South Africa,New Zealand,Centurion,South Africa,9,2,7,1,0,1,1.0
+415276,2009-09-25,England,Sri Lanka,Johannesburg,South Africa,1,1,0,0,0,0,1.0
+415277,2009-09-26,Australia,West Indies,Johannesburg,South Africa,4,2,2,0,0,0,1.0
+415278,2009-09-26,India,Pakistan,Centurion,South Africa,4,2,2,0,0,0,0.0
+415279,2009-09-27,New Zealand,Sri Lanka,Johannesburg,South Africa,1,2,-1,0,0,0,1.0
+415280,2009-09-27,South Africa,England,Centurion,South Africa,10,1,9,1,0,1,0.0
+415281,2009-09-28,Australia,India,Centurion,South Africa,4,5,-1,0,0,0,
+415282,2009-09-29,England,New Zealand,Johannesburg,South Africa,2,2,0,0,0,0,0.0
+415283,2009-09-30,Australia,Pakistan,Centurion,South Africa,5,3,2,0,0,0,1.0
+415284,2009-09-30,India,West Indies,Johannesburg,South Africa,2,3,-1,0,0,0,1.0
+415285,2009-10-02,Australia,England,Centurion,South Africa,6,2,4,0,0,0,1.0
+415286,2009-10-03,New Zealand,Pakistan,Johannesburg,South Africa,3,3,0,0,0,0,1.0
+415287,2009-10-05,Australia,New Zealand,Centurion,South Africa,7,3,4,0,0,0,1.0
+416236,2009-10-25,India,Australia,Vadodara,India,3,1,2,1,0,1,0.0
+422626,2009-10-27,Bangladesh,Zimbabwe,Mirpur,Bangladesh,11,4,7,1,0,1,0.0
+416237,2009-10-28,India,Australia,Nagpur,India,2,1,1,1,0,1,1.0
+422627,2009-10-29,Bangladesh,Zimbabwe,Mirpur,Bangladesh,12,5,7,1,0,1,1.0
+416238,2009-10-31,India,Australia,Delhi,India,2,0,2,1,0,1,1.0
+422628,2009-10-31,Bangladesh,Zimbabwe,Mirpur,Bangladesh,13,6,7,1,0,1,1.0
+416239,2009-11-02,India,Australia,Chandigarh,India,4,3,1,1,0,1,0.0
+422629,2009-11-03,Bangladesh,Zimbabwe,Chittagong,Bangladesh,3,0,3,1,0,1,1.0
+426720,2009-11-03,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,0,7,-7,0,0,0,0.0
+416240,2009-11-05,India,Australia,Hyderabad,India,3,1,2,1,0,1,0.0
+422630,2009-11-05,Bangladesh,Zimbabwe,Chittagong,Bangladesh,4,1,3,1,0,1,1.0
+426721,2009-11-06,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,1,8,-7,0,0,0,1.0
+416241,2009-11-08,India,Australia,Guwahati,India,1,0,1,1,0,1,0.0
+430508,2009-11-08,South Africa,Zimbabwe,Benoni,South Africa,0,0,0,1,0,1,1.0
+426722,2009-11-09,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,2,9,-7,0,0,0,1.0
+430509,2009-11-10,South Africa,Zimbabwe,Centurion,South Africa,11,0,11,1,0,1,1.0
+387566,2009-11-22,South Africa,England,Centurion,South Africa,12,3,9,1,0,1,0.0
+387567,2009-11-27,South Africa,England,Cape Town,South Africa,10,2,8,1,0,1,1.0
+387568,2009-11-29,South Africa,England,Port Elizabeth,South Africa,9,1,8,1,0,1,0.0
+430886,2009-12-15,India,Sri Lanka,Rajkot,India,3,2,1,1,0,1,1.0
+430887,2009-12-18,India,Sri Lanka,Nagpur,India,3,1,2,1,0,1,0.0
+430888,2009-12-21,India,Sri Lanka,Cuttack,India,2,0,2,1,0,1,1.0
+430889,2009-12-24,India,Sri Lanka,Kolkata,India,1,1,0,1,0,1,1.0
+430890,2009-12-27,India,Sri Lanka,Delhi,India,3,0,3,1,0,1,
+434258,2010-01-04,Bangladesh,Sri Lanka,Mirpur,Bangladesh,14,1,13,1,0,1,0.0
+434259,2010-01-05,India,Sri Lanka,Mirpur,Bangladesh,5,2,3,0,0,0,0.0
+434260,2010-01-07,Bangladesh,India,Mirpur,Bangladesh,15,6,9,1,0,1,0.0
+434261,2010-01-08,Bangladesh,Sri Lanka,Mirpur,Bangladesh,16,3,13,1,0,1,0.0
+434262,2010-01-10,India,Sri Lanka,Mirpur,Bangladesh,7,4,3,0,0,0,1.0
+434263,2010-01-11,Bangladesh,India,Mirpur,Bangladesh,17,8,9,1,0,1,0.0
+434264,2010-01-13,India,Sri Lanka,Mirpur,Bangladesh,9,5,4,0,0,0,0.0
+406202,2010-01-22,Australia,Pakistan,Brisbane,Australia,9,1,8,1,0,1,1.0
+406203,2010-01-24,Australia,Pakistan,Sydney,Australia,19,1,18,1,0,1,1.0
+406204,2010-01-26,Australia,Pakistan,Adelaide,Australia,9,0,9,1,0,1,1.0
+406205,2010-01-29,Australia,Pakistan,Perth,Australia,7,2,5,1,0,1,1.0
+406206,2010-01-31,Australia,Pakistan,Perth,Australia,8,3,5,1,0,1,1.0
+423783,2010-02-05,New Zealand,Bangladesh,Napier,New Zealand,6,1,5,1,0,1,1.0
+406192,2010-02-07,Australia,West Indies,Melbourne,Australia,19,0,19,1,0,1,1.0
+423784,2010-02-08,New Zealand,Bangladesh,Dunedin,New Zealand,1,0,1,1,0,1,1.0
+406193,2010-02-09,Australia,West Indies,Adelaide,Australia,10,1,9,1,0,1,1.0
+423785,2010-02-11,New Zealand,Bangladesh,Christchurch,New Zealand,6,0,6,1,0,1,1.0
+406194,2010-02-12,Australia,West Indies,Sydney,Australia,20,0,20,1,0,1,
+406195,2010-02-14,Australia,West Indies,Brisbane,Australia,10,2,8,1,0,1,1.0
+406196,2010-02-19,Australia,West Indies,Melbourne,Australia,20,1,19,1,0,1,1.0
+441827,2010-02-21,India,South Africa,Jaipur,India,2,1,1,1,0,1,1.0
+441828,2010-02-24,India,South Africa,Gwalior,India,2,0,2,1,0,1,1.0
+441829,2010-02-27,India,South Africa,Ahmedabad,India,3,1,2,1,0,1,0.0
+426420,2010-02-28,Bangladesh,England,Mirpur,Bangladesh,18,0,18,1,0,1,0.0
+426421,2010-03-02,Bangladesh,England,Mirpur,Bangladesh,19,1,18,1,0,1,0.0
+423791,2010-03-03,New Zealand,Australia,Napier,New Zealand,7,0,7,1,0,1,1.0
+439140,2010-03-04,West Indies,Zimbabwe,Guyana,Guyana,3,0,3,1,0,1,0.0
+426422,2010-03-05,Bangladesh,England,Chittagong,Bangladesh,5,0,5,1,0,1,0.0
+423792,2010-03-06,New Zealand,Australia,Auckland,New Zealand,9,3,6,1,0,1,0.0
+439141,2010-03-06,West Indies,Zimbabwe,Guyana,Guyana,4,1,3,1,0,1,1.0
+423793,2010-03-09,New Zealand,Australia,Hamilton,New Zealand,4,1,3,1,0,1,0.0
+439142,2010-03-10,West Indies,Zimbabwe,St Vincent,Saint Vincent and the Grenadines,2,0,2,1,0,1,1.0
+423794,2010-03-11,New Zealand,Australia,Auckland,New Zealand,10,4,6,1,0,1,0.0
+439143,2010-03-12,West Indies,Zimbabwe,St Vincent,Saint Vincent and the Grenadines,3,1,2,1,0,1,1.0
+423795,2010-03-13,New Zealand,Australia,Wellington,New Zealand,8,2,6,1,0,1,1.0
+439144,2010-03-14,West Indies,Zimbabwe,St Vincent,Saint Vincent and the Grenadines,4,2,2,1,0,1,1.0
+439147,2010-05-22,West Indies,South Africa,Antigua,Antigua and Barbuda,4,0,4,1,0,1,0.0
+439148,2010-05-24,West Indies,South Africa,Antigua,Antigua and Barbuda,5,1,4,1,0,1,0.0
+439149,2010-05-28,West Indies,South Africa,Dominica,Dominica,2,0,2,1,0,1,0.0
+452146,2010-05-28,Zimbabwe,India,Bulawayo,Zimbabwe,13,0,13,1,0,1,1.0
+439150,2010-05-30,West Indies,South Africa,Dominica,Dominica,3,1,2,1,0,1,0.0
+452147,2010-05-30,India,Sri Lanka,Bulawayo,Zimbabwe,1,1,0,0,0,0,1.0
+452148,2010-06-01,Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,14,2,12,1,0,1,0.0
+439151,2010-06-03,West Indies,South Africa,Trinidad,Trinidad and Tobago,7,1,6,1,0,1,0.0
+452149,2010-06-03,Zimbabwe,India,Harare,Zimbabwe,24,4,20,1,0,1,1.0
+452150,2010-06-05,India,Sri Lanka,Harare,Zimbabwe,5,5,0,0,0,0,0.0
+452151,2010-06-07,Zimbabwe,Sri Lanka,Harare,Zimbabwe,25,6,19,1,0,1,1.0
+452152,2010-06-09,Zimbabwe,Sri Lanka,Harare,Zimbabwe,26,7,19,1,0,1,0.0
+455231,2010-06-15,Sri Lanka,Pakistan,Dambulla,Sri Lanka,15,6,9,1,0,1,1.0
+455232,2010-06-16,Bangladesh,India,Dambulla,Sri Lanka,0,4,-4,0,0,0,0.0
+426384,2010-06-17,Ireland,Australia,Dublin,Ireland,2,0,2,1,0,1,0.0
+455233,2010-06-18,Sri Lanka,Bangladesh,Dambulla,Sri Lanka,16,1,15,1,0,1,1.0
+455234,2010-06-19,India,Pakistan,Dambulla,Sri Lanka,5,7,-2,0,0,0,1.0
+455235,2010-06-21,Bangladesh,Pakistan,Dambulla,Sri Lanka,2,8,-6,0,0,0,0.0
+426387,2010-06-22,England,Australia,Southampton,England,4,2,2,1,0,1,1.0
+455236,2010-06-22,Sri Lanka,India,Dambulla,Sri Lanka,17,6,11,1,0,1,1.0
+426388,2010-06-24,England,Australia,Cardiff,Wales,2,1,1,0,0,0,1.0
+455237,2010-06-24,Sri Lanka,India,Dambulla,Sri Lanka,18,7,11,1,0,1,0.0
+426389,2010-06-27,England,Australia,Manchester,England,4,1,3,1,0,1,1.0
+426390,2010-06-30,England,Australia,London,England,25,7,18,1,0,1,0.0
+426391,2010-07-03,England,Australia,London,England,26,8,18,1,0,1,0.0
+426403,2010-07-08,England,Bangladesh,Nottingham,England,9,0,9,1,0,1,1.0
+426404,2010-07-10,England,Bangladesh,Bristol,England,4,0,4,1,0,1,0.0
+426405,2010-07-12,England,Bangladesh,Birmingham,England,8,0,8,1,0,1,1.0
+450107,2010-07-16,Ireland,Bangladesh,Belfast,Northern Ireland,5,0,5,1,0,1,0.0
+456662,2010-08-10,India,New Zealand,Dambulla,Sri Lanka,8,3,5,0,0,0,0.0
+456664,2010-08-13,Sri Lanka,New Zealand,Dambulla,Sri Lanka,19,4,15,1,0,1,1.0
+456663,2010-08-16,Sri Lanka,India,Dambulla,Sri Lanka,20,9,11,1,0,1,0.0
+464720,2010-08-18,Ireland,Netherlands,Dublin,Ireland,3,1,2,1,0,1,1.0
+473315,2010-08-19,Sri Lanka,New Zealand,Dambulla,Sri Lanka,21,5,16,1,0,1,
+456666,2010-08-22,Sri Lanka,India,Dambulla,Sri Lanka,22,10,12,1,0,1,1.0
+456665,2010-08-25,India,New Zealand,Dambulla,Sri Lanka,11,6,5,0,0,0,1.0
+456668,2010-08-28,Sri Lanka,India,Dambulla,Sri Lanka,23,12,11,1,0,1,1.0
+426428,2010-09-10,England,Pakistan,Chester-le-Street,England,5,0,5,1,0,1,1.0
+426429,2010-09-12,England,Pakistan,Leeds,England,6,0,6,1,0,1,1.0
+426430,2010-09-17,England,Pakistan,London,England,27,4,23,1,0,1,0.0
+426431,2010-09-20,England,Pakistan,London,England,28,5,23,1,0,1,0.0
+426432,2010-09-22,England,Pakistan,Southampton,England,5,2,3,1,0,1,1.0
+476596,2010-10-05,Bangladesh,New Zealand,Mirpur,Bangladesh,20,0,20,1,0,1,1.0
+476598,2010-10-11,Bangladesh,New Zealand,Mirpur,Bangladesh,21,1,20,1,0,1,1.0
+476599,2010-10-14,Bangladesh,New Zealand,Mirpur,Bangladesh,22,2,20,1,0,1,1.0
+463143,2010-10-15,South Africa,Zimbabwe,Bloemfontein,South Africa,4,3,1,1,0,1,1.0
+463144,2010-10-17,South Africa,Zimbabwe,Potchefstroom,South Africa,3,1,2,1,0,1,1.0
+476600,2010-10-17,Bangladesh,New Zealand,Mirpur,Bangladesh,23,3,20,1,0,1,1.0
+464529,2010-10-20,India,Australia,Visakhapatnam,India,2,0,2,1,0,1,1.0
+463145,2010-10-22,South Africa,Zimbabwe,Benoni,South Africa,1,1,0,1,0,1,1.0
+461566,2010-10-29,Pakistan,South Africa,Abu Dhabi,United Arab Emirates,10,0,10,0,0,0,0.0
+461567,2010-10-31,Pakistan,South Africa,Abu Dhabi,United Arab Emirates,11,1,10,0,0,0,1.0
+461568,2010-11-02,Pakistan,South Africa,Dubai,United Arab Emirates,2,0,2,0,0,0,0.0
+446957,2010-11-03,Australia,Sri Lanka,Melbourne,Australia,21,3,18,1,0,1,0.0
+446958,2010-11-05,Australia,Sri Lanka,Sydney,Australia,21,5,16,1,0,1,0.0
+461569,2010-11-05,Pakistan,South Africa,Dubai,United Arab Emirates,3,1,2,0,0,0,1.0
+446959,2010-11-07,Australia,Sri Lanka,Brisbane,Australia,11,4,7,1,0,1,1.0
+461570,2010-11-08,Pakistan,South Africa,Dubai,United Arab Emirates,4,2,2,0,0,0,0.0
+467883,2010-11-28,India,New Zealand,Guwahati,India,2,0,2,1,0,1,1.0
+467884,2010-12-01,India,New Zealand,Jaipur,India,3,0,3,1,0,1,1.0
+486520,2010-12-01,Bangladesh,Zimbabwe,Mirpur,Bangladesh,24,7,17,1,0,1,0.0
+486522,2010-12-03,Bangladesh,Zimbabwe,Mirpur,Bangladesh,25,8,17,1,0,1,1.0
+467885,2010-12-04,India,New Zealand,Vadodara,India,4,0,4,1,0,1,1.0
+486523,2010-12-06,Bangladesh,Zimbabwe,Mirpur,Bangladesh,26,9,17,1,0,1,1.0
+467886,2010-12-07,India,New Zealand,Bangalore,India,2,0,2,1,0,1,1.0
+467887,2010-12-10,India,New Zealand,Chennai,India,2,1,1,1,0,1,1.0
+486526,2010-12-12,Bangladesh,Zimbabwe,Chittagong,Bangladesh,6,2,4,1,0,1,1.0
+463150,2011-01-12,South Africa,India,Durban,South Africa,11,3,8,1,0,1,1.0
+463151,2011-01-15,South Africa,India,Johannesburg,South Africa,7,3,4,1,0,1,0.0
+446962,2011-01-16,Australia,England,Melbourne,Australia,22,3,19,1,0,1,1.0
+463152,2011-01-18,South Africa,India,Cape Town,South Africa,11,2,9,1,0,1,0.0
+446963,2011-01-21,Australia,England,Hobart,Australia,5,2,3,1,0,1,1.0
+463153,2011-01-21,South Africa,India,Port Elizabeth,South Africa,10,1,9,1,0,1,1.0
+473923,2011-01-22,New Zealand,Pakistan,Wellington,New Zealand,9,0,9,1,0,1,1.0
+446964,2011-01-23,Australia,England,Sydney,Australia,22,4,18,1,0,1,1.0
+463154,2011-01-23,South Africa,India,Centurion,South Africa,13,6,7,1,0,1,1.0
+446965,2011-01-26,Australia,England,Adelaide,Australia,11,4,7,1,0,1,0.0
+473924,2011-01-26,New Zealand,Pakistan,Queenstown,New Zealand,5,0,5,1,0,1,
+473925,2011-01-29,New Zealand,Pakistan,Christchurch,New Zealand,7,0,7,1,0,1,0.0
+446966,2011-01-30,Australia,England,Brisbane,Australia,12,2,10,1,0,1,1.0
+464990,2011-01-31,Sri Lanka,West Indies,Colombo,Sri Lanka,29,1,28,1,0,1,
+473926,2011-02-01,New Zealand,Pakistan,Napier,New Zealand,8,0,8,1,0,1,0.0
+446967,2011-02-02,Australia,England,Sydney,Australia,23,5,18,1,0,1,1.0
+464991,2011-02-03,Sri Lanka,West Indies,Colombo,Sri Lanka,30,2,28,1,0,1,1.0
+473927,2011-02-03,New Zealand,Pakistan,Hamilton,New Zealand,5,0,5,1,0,1,0.0
+473928,2011-02-05,New Zealand,Pakistan,Auckland,New Zealand,11,1,10,1,0,1,1.0
+446968,2011-02-06,Australia,England,Perth,Australia,9,1,8,1,0,1,1.0
+464992,2011-02-06,Sri Lanka,West Indies,Colombo,Sri Lanka,31,3,28,1,0,1,1.0
+433558,2011-02-19,Bangladesh,India,Mirpur,Bangladesh,27,10,17,1,0,1,0.0
+433561,2011-02-21,Australia,Zimbabwe,Ahmedabad,India,0,2,-2,0,0,0,1.0
+433562,2011-02-22,England,Netherlands,Nagpur,India,0,0,0,0,0,0,1.0
+433564,2011-02-24,South Africa,West Indies,Delhi,India,0,0,0,0,0,0,1.0
+433565,2011-02-25,Australia,New Zealand,Nagpur,India,2,0,2,0,0,0,1.0
+433566,2011-02-25,Bangladesh,Ireland,Mirpur,Bangladesh,28,0,28,1,0,1,1.0
+433567,2011-02-26,Sri Lanka,Pakistan,Colombo,Sri Lanka,32,7,25,1,0,1,0.0
+433568,2011-02-27,India,England,Bangalore,India,3,1,2,1,0,1,
+433569,2011-02-28,Netherlands,West Indies,Delhi,India,0,1,-1,0,0,0,0.0
+433572,2011-03-02,England,Ireland,Bangalore,India,2,0,2,0,0,0,0.0
+433573,2011-03-03,Netherlands,South Africa,Chandigarh,India,0,1,-1,0,0,0,0.0
+433575,2011-03-04,New Zealand,Zimbabwe,Ahmedabad,India,0,3,-3,0,0,0,1.0
+433576,2011-03-04,Bangladesh,West Indies,Mirpur,Bangladesh,29,0,29,1,0,1,0.0
+433577,2011-03-05,Sri Lanka,Australia,Colombo,Sri Lanka,34,1,33,1,0,1,
+433578,2011-03-06,India,Ireland,Bangalore,India,4,1,3,1,0,1,1.0
+433579,2011-03-06,England,South Africa,Chennai,India,0,0,0,0,0,0,1.0
+433581,2011-03-08,New Zealand,Pakistan,Kandy,Sri Lanka,0,0,0,0,0,0,1.0
+433582,2011-03-09,India,Netherlands,Delhi,India,4,1,3,1,0,1,1.0
+433583,2011-03-10,Sri Lanka,Zimbabwe,Kandy,Sri Lanka,0,0,0,1,0,1,1.0
+433584,2011-03-11,Ireland,West Indies,Chandigarh,India,0,0,0,0,0,0,0.0
+433585,2011-03-11,Bangladesh,England,Chittagong,Bangladesh,7,1,6,1,0,1,1.0
+433586,2011-03-12,India,South Africa,Nagpur,India,4,0,4,1,0,1,0.0
+433589,2011-03-14,Pakistan,Zimbabwe,Kandy,Sri Lanka,1,1,0,0,0,0,1.0
+433590,2011-03-14,Bangladesh,Netherlands,Chittagong,Bangladesh,8,0,8,1,0,1,1.0
+433591,2011-03-15,Ireland,South Africa,Kolkata,India,0,0,0,0,0,0,0.0
+433593,2011-03-17,England,West Indies,Chennai,India,1,1,0,0,0,0,1.0
+433594,2011-03-18,New Zealand,Sri Lanka,Mumbai,India,3,2,1,0,0,0,0.0
+433595,2011-03-18,Ireland,Netherlands,Kolkata,India,1,0,1,0,0,0,1.0
+433596,2011-03-19,Australia,Pakistan,Colombo,Sri Lanka,2,9,-7,0,0,0,0.0
+433597,2011-03-19,Bangladesh,South Africa,Mirpur,Bangladesh,30,2,28,1,0,1,0.0
+433599,2011-03-20,India,West Indies,Chennai,India,3,2,1,1,0,1,1.0
+433600,2011-03-23,Pakistan,West Indies,Mirpur,Bangladesh,3,1,2,0,0,0,1.0
+433601,2011-03-24,India,Australia,Ahmedabad,India,4,1,3,1,0,1,1.0
+433602,2011-03-25,New Zealand,South Africa,Mirpur,Bangladesh,4,3,1,0,0,0,1.0
+433603,2011-03-26,Sri Lanka,England,Colombo,Sri Lanka,35,2,33,1,0,1,1.0
+433604,2011-03-29,Sri Lanka,New Zealand,Colombo,Sri Lanka,36,2,34,1,0,1,1.0
+433605,2011-03-30,India,Pakistan,Chandigarh,India,5,3,2,1,0,1,1.0
+433606,2011-04-02,India,Sri Lanka,Mumbai,India,3,3,0,1,0,1,1.0
+503363,2011-04-09,Bangladesh,Australia,Mirpur,Bangladesh,31,0,31,1,0,1,0.0
+503364,2011-04-11,Bangladesh,Australia,Mirpur,Bangladesh,32,1,31,1,0,1,0.0
+503365,2011-04-13,Bangladesh,Australia,Mirpur,Bangladesh,33,2,31,1,0,1,0.0
+489213,2011-04-23,West Indies,Pakistan,St Lucia,Saint Lucia,6,1,5,1,0,1,0.0
+489214,2011-04-25,West Indies,Pakistan,St Lucia,Saint Lucia,7,2,5,1,0,1,0.0
+489215,2011-04-28,West Indies,Pakistan,Barbados,Barbados,4,0,4,1,0,1,0.0
+489216,2011-05-02,West Indies,Pakistan,Barbados,Barbados,5,1,4,1,0,1,1.0
+489217,2011-05-05,West Indies,Pakistan,Guyana,Guyana,5,0,5,1,0,1,1.0
+489221,2011-06-06,West Indies,India,Trinidad,Trinidad and Tobago,8,5,3,1,0,1,0.0
+489222,2011-06-08,West Indies,India,Trinidad,Trinidad and Tobago,9,6,3,1,0,1,0.0
+489223,2011-06-11,West Indies,India,Antigua,Antigua and Barbuda,6,0,6,1,0,1,0.0
+489224,2011-06-13,West Indies,India,Antigua,Antigua and Barbuda,7,1,6,1,0,1,1.0
+489225,2011-06-16,West Indies,India,Jamaica,Jamaica,7,3,4,1,0,1,1.0
+474467,2011-06-28,England,Sri Lanka,London,England,29,3,26,1,0,1,1.0
+504779,2011-06-29,Scotland,Netherlands,Aberdeen,Scotland,0,0,0,1,0,1,1.0
+474468,2011-07-01,England,Sri Lanka,Leeds,England,7,1,6,1,0,1,0.0
+474469,2011-07-03,England,Sri Lanka,London,England,30,4,26,1,0,1,0.0
+474470,2011-07-06,England,Sri Lanka,Nottingham,England,10,1,9,1,0,1,1.0
+474471,2011-07-09,England,Sri Lanka,Manchester,England,5,1,4,1,0,1,1.0
+516206,2011-08-10,Sri Lanka,Australia,Kandy,Sri Lanka,1,0,1,1,0,1,0.0
+522246,2011-08-12,Zimbabwe,Bangladesh,Harare,Zimbabwe,27,2,25,1,0,1,1.0
+516207,2011-08-14,Sri Lanka,Australia,Hambantota,Sri Lanka,1,0,1,1,0,1,0.0
+522247,2011-08-14,Zimbabwe,Bangladesh,Harare,Zimbabwe,28,3,25,1,0,1,1.0
+516208,2011-08-16,Sri Lanka,Australia,Hambantota,Sri Lanka,2,1,1,1,0,1,1.0
+522248,2011-08-16,Zimbabwe,Bangladesh,Harare,Zimbabwe,29,4,25,1,0,1,1.0
+522249,2011-08-19,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,15,5,10,1,0,1,0.0
+516209,2011-08-20,Sri Lanka,Australia,Colombo,Sri Lanka,37,3,34,1,0,1,0.0
+522250,2011-08-21,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,16,6,10,1,0,1,0.0
+516210,2011-08-22,Sri Lanka,Australia,Colombo,Sri Lanka,38,4,34,1,0,1,1.0
+483126,2011-08-25,Ireland,England,Dublin,Ireland,4,0,4,1,0,1,0.0
+474477,2011-09-03,England,India,Chester-le-Street,England,6,0,6,1,0,1,
+474478,2011-09-06,England,India,Southampton,England,6,2,4,1,0,1,1.0
+523732,2011-09-08,Zimbabwe,Pakistan,Bulawayo,Zimbabwe,17,1,16,1,0,1,0.0
+474479,2011-09-09,England,India,London,England,31,5,26,1,0,1,1.0
+474480,2011-09-11,England,India,London,England,32,6,26,1,0,1,
+523733,2011-09-11,Zimbabwe,Pakistan,Harare,Zimbabwe,30,0,30,1,0,1,0.0
+523734,2011-09-14,Zimbabwe,Pakistan,Harare,Zimbabwe,31,1,30,1,0,1,0.0
+474481,2011-09-16,England,India,Cardiff,Wales,3,0,3,0,0,0,1.0
+531983,2011-10-13,Bangladesh,West Indies,Mirpur,Bangladesh,34,2,32,1,0,1,0.0
+521218,2011-10-14,India,England,Hyderabad,India,4,0,4,1,0,1,1.0
+531984,2011-10-15,Bangladesh,West Indies,Mirpur,Bangladesh,35,3,32,1,0,1,0.0
+521219,2011-10-17,India,England,Delhi,India,5,1,4,1,0,1,1.0
+531985,2011-10-18,Bangladesh,West Indies,Chittagong,Bangladesh,9,0,9,1,0,1,1.0
+514025,2011-10-19,South Africa,Australia,Centurion,South Africa,14,8,6,1,0,1,0.0
+521220,2011-10-20,India,England,Chandigarh,India,6,0,6,1,0,1,1.0
+527014,2011-10-20,Zimbabwe,New Zealand,Harare,Zimbabwe,32,2,30,1,0,1,0.0
+527015,2011-10-22,Zimbabwe,New Zealand,Harare,Zimbabwe,33,3,30,1,0,1,0.0
+514026,2011-10-23,South Africa,Australia,Port Elizabeth,South Africa,11,2,9,1,0,1,1.0
+521221,2011-10-23,India,England,Mumbai,India,4,0,4,1,0,1,1.0
+521222,2011-10-25,India,England,Kolkata,India,2,0,2,1,0,1,1.0
+527016,2011-10-25,Zimbabwe,New Zealand,Bulawayo,Zimbabwe,18,0,18,1,0,1,1.0
+514027,2011-10-28,South Africa,Australia,Durban,South Africa,12,3,9,1,0,1,0.0
+530427,2011-11-11,Pakistan,Sri Lanka,Dubai,United Arab Emirates,5,0,5,0,0,0,1.0
+530428,2011-11-14,Pakistan,Sri Lanka,Dubai,United Arab Emirates,6,1,5,0,0,0,0.0
+530429,2011-11-18,Pakistan,Sri Lanka,Dubai,United Arab Emirates,7,2,5,0,0,0,1.0
+530430,2011-11-20,Pakistan,Sri Lanka,Sharjah,United Arab Emirates,4,3,1,0,0,0,1.0
+530431,2011-11-23,Pakistan,Sri Lanka,Abu Dhabi,United Arab Emirates,12,0,12,0,0,0,1.0
+536929,2011-11-29,India,West Indies,Cuttack,India,3,0,3,1,0,1,1.0
+538069,2011-12-01,Bangladesh,Pakistan,Mirpur,Bangladesh,36,4,32,1,0,1,0.0
+536930,2011-12-02,India,West Indies,Visakhapatnam,India,3,0,3,1,0,1,1.0
+538070,2011-12-03,Bangladesh,Pakistan,Mirpur,Bangladesh,37,5,32,1,0,1,0.0
+536931,2011-12-05,India,West Indies,Ahmedabad,India,5,3,2,1,0,1,0.0
+538071,2011-12-06,Bangladesh,Pakistan,Chittagong,Bangladesh,10,0,10,1,0,1,0.0
+536932,2011-12-08,India,West Indies,Indore,India,2,0,2,1,0,1,1.0
+536933,2011-12-11,India,West Indies,Chennai,India,4,3,1,1,0,1,1.0
+514035,2012-01-11,South Africa,Sri Lanka,Paarl,South Africa,0,1,-1,1,0,1,1.0
+514036,2012-01-14,South Africa,Sri Lanka,East London,South Africa,3,1,2,1,0,1,1.0
+514037,2012-01-17,South Africa,Sri Lanka,Bloemfontein,South Africa,5,1,4,1,0,1,1.0
+514038,2012-01-20,South Africa,Sri Lanka,Kimberley,South Africa,0,0,0,1,0,1,0.0
+514039,2012-01-22,South Africa,Sri Lanka,Johannesburg,South Africa,8,3,5,1,0,1,0.0
+520592,2012-02-03,New Zealand,Zimbabwe,Dunedin,New Zealand,2,0,2,1,0,1,1.0
+518956,2012-02-05,Australia,India,Melbourne,Australia,23,3,20,1,0,1,1.0
+520593,2012-02-06,New Zealand,Zimbabwe,Whangarei,New Zealand,0,0,0,1,0,1,1.0
+518957,2012-02-08,India,Sri Lanka,Perth,Australia,1,3,-2,0,0,0,1.0
+520594,2012-02-09,New Zealand,Zimbabwe,Napier,New Zealand,9,0,9,1,0,1,1.0
+518958,2012-02-10,Australia,Sri Lanka,Perth,Australia,10,4,6,1,0,1,1.0
+518959,2012-02-12,Australia,India,Adelaide,Australia,12,2,10,1,0,1,0.0
+531631,2012-02-13,England,Pakistan,Abu Dhabi,United Arab Emirates,0,13,-13,0,0,0,1.0
+518960,2012-02-14,India,Sri Lanka,Adelaide,Australia,3,5,-2,0,0,0,
+531632,2012-02-15,England,Pakistan,Abu Dhabi,United Arab Emirates,1,14,-13,0,0,0,1.0
+518961,2012-02-17,Australia,Sri Lanka,Sydney,Australia,24,6,18,1,0,1,0.0
+531633,2012-02-18,England,Pakistan,Dubai,United Arab Emirates,0,8,-8,0,0,0,1.0
+518962,2012-02-19,Australia,India,Brisbane,Australia,13,5,8,1,0,1,1.0
+518963,2012-02-21,India,Sri Lanka,Brisbane,Australia,6,5,1,0,0,0,0.0
+531634,2012-02-21,England,Pakistan,Dubai,United Arab Emirates,1,9,-8,0,0,0,1.0
+518964,2012-02-24,Australia,Sri Lanka,Hobart,Australia,6,2,4,1,0,1,0.0
+520600,2012-02-25,New Zealand,South Africa,Wellington,New Zealand,10,0,10,1,0,1,0.0
+518965,2012-02-26,Australia,India,Sydney,Australia,25,4,21,1,0,1,1.0
+518966,2012-02-28,India,Sri Lanka,Hobart,Australia,2,3,-1,0,0,0,1.0
+520601,2012-02-29,New Zealand,South Africa,Napier,New Zealand,10,0,10,1,0,1,0.0
+518967,2012-03-02,Australia,Sri Lanka,Melbourne,Australia,24,4,20,1,0,1,0.0
+520602,2012-03-03,New Zealand,South Africa,Auckland,New Zealand,12,0,12,1,0,1,0.0
+518968,2012-03-04,Australia,Sri Lanka,Brisbane,Australia,14,6,8,1,0,1,1.0
+518969,2012-03-06,Australia,Sri Lanka,Adelaide,Australia,13,6,7,1,0,1,0.0
+518970,2012-03-08,Australia,Sri Lanka,Adelaide,Australia,14,7,7,1,0,1,1.0
+535794,2012-03-11,Bangladesh,Pakistan,Mirpur,Bangladesh,38,6,32,1,0,1,0.0
+535795,2012-03-13,India,Sri Lanka,Mirpur,Bangladesh,11,6,5,0,0,0,1.0
+535796,2012-03-15,Pakistan,Sri Lanka,Mirpur,Bangladesh,7,7,0,0,0,0,1.0
+535797,2012-03-16,Bangladesh,India,Mirpur,Bangladesh,39,12,27,1,0,1,1.0
+540168,2012-03-16,West Indies,Australia,St Vincent,Saint Vincent and the Grenadines,5,1,4,1,0,1,0.0
+535798,2012-03-18,India,Pakistan,Mirpur,Bangladesh,13,8,5,0,0,0,1.0
+540169,2012-03-18,West Indies,Australia,St Vincent,Saint Vincent and the Grenadines,6,2,4,1,0,1,1.0
+535799,2012-03-20,Bangladesh,Sri Lanka,Mirpur,Bangladesh,40,8,32,1,0,1,1.0
+540170,2012-03-20,West Indies,Australia,St Vincent,Saint Vincent and the Grenadines,7,3,4,1,0,1,
+535800,2012-03-22,Bangladesh,Pakistan,Mirpur,Bangladesh,41,9,32,1,0,1,0.0
+540171,2012-03-23,West Indies,Australia,St Lucia,Saint Lucia,8,1,7,1,0,1,1.0
+540172,2012-03-25,West Indies,Australia,St Lucia,Saint Lucia,9,2,7,1,0,1,0.0
+562439,2012-06-07,Sri Lanka,Pakistan,Kandy,Sri Lanka,2,2,0,1,0,1,0.0
+562440,2012-06-09,Sri Lanka,Pakistan,Kandy,Sri Lanka,3,3,0,1,0,1,1.0
+562441,2012-06-13,Sri Lanka,Pakistan,Colombo,Sri Lanka,39,10,29,1,0,1,
+534209,2012-06-16,England,West Indies,Southampton,England,7,2,5,1,0,1,1.0
+562442,2012-06-16,Sri Lanka,Pakistan,Colombo,Sri Lanka,40,11,29,1,0,1,1.0
+562443,2012-06-18,Sri Lanka,Pakistan,Colombo,Sri Lanka,41,12,29,1,0,1,1.0
+534210,2012-06-19,England,West Indies,London,England,33,5,28,1,0,1,1.0
+534214,2012-06-23,Ireland,Australia,Belfast,Northern Ireland,6,0,6,1,0,1,
+534215,2012-06-29,England,Australia,London,England,34,9,25,1,0,1,1.0
+534216,2012-07-01,England,Australia,London,England,35,10,25,1,0,1,1.0
+560923,2012-07-05,West Indies,New Zealand,Jamaica,Jamaica,8,1,7,1,0,1,1.0
+534218,2012-07-07,England,Australia,Chester-le-Street,England,7,2,5,1,0,1,1.0
+560924,2012-07-07,West Indies,New Zealand,Jamaica,Jamaica,9,2,7,1,0,1,1.0
+534219,2012-07-10,England,Australia,Manchester,England,6,2,4,1,0,1,1.0
+560925,2012-07-11,West Indies,New Zealand,St Kitts,Saint Kitts and Nevis,4,0,4,1,0,1,0.0
+560926,2012-07-14,West Indies,New Zealand,St Kitts,Saint Kitts and Nevis,5,1,4,1,0,1,1.0
+560927,2012-07-16,West Indies,New Zealand,St Kitts,Saint Kitts and Nevis,6,2,4,1,0,1,1.0
+564781,2012-07-21,Sri Lanka,India,Hambantota,Sri Lanka,3,0,3,1,0,1,0.0
+564782,2012-07-24,Sri Lanka,India,Hambantota,Sri Lanka,4,1,3,1,0,1,1.0
+564783,2012-07-28,Sri Lanka,India,Colombo,Sri Lanka,42,13,29,1,0,1,0.0
+564784,2012-07-31,Sri Lanka,India,Colombo,Sri Lanka,43,14,29,1,0,1,0.0
+564785,2012-08-04,Sri Lanka,India,Kandy,Sri Lanka,4,0,4,1,0,1,0.0
+534228,2012-08-24,England,South Africa,Cardiff,Wales,4,1,3,0,0,0,
+534229,2012-08-28,England,South Africa,Southampton,England,8,1,7,1,0,1,0.0
+571145,2012-08-28,Australia,Pakistan,Sharjah,United Arab Emirates,0,5,-5,0,0,0,1.0
+534230,2012-08-31,England,South Africa,London,England,36,5,31,1,0,1,1.0
+571146,2012-08-31,Australia,Pakistan,Abu Dhabi,United Arab Emirates,3,15,-12,0,0,0,0.0
+534231,2012-09-02,England,South Africa,London,England,37,6,31,1,0,1,1.0
+571147,2012-09-03,Australia,Pakistan,Sharjah,United Arab Emirates,1,6,-5,0,0,0,1.0
+534232,2012-09-05,England,South Africa,Nottingham,England,11,1,10,1,0,1,0.0
+582188,2012-11-04,Sri Lanka,New Zealand,Kandy,Sri Lanka,5,1,4,1,0,1,1.0
+582189,2012-11-06,Sri Lanka,New Zealand,Kandy,Sri Lanka,6,2,4,1,0,1,1.0
+582190,2012-11-10,Sri Lanka,New Zealand,Hambantota,Sri Lanka,5,0,5,1,0,1,1.0
+582191,2012-11-12,Sri Lanka,New Zealand,Hambantota,Sri Lanka,6,1,5,1,0,1,
+587471,2012-11-30,Bangladesh,West Indies,Khulna,Bangladesh,0,0,0,1,0,1,1.0
+587472,2012-12-02,Bangladesh,West Indies,Khulna,Bangladesh,1,1,0,1,0,1,1.0
+587473,2012-12-05,Bangladesh,West Indies,Mirpur,Bangladesh,42,4,38,1,0,1,0.0
+587474,2012-12-07,Bangladesh,West Indies,Mirpur,Bangladesh,43,5,38,1,0,1,0.0
+587475,2012-12-08,Bangladesh,West Indies,Mirpur,Bangladesh,44,6,38,1,0,1,1.0
+589308,2012-12-30,India,Pakistan,Chennai,India,5,0,5,1,0,1,0.0
+589309,2013-01-03,India,Pakistan,Kolkata,India,3,0,3,1,0,1,0.0
+589310,2013-01-06,India,Pakistan,Delhi,India,6,1,5,1,0,1,1.0
+565812,2013-01-11,India,England,Rajkot,India,4,1,3,1,0,1,0.0
+573014,2013-01-11,Australia,Sri Lanka,Melbourne,Australia,25,5,20,1,0,1,1.0
+573015,2013-01-13,Australia,Sri Lanka,Adelaide,Australia,15,8,7,1,0,1,0.0
+565813,2013-01-15,India,England,Kochi,India,1,0,1,1,0,1,1.0
+573016,2013-01-18,Australia,Sri Lanka,Brisbane,Australia,15,7,8,1,0,1,0.0
+565814,2013-01-19,India,England,Ranchi,India,0,0,0,1,0,1,1.0
+567358,2013-01-19,South Africa,New Zealand,Paarl,South Africa,1,0,1,1,0,1,0.0
+573017,2013-01-20,Australia,Sri Lanka,Sydney,Australia,26,7,19,1,0,1,
+567359,2013-01-22,South Africa,New Zealand,Kimberley,South Africa,1,1,0,1,0,1,0.0
+565815,2013-01-23,India,England,Chandigarh,India,7,1,6,1,0,1,1.0
+573018,2013-01-23,Australia,Sri Lanka,Hobart,Australia,7,4,3,1,0,1,1.0
+567360,2013-01-25,South Africa,New Zealand,Potchefstroom,South Africa,4,0,4,1,0,1,1.0
+565816,2013-01-27,India,England,Dharamsala,India,0,0,0,1,0,1,0.0
+573022,2013-02-01,Australia,West Indies,Perth,Australia,11,1,10,1,0,1,1.0
+573023,2013-02-03,Australia,West Indies,Perth,Australia,12,2,10,1,0,1,1.0
+573024,2013-02-06,Australia,West Indies,Canberra,Australia,0,0,0,1,0,1,1.0
+573025,2013-02-08,Australia,West Indies,Sydney,Australia,27,1,26,1,0,1,1.0
+573026,2013-02-10,Australia,West Indies,Melbourne,Australia,26,2,24,1,0,1,1.0
+569240,2013-02-17,New Zealand,England,Hamilton,New Zealand,6,1,5,1,0,1,1.0
+569241,2013-02-20,New Zealand,England,Napier,New Zealand,11,1,10,1,0,1,0.0
+593983,2013-02-22,West Indies,Zimbabwe,Grenada,Grenada,3,0,3,1,0,1,1.0
+569242,2013-02-23,New Zealand,England,Auckland,New Zealand,13,1,12,1,0,1,0.0
+593985,2013-02-26,West Indies,Zimbabwe,Grenada,Grenada,4,1,3,1,0,1,1.0
+567368,2013-03-10,South Africa,Pakistan,Bloemfontein,South Africa,6,0,6,1,0,1,1.0
+567369,2013-03-15,South Africa,Pakistan,Centurion,South Africa,15,4,11,1,0,1,0.0
+567370,2013-03-17,South Africa,Pakistan,Johannesburg,South Africa,9,4,5,1,0,1,1.0
+567371,2013-03-21,South Africa,Pakistan,Durban,South Africa,13,1,12,1,0,1,0.0
+602474,2013-03-23,Sri Lanka,Bangladesh,Hambantota,Sri Lanka,7,0,7,1,0,1,1.0
+567372,2013-03-24,South Africa,Pakistan,Benoni,South Africa,2,0,2,1,0,1,1.0
+602475,2013-03-25,Sri Lanka,Bangladesh,Hambantota,Sri Lanka,8,1,7,1,0,1,
+602476,2013-03-28,Sri Lanka,Bangladesh,Kandy,Sri Lanka,7,0,7,1,0,1,0.0
+623573,2013-05-03,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,19,7,12,1,0,1,0.0
+623574,2013-05-05,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,20,8,12,1,0,1,1.0
+623575,2013-05-08,Zimbabwe,Bangladesh,Bulawayo,Zimbabwe,21,9,12,1,0,1,1.0
+601077,2013-05-17,Scotland,Pakistan,Edinburgh,Scotland,0,0,0,1,0,1,0.0
+601612,2013-05-23,Ireland,Pakistan,Dublin,Ireland,7,0,7,1,0,1,
+601613,2013-05-26,Ireland,Pakistan,Dublin,Ireland,8,1,7,1,0,1,0.0
+566923,2013-05-31,England,New Zealand,London,England,38,5,33,1,0,1,0.0
+566924,2013-06-02,England,New Zealand,Southampton,England,9,0,9,1,0,1,0.0
+566925,2013-06-05,England,New Zealand,Nottingham,England,12,0,12,1,0,1,1.0
+578614,2013-06-06,India,South Africa,Cardiff,Wales,1,2,-1,0,0,0,1.0
+578615,2013-06-07,Pakistan,West Indies,London,England,6,6,0,0,0,0,0.0
+578616,2013-06-08,England,Australia,Birmingham,England,9,2,7,1,0,1,1.0
+578617,2013-06-09,New Zealand,Sri Lanka,Cardiff,Wales,0,0,0,0,0,0,1.0
+578618,2013-06-10,Pakistan,South Africa,Birmingham,England,3,0,3,0,0,0,0.0
+578619,2013-06-11,India,West Indies,London,England,7,7,0,0,0,0,1.0
+578620,2013-06-12,Australia,New Zealand,Birmingham,England,3,1,2,0,0,0,
+578621,2013-06-13,England,Sri Lanka,London,England,39,5,34,1,0,1,0.0
+578622,2013-06-14,South Africa,West Indies,Cardiff,Wales,3,0,3,0,0,0,
+578623,2013-06-15,India,Pakistan,Birmingham,England,2,4,-2,0,0,0,1.0
+578624,2013-06-16,England,New Zealand,Cardiff,Wales,5,1,4,0,0,0,1.0
+578625,2013-06-17,Australia,Sri Lanka,London,England,11,6,5,0,0,0,0.0
+566946,2013-06-19,England,South Africa,London,England,40,7,33,1,0,1,1.0
+566947,2013-06-20,India,Sri Lanka,Cardiff,Wales,2,1,1,0,0,0,1.0
+566948,2013-06-23,England,India,Birmingham,England,10,3,7,1,0,1,0.0
+597923,2013-06-28,West Indies,Sri Lanka,Jamaica,Jamaica,10,1,9,1,0,1,1.0
+597924,2013-06-30,West Indies,India,Jamaica,Jamaica,11,4,7,1,0,1,1.0
+597925,2013-07-02,India,Sri Lanka,Jamaica,Jamaica,5,2,3,0,0,0,0.0
+597926,2013-07-05,West Indies,India,Trinidad,Trinidad and Tobago,10,7,3,1,0,1,0.0
+597927,2013-07-07,West Indies,Sri Lanka,Trinidad,Trinidad and Tobago,11,5,6,1,0,1,0.0
+631138,2013-07-07,Netherlands,Ireland,Amstelveen,Netherlands,0,1,-1,1,0,1,0.0
+597928,2013-07-09,India,Sri Lanka,Trinidad,Trinidad and Tobago,8,6,2,0,0,0,1.0
+597929,2013-07-11,India,Sri Lanka,Trinidad,Trinidad and Tobago,9,7,2,0,0,0,1.0
+645635,2013-07-14,West Indies,Pakistan,Guyana,Guyana,6,1,5,1,0,1,0.0
+645637,2013-07-16,West Indies,Pakistan,Guyana,Guyana,7,2,5,1,0,1,1.0
+645639,2013-07-19,West Indies,Pakistan,St Lucia,Saint Lucia,10,3,7,1,0,1,
+635653,2013-07-20,Sri Lanka,South Africa,Colombo,Sri Lanka,44,1,43,1,0,1,1.0
+645641,2013-07-21,West Indies,Pakistan,St Lucia,Saint Lucia,11,4,7,1,0,1,0.0
+635654,2013-07-23,Sri Lanka,South Africa,Colombo,Sri Lanka,45,2,43,1,0,1,1.0
+643665,2013-07-24,Zimbabwe,India,Harare,Zimbabwe,34,6,28,1,0,1,0.0
+645643,2013-07-24,West Indies,Pakistan,St Lucia,Saint Lucia,12,5,7,1,0,1,0.0
+635655,2013-07-26,Sri Lanka,South Africa,Kandy,Sri Lanka,8,0,8,1,0,1,0.0
+643667,2013-07-26,Zimbabwe,India,Harare,Zimbabwe,35,7,28,1,0,1,0.0
+635656,2013-07-28,Sri Lanka,South Africa,Kandy,Sri Lanka,9,1,8,1,0,1,1.0
+643669,2013-07-28,Zimbabwe,India,Harare,Zimbabwe,36,8,28,1,0,1,0.0
+635657,2013-07-31,Sri Lanka,South Africa,Colombo,Sri Lanka,46,3,43,1,0,1,1.0
+643675,2013-08-01,Zimbabwe,India,Bulawayo,Zimbabwe,22,2,20,1,0,1,0.0
+643677,2013-08-03,Zimbabwe,India,Bulawayo,Zimbabwe,23,3,20,1,0,1,0.0
+659549,2013-08-27,Zimbabwe,Pakistan,Harare,Zimbabwe,37,2,35,1,0,1,1.0
+659551,2013-08-29,Zimbabwe,Pakistan,Harare,Zimbabwe,38,3,35,1,0,1,0.0
+659553,2013-08-31,Zimbabwe,Pakistan,Harare,Zimbabwe,39,4,35,1,0,1,0.0
+566940,2013-09-03,Ireland,England,Dublin,Ireland,9,1,8,1,0,1,0.0
+660837,2013-09-06,Ireland,Scotland,Belfast,Northern Ireland,7,1,6,1,0,1,1.0
+566942,2013-09-08,England,Australia,Manchester,England,7,3,4,1,0,1,0.0
+566943,2013-09-11,England,Australia,Birmingham,England,11,4,7,1,0,1,
+566944,2013-09-14,England,Australia,Cardiff,Wales,6,2,4,0,0,0,1.0
+566945,2013-09-16,England,Australia,Southampton,England,10,3,7,1,0,1,0.0
+647249,2013-10-13,India,Australia,Pune,India,1,1,0,1,0,1,0.0
+647251,2013-10-16,India,Australia,Jaipur,India,4,1,3,1,0,1,1.0
+647253,2013-10-19,India,Australia,Chandigarh,India,8,4,4,1,0,1,0.0
+647255,2013-10-23,India,Australia,Ranchi,India,1,0,1,1,0,1,
+668953,2013-10-29,Bangladesh,New Zealand,Mirpur,Bangladesh,45,5,40,1,0,1,1.0
+647259,2013-10-30,India,Australia,Nagpur,India,5,3,2,1,0,1,1.0
+649091,2013-10-30,Pakistan,South Africa,Sharjah,United Arab Emirates,7,0,7,0,0,0,0.0
+668955,2013-10-31,Bangladesh,New Zealand,Mirpur,Bangladesh,46,6,40,1,0,1,1.0
+649093,2013-11-01,Pakistan,South Africa,Dubai,United Arab Emirates,10,3,7,0,0,0,1.0
+647261,2013-11-02,India,Australia,Bangalore,India,5,3,2,1,0,1,1.0
+668957,2013-11-03,Bangladesh,New Zealand,Fatullah,Bangladesh,2,0,2,1,0,1,1.0
+649095,2013-11-06,Pakistan,South Africa,Abu Dhabi,United Arab Emirates,16,2,14,0,0,0,0.0
+649097,2013-11-08,Pakistan,South Africa,Abu Dhabi,United Arab Emirates,17,3,14,0,0,0,0.0
+668961,2013-11-10,Sri Lanka,New Zealand,Hambantota,Sri Lanka,9,2,7,1,0,1,
+649099,2013-11-11,Pakistan,South Africa,Sharjah,United Arab Emirates,8,1,7,0,0,0,0.0
+668963,2013-11-12,Sri Lanka,New Zealand,Hambantota,Sri Lanka,10,3,7,1,0,1,0.0
+668965,2013-11-16,Sri Lanka,New Zealand,Dambulla,Sri Lanka,24,7,17,1,0,1,1.0
+676529,2013-11-21,India,West Indies,Kochi,India,2,0,2,1,0,1,1.0
+676531,2013-11-24,India,West Indies,Visakhapatnam,India,4,1,3,1,0,1,0.0
+685731,2013-11-24,South Africa,Pakistan,Cape Town,South Africa,12,2,10,1,0,1,0.0
+676533,2013-11-27,India,West Indies,Kanpur,India,3,0,3,1,0,1,1.0
+685733,2013-11-27,South Africa,Pakistan,Port Elizabeth,South Africa,12,1,11,1,0,1,0.0
+685735,2013-11-30,South Africa,Pakistan,Centurion,South Africa,16,5,11,1,0,1,1.0
+648651,2013-12-05,South Africa,India,Johannesburg,South Africa,10,4,6,1,0,1,1.0
+648653,2013-12-08,South Africa,India,Durban,South Africa,14,4,10,1,0,1,1.0
+648655,2013-12-11,South Africa,India,Centurion,South Africa,17,7,10,1,0,1,
+657637,2013-12-18,Pakistan,Sri Lanka,Sharjah,United Arab Emirates,9,4,5,0,0,0,1.0
+657639,2013-12-20,Pakistan,Sri Lanka,Dubai,United Arab Emirates,11,3,8,0,0,0,0.0
+657641,2013-12-22,Pakistan,Sri Lanka,Sharjah,United Arab Emirates,10,5,5,0,0,0,1.0
+657643,2013-12-25,Pakistan,Sri Lanka,Abu Dhabi,United Arab Emirates,18,1,17,0,0,0,1.0
+661685,2013-12-26,New Zealand,West Indies,Auckland,New Zealand,14,1,13,1,0,1,0.0
+657645,2013-12-27,Pakistan,Sri Lanka,Abu Dhabi,United Arab Emirates,19,2,17,0,0,0,0.0
+661689,2014-01-01,New Zealand,West Indies,Queenstown,New Zealand,6,2,4,1,0,1,1.0
+661691,2014-01-04,New Zealand,West Indies,Nelson,New Zealand,0,0,0,1,0,1,1.0
+661693,2014-01-08,New Zealand,West Indies,Hamilton,New Zealand,7,0,7,1,0,1,0.0
+636159,2014-01-12,Australia,England,Melbourne,Australia,27,4,23,1,0,1,1.0
+636160,2014-01-17,Australia,England,Brisbane,Australia,16,3,13,1,0,1,1.0
+636161,2014-01-19,Australia,England,Sydney,Australia,28,6,22,1,0,1,1.0
+667641,2014-01-19,New Zealand,India,Napier,New Zealand,12,2,10,1,0,1,1.0
+667643,2014-01-22,New Zealand,India,Hamilton,New Zealand,8,2,6,1,0,1,1.0
+636162,2014-01-24,Australia,England,Perth,Australia,13,2,11,1,0,1,0.0
+667645,2014-01-25,New Zealand,India,Auckland,New Zealand,15,1,14,1,0,1,
+636163,2014-01-26,Australia,England,Adelaide,Australia,16,5,11,1,0,1,1.0
+667647,2014-01-28,New Zealand,India,Hamilton,New Zealand,9,3,6,1,0,1,1.0
+667649,2014-01-31,New Zealand,India,Wellington,New Zealand,11,2,9,1,0,1,1.0
+690355,2014-02-17,Bangladesh,Sri Lanka,Mirpur,Bangladesh,47,9,38,1,0,1,0.0
+690357,2014-02-20,Bangladesh,Sri Lanka,Mirpur,Bangladesh,48,10,38,1,0,1,0.0
+690359,2014-02-22,Bangladesh,Sri Lanka,Mirpur,Bangladesh,49,11,38,1,0,1,0.0
+702139,2014-02-23,West Indies,Ireland,Jamaica,Jamaica,12,3,9,1,0,1,1.0
+710291,2014-02-25,Pakistan,Sri Lanka,Fatullah,Bangladesh,0,0,0,0,0,0,0.0
+710293,2014-02-26,Bangladesh,India,Fatullah,Bangladesh,3,0,3,1,0,1,0.0
+636533,2014-02-28,West Indies,England,Antigua,Antigua and Barbuda,8,2,6,1,0,1,1.0
+710297,2014-02-28,India,Sri Lanka,Fatullah,Bangladesh,1,1,0,0,0,0,0.0
+636534,2014-03-02,West Indies,England,Antigua,Antigua and Barbuda,9,3,6,1,0,1,0.0
+710301,2014-03-02,India,Pakistan,Mirpur,Bangladesh,14,10,4,0,0,0,0.0
+710305,2014-03-04,Bangladesh,Pakistan,Mirpur,Bangladesh,50,11,39,1,0,1,0.0
+636535,2014-03-05,West Indies,England,Antigua,Antigua and Barbuda,10,4,6,1,0,1,0.0
+710309,2014-03-06,Bangladesh,Sri Lanka,Mirpur,Bangladesh,51,12,39,1,0,1,0.0
+710311,2014-03-08,Pakistan,Sri Lanka,Mirpur,Bangladesh,12,13,-1,0,0,0,0.0
+706767,2014-05-06,Sri Lanka,Ireland,Dublin,Ireland,0,10,-10,0,1,-1,1.0
+684679,2014-05-09,Scotland,England,Aberdeen,Scotland,1,0,1,1,0,1,0.0
+667889,2014-05-22,England,Sri Lanka,London,England,41,7,34,1,0,1,1.0
+667891,2014-05-25,England,Sri Lanka,Chester-le-Street,England,8,1,7,1,0,1,0.0
+667893,2014-05-28,England,Sri Lanka,Manchester,England,8,2,6,1,0,1,1.0
+667895,2014-05-31,England,Sri Lanka,London,England,42,8,34,1,0,1,0.0
+667897,2014-06-03,England,Sri Lanka,Birmingham,England,12,0,12,1,0,1,0.0
+744679,2014-06-15,Bangladesh,India,Mirpur,Bangladesh,52,15,37,1,0,1,0.0
+744681,2014-06-17,Bangladesh,India,Mirpur,Bangladesh,53,16,37,1,0,1,0.0
+744683,2014-06-19,Bangladesh,India,Mirpur,Bangladesh,54,17,37,1,0,1,
+730083,2014-07-06,Sri Lanka,South Africa,Colombo,Sri Lanka,47,4,43,1,0,1,0.0
+730085,2014-07-09,Sri Lanka,South Africa,Kandy,Sri Lanka,10,2,8,1,0,1,1.0
+730087,2014-07-12,Sri Lanka,South Africa,Hambantota,Sri Lanka,11,0,11,1,0,1,0.0
+736437,2014-08-17,Zimbabwe,South Africa,Bulawayo,Zimbabwe,24,1,23,1,0,1,0.0
+736439,2014-08-19,Zimbabwe,South Africa,Bulawayo,Zimbabwe,25,2,23,1,0,1,0.0
+730287,2014-08-20,West Indies,Bangladesh,Grenada,Grenada,5,0,5,1,0,1,1.0
+736441,2014-08-21,Zimbabwe,South Africa,Bulawayo,Zimbabwe,26,3,23,1,0,1,0.0
+730289,2014-08-22,West Indies,Bangladesh,Grenada,Grenada,6,1,5,1,0,1,1.0
+745159,2014-08-23,Sri Lanka,Pakistan,Hambantota,Sri Lanka,12,1,11,1,0,1,0.0
+730291,2014-08-25,West Indies,Bangladesh,St Kitts,Saint Kitts and Nevis,7,1,6,1,0,1,1.0
+736443,2014-08-25,Zimbabwe,Australia,Harare,Zimbabwe,40,3,37,1,0,1,0.0
+745161,2014-08-26,Sri Lanka,Pakistan,Hambantota,Sri Lanka,13,2,11,1,0,1,1.0
+667723,2014-08-27,England,India,Cardiff,Wales,7,3,4,0,0,0,0.0
+736445,2014-08-27,Australia,South Africa,Harare,Zimbabwe,4,2,2,0,0,0,0.0
+736447,2014-08-29,Zimbabwe,South Africa,Harare,Zimbabwe,41,3,38,1,0,1,0.0
+667725,2014-08-30,England,India,Nottingham,England,13,1,12,1,0,1,0.0
+745163,2014-08-30,Sri Lanka,Pakistan,Dambulla,Sri Lanka,25,9,16,1,0,1,1.0
+736449,2014-08-31,Zimbabwe,Australia,Harare,Zimbabwe,42,5,37,1,0,1,1.0
+667727,2014-09-02,England,India,Birmingham,England,13,4,9,1,0,1,0.0
+736451,2014-09-02,Australia,South Africa,Harare,Zimbabwe,6,4,2,0,0,0,1.0
+736453,2014-09-04,Zimbabwe,South Africa,Harare,Zimbabwe,43,5,38,1,0,1,0.0
+667729,2014-09-05,England,India,Leeds,England,8,1,7,1,0,1,1.0
+736455,2014-09-06,Australia,South Africa,Harare,Zimbabwe,7,6,1,0,0,0,0.0
+727935,2014-09-08,Ireland,Scotland,Dublin,Ireland,11,2,9,1,0,1,1.0
+727937,2014-09-10,Ireland,Scotland,Dublin,Ireland,12,3,9,1,0,1,1.0
+727939,2014-09-12,Ireland,Scotland,Dublin,Ireland,13,4,9,1,0,1,0.0
+727919,2014-10-07,Australia,Pakistan,Sharjah,United Arab Emirates,2,11,-9,0,0,0,1.0
+770121,2014-10-08,India,West Indies,Kochi,India,3,1,2,1,0,1,0.0
+727921,2014-10-10,Australia,Pakistan,Dubai,United Arab Emirates,2,12,-10,0,0,0,1.0
+770123,2014-10-11,India,West Indies,Delhi,India,7,2,5,1,0,1,1.0
+727923,2014-10-12,Australia,Pakistan,Abu Dhabi,United Arab Emirates,4,20,-16,0,0,0,1.0
+770127,2014-10-17,India,West Indies,Dharmasala,India,0,0,0,1,0,1,1.0
+749771,2014-10-21,New Zealand,South Africa,Mount Maunganui,New Zealand,0,0,0,1,0,1,0.0
+749773,2014-10-24,New Zealand,South Africa,Mount Maunganui,New Zealand,1,1,0,1,0,1,0.0
+749775,2014-10-27,New Zealand,South Africa,Hamilton,New Zealand,10,0,10,1,0,1,
+792289,2014-11-02,India,Sri Lanka,Cuttack,India,4,1,3,1,0,1,1.0
+792291,2014-11-06,India,Sri Lanka,Ahmedabad,India,6,3,3,1,0,1,1.0
+792293,2014-11-09,India,Sri Lanka,Hyderabad,India,5,0,5,1,0,1,1.0
+792295,2014-11-13,India,Sri Lanka,Kolkata,India,4,2,2,1,0,1,1.0
+754723,2014-11-14,Australia,South Africa,Perth,Australia,14,2,12,1,0,1,1.0
+754725,2014-11-16,Australia,South Africa,Perth,Australia,15,3,12,1,0,1,0.0
+792297,2014-11-16,India,Sri Lanka,Ranchi,India,2,0,2,1,0,1,1.0
+754727,2014-11-19,Australia,South Africa,Canberra,Australia,1,0,1,1,0,1,1.0
+754729,2014-11-21,Australia,South Africa,Melbourne,Australia,28,3,25,1,0,1,1.0
+760787,2014-11-21,Bangladesh,Zimbabwe,Chittagong,Bangladesh,11,3,8,1,0,1,1.0
+754731,2014-11-23,Australia,South Africa,Sydney,Australia,29,2,27,1,0,1,1.0
+760789,2014-11-23,Bangladesh,Zimbabwe,Chittagong,Bangladesh,12,4,8,1,0,1,1.0
+750663,2014-11-26,Sri Lanka,England,Colombo,Sri Lanka,48,3,45,1,0,1,1.0
+760791,2014-11-26,Bangladesh,Zimbabwe,Mirpur,Bangladesh,55,10,45,1,0,1,1.0
+760793,2014-11-28,Bangladesh,Zimbabwe,Mirpur,Bangladesh,56,11,45,1,0,1,1.0
+750665,2014-11-29,Sri Lanka,England,Colombo,Sri Lanka,49,4,45,1,0,1,1.0
+760795,2014-12-01,Bangladesh,Zimbabwe,Mirpur,Bangladesh,57,12,45,1,0,1,1.0
+750667,2014-12-03,Sri Lanka,England,Hambantota,Sri Lanka,14,0,14,1,0,1,0.0
+750669,2014-12-07,Sri Lanka,England,Colombo,Sri Lanka,50,5,45,1,0,1,1.0
+742619,2014-12-08,New Zealand,Pakistan,Dubai,United Arab Emirates,0,13,-13,0,0,0,0.0
+750671,2014-12-10,Sri Lanka,England,Kandy,Sri Lanka,11,0,11,1,0,1,0.0
+742621,2014-12-12,New Zealand,Pakistan,Sharjah,United Arab Emirates,0,12,-12,0,0,0,1.0
+750673,2014-12-13,Sri Lanka,England,Kandy,Sri Lanka,12,1,11,1,0,1,1.0
+742623,2014-12-14,New Zealand,Pakistan,Sharjah,United Arab Emirates,1,13,-12,0,0,0,0.0
+750675,2014-12-16,Sri Lanka,England,Colombo,Sri Lanka,51,6,45,1,0,1,1.0
+742625,2014-12-17,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,3,21,-18,0,0,0,1.0
+742627,2014-12-19,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,4,22,-18,0,0,0,1.0
+749781,2015-01-11,New Zealand,Sri Lanka,Christchurch,New Zealand,8,2,6,1,0,1,1.0
+810829,2015-01-12,Ireland,Scotland,Dubai,United Arab Emirates,0,0,0,0,0,0,1.0
+749783,2015-01-15,New Zealand,Sri Lanka,Hamilton,New Zealand,11,0,11,1,0,1,0.0
+722339,2015-01-16,South Africa,West Indies,Durban,South Africa,15,2,13,1,0,1,1.0
+754751,2015-01-16,Australia,England,Sydney,Australia,30,7,23,1,0,1,1.0
+749785,2015-01-17,New Zealand,Sri Lanka,Auckland,New Zealand,16,1,15,1,0,1,
+722341,2015-01-18,South Africa,West Indies,Johannesburg,South Africa,11,4,7,1,0,1,1.0
+754749,2015-01-18,Australia,India,Melbourne,Australia,29,4,25,1,0,1,1.0
+749787,2015-01-20,New Zealand,Sri Lanka,Nelson,New Zealand,1,0,1,1,0,1,1.0
+754753,2015-01-20,England,India,Brisbane,Australia,4,7,-3,0,0,0,1.0
+722343,2015-01-21,South Africa,West Indies,East London,South Africa,4,0,4,1,0,1,1.0
+749789,2015-01-23,New Zealand,Sri Lanka,Dunedin,New Zealand,3,0,3,1,0,1,1.0
+754755,2015-01-23,Australia,England,Hobart,Australia,8,3,5,1,0,1,1.0
+722345,2015-01-25,South Africa,West Indies,Port Elizabeth,South Africa,13,1,12,1,0,1,0.0
+749791,2015-01-25,New Zealand,Sri Lanka,Dunedin,New Zealand,4,1,3,1,0,1,1.0
+754757,2015-01-26,Australia,India,Sydney,Australia,31,5,26,1,0,1,
+722347,2015-01-28,South Africa,West Indies,Centurion,South Africa,18,3,15,1,0,1,1.0
+749793,2015-01-29,New Zealand,Sri Lanka,Wellington,New Zealand,12,1,11,1,0,1,0.0
+754759,2015-01-30,England,India,Perth,Australia,3,2,1,0,0,0,1.0
+749795,2015-01-31,New Zealand,Pakistan,Wellington,New Zealand,13,1,12,1,0,1,1.0
+754761,2015-02-01,Australia,England,Perth,Australia,16,4,12,1,0,1,1.0
+749797,2015-02-03,New Zealand,Pakistan,Napier,New Zealand,13,1,12,1,0,1,1.0
+656399,2015-02-14,New Zealand,Sri Lanka,Christchurch,New Zealand,9,3,6,1,0,1,1.0
+656401,2015-02-14,Australia,England,Melbourne,Australia,30,5,25,1,0,1,1.0
+656403,2015-02-15,South Africa,Zimbabwe,Hamilton,New Zealand,1,0,1,0,0,0,1.0
+656405,2015-02-15,India,Pakistan,Adelaide,Australia,4,1,3,0,0,0,1.0
+656407,2015-02-16,Ireland,West Indies,Nelson,New Zealand,0,1,-1,0,0,0,1.0
+656409,2015-02-17,New Zealand,Scotland,Dunedin,New Zealand,5,0,5,1,0,1,1.0
+656415,2015-02-20,New Zealand,England,Wellington,New Zealand,14,1,13,1,0,1,1.0
+656417,2015-02-21,Pakistan,West Indies,Christchurch,New Zealand,1,1,0,0,0,0,0.0
+656423,2015-02-22,India,South Africa,Melbourne,Australia,5,4,1,0,0,0,1.0
+656425,2015-02-23,England,Scotland,Christchurch,New Zealand,1,2,-1,0,0,0,1.0
+656427,2015-02-24,West Indies,Zimbabwe,Canberra,Australia,1,0,1,0,0,0,1.0
+656433,2015-02-26,Bangladesh,Sri Lanka,Melbourne,Australia,0,6,-6,0,0,0,0.0
+656435,2015-02-27,South Africa,West Indies,Sydney,Australia,3,2,1,0,0,0,1.0
+656437,2015-02-28,New Zealand,Australia,Auckland,New Zealand,17,5,12,1,0,1,1.0
+656441,2015-03-01,England,Sri Lanka,Wellington,New Zealand,2,2,0,0,0,0,0.0
+656443,2015-03-01,Pakistan,Zimbabwe,Brisbane,Australia,2,1,1,0,0,0,1.0
+656445,2015-03-03,Ireland,South Africa,Canberra,Australia,0,1,-1,0,0,0,0.0
+656451,2015-03-05,Bangladesh,Scotland,Nelson,New Zealand,0,0,0,0,0,0,1.0
+656453,2015-03-06,India,West Indies,Perth,Australia,4,3,1,0,0,0,1.0
+656455,2015-03-07,Pakistan,South Africa,Auckland,New Zealand,2,1,1,0,0,0,1.0
+656457,2015-03-07,Ireland,Zimbabwe,Hobart,Australia,0,2,-2,0,0,0,1.0
+656461,2015-03-08,Australia,Sri Lanka,Sydney,Australia,32,8,24,1,0,1,1.0
+656463,2015-03-09,Bangladesh,England,Adelaide,Australia,0,6,-6,0,0,0,1.0
+656465,2015-03-10,India,Ireland,Hamilton,New Zealand,4,0,4,0,0,0,1.0
+656467,2015-03-11,Scotland,Sri Lanka,Hobart,Australia,0,5,-5,0,0,0,0.0
+656471,2015-03-13,New Zealand,Bangladesh,Hamilton,New Zealand,12,0,12,1,0,1,1.0
+656475,2015-03-14,India,Zimbabwe,Auckland,New Zealand,2,0,2,0,0,0,1.0
+656477,2015-03-14,Australia,Scotland,Hobart,Australia,9,1,8,1,0,1,1.0
+656481,2015-03-15,Ireland,Pakistan,Adelaide,Australia,0,2,-2,0,0,0,0.0
+656483,2015-03-18,South Africa,Sri Lanka,Sydney,Australia,4,9,-5,0,0,0,1.0
+656485,2015-03-19,Bangladesh,India,Melbourne,Australia,1,6,-5,0,0,0,0.0
+656487,2015-03-20,Australia,Pakistan,Adelaide,Australia,17,3,14,1,0,1,1.0
+656489,2015-03-21,New Zealand,West Indies,Wellington,New Zealand,15,2,13,1,0,1,1.0
+656491,2015-03-24,New Zealand,South Africa,Auckland,New Zealand,18,2,16,1,0,1,1.0
+656493,2015-03-26,Australia,India,Sydney,Australia,33,6,27,1,0,1,1.0
+656495,2015-03-29,Australia,New Zealand,Melbourne,Australia,31,3,28,1,0,1,1.0
+858485,2015-04-17,Bangladesh,Pakistan,Mirpur,Bangladesh,58,13,45,1,0,1,1.0
+858487,2015-04-19,Bangladesh,Pakistan,Mirpur,Bangladesh,59,14,45,1,0,1,1.0
+858489,2015-04-22,Bangladesh,Pakistan,Mirpur,Bangladesh,60,15,45,1,0,1,1.0
+760889,2015-05-08,Ireland,England,Dublin,Ireland,14,2,12,1,0,1,
+868727,2015-05-26,Pakistan,Zimbabwe,Lahore,Pakistan,16,0,16,1,0,1,1.0
+868729,2015-05-29,Pakistan,Zimbabwe,Lahore,Pakistan,17,1,16,1,0,1,1.0
+868731,2015-05-31,Pakistan,Zimbabwe,Lahore,Pakistan,18,2,16,1,0,1,
+743943,2015-06-09,England,New Zealand,Birmingham,England,14,2,12,1,0,1,1.0
+743945,2015-06-12,England,New Zealand,London,England,43,6,37,1,0,1,0.0
+743947,2015-06-14,England,New Zealand,Southampton,England,11,1,10,1,0,1,0.0
+743949,2015-06-17,England,New Zealand,Nottingham,England,14,1,13,1,0,1,1.0
+870731,2015-06-18,Bangladesh,India,Mirpur,Bangladesh,61,18,43,1,0,1,1.0
+743951,2015-06-20,England,New Zealand,Chester-le-Street,England,9,2,7,1,0,1,1.0
+870733,2015-06-21,Bangladesh,India,Mirpur,Bangladesh,62,19,43,1,0,1,1.0
+870735,2015-06-24,Bangladesh,India,Mirpur,Bangladesh,63,20,43,1,0,1,0.0
+817207,2015-07-10,Bangladesh,South Africa,Mirpur,Bangladesh,64,4,60,1,0,1,0.0
+885959,2015-07-10,Zimbabwe,India,Harare,Zimbabwe,44,9,35,1,0,1,0.0
+860269,2015-07-11,Sri Lanka,Pakistan,Dambulla,Sri Lanka,26,10,16,1,0,1,0.0
+817209,2015-07-12,Bangladesh,South Africa,Mirpur,Bangladesh,65,5,60,1,0,1,1.0
+885965,2015-07-12,Zimbabwe,India,Harare,Zimbabwe,45,10,35,1,0,1,0.0
+885967,2015-07-14,Zimbabwe,India,Harare,Zimbabwe,46,11,35,1,0,1,0.0
+817211,2015-07-15,Bangladesh,South Africa,Chittagong,Bangladesh,13,1,12,1,0,1,1.0
+860271,2015-07-15,Sri Lanka,Pakistan,Kandy,Sri Lanka,13,4,9,1,0,1,1.0
+860273,2015-07-19,Sri Lanka,Pakistan,Colombo,Sri Lanka,52,13,39,1,0,1,0.0
+860275,2015-07-22,Sri Lanka,Pakistan,Colombo,Sri Lanka,53,14,39,1,0,1,0.0
+860277,2015-07-26,Sri Lanka,Pakistan,Hambantota,Sri Lanka,15,3,12,1,0,1,1.0
+894287,2015-08-02,Zimbabwe,New Zealand,Harare,Zimbabwe,47,4,43,1,0,1,1.0
+894289,2015-08-04,Zimbabwe,New Zealand,Harare,Zimbabwe,48,5,43,1,0,1,0.0
+894291,2015-08-07,Zimbabwe,New Zealand,Harare,Zimbabwe,49,6,43,1,0,1,0.0
+848843,2015-08-19,South Africa,New Zealand,Centurion,South Africa,19,4,15,1,0,1,1.0
+848845,2015-08-23,South Africa,New Zealand,Potchefstroom,South Africa,5,1,4,1,0,1,0.0
+848847,2015-08-26,South Africa,New Zealand,Durban,South Africa,16,2,14,1,0,1,1.0
+743973,2015-08-27,Ireland,Australia,Belfast,Northern Ireland,8,1,7,1,0,1,0.0
+743977,2015-09-03,England,Australia,Southampton,England,12,4,8,1,0,1,0.0
+743979,2015-09-05,England,Australia,London,England,44,12,32,1,0,1,0.0
+743981,2015-09-08,England,Australia,Manchester,England,9,4,5,1,0,1,1.0
+743983,2015-09-11,England,Australia,Leeds,England,9,0,9,1,0,1,1.0
+743985,2015-09-13,England,Australia,Manchester,England,10,5,5,1,0,1,0.0
+919607,2015-10-01,Zimbabwe,Pakistan,Harare,Zimbabwe,50,5,45,1,0,1,0.0
+919609,2015-10-03,Zimbabwe,Pakistan,Harare,Zimbabwe,51,6,45,1,0,1,1.0
+919611,2015-10-05,Zimbabwe,Pakistan,Harare,Zimbabwe,52,7,45,1,0,1,0.0
+919613,2015-10-09,Zimbabwe,Ireland,Harare,Zimbabwe,53,0,53,1,0,1,1.0
+903593,2015-10-11,India,South Africa,Kanpur,India,4,0,4,1,0,1,0.0
+919615,2015-10-11,Zimbabwe,Ireland,Harare,Zimbabwe,54,1,53,1,0,1,1.0
+919617,2015-10-13,Zimbabwe,Ireland,Harare,Zimbabwe,55,2,53,1,0,1,0.0
+903595,2015-10-14,India,South Africa,Indore,India,3,0,3,1,0,1,1.0
+903597,2015-10-18,India,South Africa,Rajkot,India,5,0,5,1,0,1,0.0
+903599,2015-10-22,India,South Africa,Chennai,India,6,1,5,1,0,1,1.0
+903601,2015-10-25,India,South Africa,Mumbai,India,5,2,3,1,0,1,0.0
+915777,2015-11-01,Sri Lanka,West Indies,Colombo,Sri Lanka,54,4,50,1,0,1,1.0
+915779,2015-11-04,Sri Lanka,West Indies,Colombo,Sri Lanka,55,5,50,1,0,1,1.0
+915781,2015-11-07,Sri Lanka,West Indies,Kandy,Sri Lanka,14,0,14,1,0,1,1.0
+931390,2015-11-07,Bangladesh,Zimbabwe,Mirpur,Bangladesh,66,13,53,1,0,1,1.0
+931392,2015-11-09,Bangladesh,Zimbabwe,Mirpur,Bangladesh,67,14,53,1,0,1,1.0
+902641,2015-11-11,England,Pakistan,Abu Dhabi,United Arab Emirates,2,23,-21,0,0,0,0.0
+931394,2015-11-11,Bangladesh,Zimbabwe,Mirpur,Bangladesh,68,15,53,1,0,1,1.0
+902643,2015-11-13,England,Pakistan,Abu Dhabi,United Arab Emirates,3,24,-21,0,0,0,1.0
+902645,2015-11-17,England,Pakistan,Sharjah,United Arab Emirates,0,14,-14,0,0,0,1.0
+902647,2015-11-20,England,Pakistan,Dubai,United Arab Emirates,2,14,-12,0,0,0,1.0
+914207,2015-12-26,New Zealand,Sri Lanka,Christchurch,New Zealand,10,4,6,1,0,1,1.0
+914209,2015-12-28,New Zealand,Sri Lanka,Christchurch,New Zealand,11,5,6,1,0,1,1.0
+914211,2015-12-31,New Zealand,Sri Lanka,Nelson,New Zealand,2,1,1,1,0,1,0.0
+914213,2016-01-02,New Zealand,Sri Lanka,Nelson,New Zealand,3,2,1,1,0,1,
+914215,2016-01-05,New Zealand,Sri Lanka,Mount Maunganui,New Zealand,2,0,2,1,0,1,1.0
+895807,2016-01-12,Australia,India,Perth,Australia,17,5,12,1,0,1,1.0
+895809,2016-01-15,Australia,India,Brisbane,Australia,17,8,9,1,0,1,1.0
+895811,2016-01-17,Australia,India,Melbourne,Australia,32,7,25,1,0,1,1.0
+895813,2016-01-20,Australia,India,Canberra,Australia,2,0,2,1,0,1,1.0
+895815,2016-01-23,Australia,India,Sydney,Australia,34,7,27,1,0,1,0.0
+914227,2016-01-25,New Zealand,Pakistan,Wellington,New Zealand,16,2,14,1,0,1,1.0
+914265,2016-01-31,New Zealand,Pakistan,Auckland,New Zealand,19,3,16,1,0,1,1.0
+800469,2016-02-03,South Africa,England,Bloemfontein,South Africa,7,1,6,1,0,1,0.0
+914231,2016-02-03,New Zealand,Australia,Auckland,New Zealand,20,6,14,1,0,1,1.0
+800471,2016-02-06,South Africa,England,Port Elizabeth,South Africa,14,2,12,1,0,1,0.0
+914233,2016-02-06,New Zealand,Australia,Wellington,New Zealand,17,3,14,1,0,1,0.0
+914235,2016-02-08,New Zealand,Australia,Hamilton,New Zealand,13,2,11,1,0,1,1.0
+800473,2016-02-09,South Africa,England,Centurion,South Africa,20,4,16,1,0,1,1.0
+800475,2016-02-12,South Africa,England,Johannesburg,South Africa,12,3,9,1,0,1,1.0
+800477,2016-02-14,South Africa,England,Cape Town,South Africa,13,3,10,1,0,1,1.0
+932849,2016-06-03,West Indies,South Africa,Guyana,Guyana,8,3,5,1,0,1,1.0
+932851,2016-06-05,West Indies,Australia,Guyana,Guyana,9,0,9,1,0,1,0.0
+932853,2016-06-07,Australia,South Africa,Guyana,Guyana,1,4,-3,0,0,0,0.0
+932855,2016-06-11,Australia,South Africa,St Kitts,Saint Kitts and Nevis,5,3,2,0,0,0,1.0
+1007649,2016-06-11,Zimbabwe,India,Harare,Zimbabwe,56,12,44,1,0,1,0.0
+932857,2016-06-13,West Indies,Australia,St Kitts,Saint Kitts and Nevis,8,6,2,1,0,1,1.0
+1007651,2016-06-13,Zimbabwe,India,Harare,Zimbabwe,57,13,44,1,0,1,0.0
+932859,2016-06-15,West Indies,South Africa,St Kitts,Saint Kitts and Nevis,9,4,5,1,0,1,0.0
+1007653,2016-06-15,Zimbabwe,India,Harare,Zimbabwe,58,14,44,1,0,1,0.0
+913621,2016-06-18,Ireland,Sri Lanka,Dublin,Ireland,15,1,14,1,0,1,0.0
+932861,2016-06-19,Australia,South Africa,Barbados,Barbados,2,1,1,0,0,0,
+913623,2016-06-21,England,Sri Lanka,Nottingham,England,15,2,13,1,0,1,
+932863,2016-06-21,West Indies,Australia,Barbados,Barbados,6,3,3,1,0,1,0.0
+913625,2016-06-24,England,Sri Lanka,Birmingham,England,15,1,14,1,0,1,1.0
+932865,2016-06-24,West Indies,South Africa,Barbados,Barbados,7,2,5,1,0,1,1.0
+913627,2016-06-26,England,Sri Lanka,Bristol,England,5,0,5,1,0,1,
+932867,2016-06-26,West Indies,Australia,Barbados,Barbados,8,4,4,1,0,1,0.0
+913629,2016-06-29,England,Sri Lanka,London,England,45,9,36,1,0,1,1.0
+913631,2016-07-02,England,Sri Lanka,Cardiff,Wales,8,2,6,0,0,0,1.0
+913649,2016-08-18,Ireland,Pakistan,Dublin,Ireland,16,2,14,1,0,1,0.0
+995457,2016-08-21,Sri Lanka,Australia,Colombo,Sri Lanka,56,5,51,1,0,1,0.0
+913653,2016-08-24,England,Pakistan,Southampton,England,13,3,10,1,0,1,1.0
+995459,2016-08-24,Sri Lanka,Australia,Colombo,Sri Lanka,57,6,51,1,0,1,1.0
+913655,2016-08-27,England,Pakistan,London,England,46,7,39,1,0,1,1.0
+995461,2016-08-28,Sri Lanka,Australia,Dambulla,Sri Lanka,27,2,25,1,0,1,0.0
+913657,2016-08-30,England,Pakistan,Nottingham,England,16,1,15,1,0,1,1.0
+995463,2016-08-31,Sri Lanka,Australia,Dambulla,Sri Lanka,28,3,25,1,0,1,0.0
+913659,2016-09-01,England,Pakistan,Leeds,England,10,1,9,1,0,1,1.0
+913661,2016-09-04,England,Pakistan,Cardiff,Wales,9,1,8,0,0,0,0.0
+995465,2016-09-04,Sri Lanka,Australia,Kandy,Sri Lanka,15,1,14,1,0,1,0.0
+936131,2016-09-25,South Africa,Ireland,Benoni,South Africa,3,1,2,1,0,1,1.0
+936133,2016-09-27,Australia,Ireland,Benoni,South Africa,0,2,-2,0,0,0,1.0
+936135,2016-09-30,South Africa,Australia,Centurion,South Africa,21,9,12,1,0,1,1.0
+1050223,2016-09-30,Pakistan,West Indies,Sharjah,United Arab Emirates,15,0,15,0,0,0,1.0
+936137,2016-10-02,South Africa,Australia,Johannesburg,South Africa,13,5,8,1,0,1,1.0
+1050225,2016-10-02,Pakistan,West Indies,Sharjah,United Arab Emirates,16,1,15,0,0,0,1.0
+936139,2016-10-05,South Africa,Australia,Durban,South Africa,17,4,13,1,0,1,1.0
+1050227,2016-10-05,Pakistan,West Indies,Abu Dhabi,United Arab Emirates,25,2,23,0,0,0,1.0
+1029819,2016-10-07,Bangladesh,England,Mirpur,Bangladesh,69,2,67,1,0,1,0.0
+936141,2016-10-09,South Africa,Australia,Port Elizabeth,South Africa,15,3,12,1,0,1,1.0
+1029821,2016-10-09,Bangladesh,England,Mirpur,Bangladesh,70,3,67,1,0,1,1.0
+936143,2016-10-12,South Africa,Australia,Cape Town,South Africa,14,2,12,1,0,1,1.0
+1029823,2016-10-12,Bangladesh,England,Chittagong,Bangladesh,14,2,12,1,0,1,0.0
+1030219,2016-10-16,India,New Zealand,Dharmasala,India,1,0,1,1,0,1,1.0
+1030221,2016-10-20,India,New Zealand,Delhi,India,8,0,8,1,0,1,0.0
+1030223,2016-10-23,India,New Zealand,Chandigarh,India,9,2,7,1,0,1,1.0
+1030225,2016-10-26,India,New Zealand,Ranchi,India,3,0,3,1,0,1,0.0
+1030227,2016-10-29,India,New Zealand,Visakhapatnam,India,5,0,5,1,0,1,1.0
+1059710,2016-11-14,Zimbabwe,Sri Lanka,Harare,Zimbabwe,59,8,51,1,0,1,0.0
+1059711,2016-11-16,Sri Lanka,West Indies,Harare,Zimbabwe,9,5,4,0,0,0,0.0
+1059712,2016-11-19,Zimbabwe,West Indies,Bulawayo,Zimbabwe,27,2,25,1,0,1,
+1059713,2016-11-21,Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,28,3,25,1,0,1,
+1059714,2016-11-23,Sri Lanka,West Indies,Bulawayo,Zimbabwe,4,3,1,0,0,0,1.0
+1059715,2016-11-25,Zimbabwe,West Indies,Bulawayo,Zimbabwe,29,4,25,1,0,1,1.0
+1059716,2016-11-27,Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,30,5,25,1,0,1,0.0
+1001371,2016-12-04,Australia,New Zealand,Sydney,Australia,35,4,31,1,0,1,1.0
+1001373,2016-12-06,Australia,New Zealand,Canberra,Australia,3,0,3,1,0,1,1.0
+1001375,2016-12-09,Australia,New Zealand,Melbourne,Australia,33,4,29,1,0,1,1.0
+1019973,2016-12-26,New Zealand,Bangladesh,Christchurch,New Zealand,12,1,11,1,0,1,1.0
+1019975,2016-12-29,New Zealand,Bangladesh,Nelson,New Zealand,4,1,3,1,0,1,1.0
+1019977,2016-12-31,New Zealand,Bangladesh,Nelson,New Zealand,5,2,3,1,0,1,1.0
+1000887,2017-01-13,Australia,Pakistan,Brisbane,Australia,18,3,15,1,0,1,1.0
+1000889,2017-01-15,Australia,Pakistan,Melbourne,Australia,34,1,33,1,0,1,0.0
+1034819,2017-01-15,India,England,Pune,India,2,0,2,1,0,1,1.0
+1000891,2017-01-19,Australia,Pakistan,Perth,Australia,18,4,14,1,0,1,1.0
+1034821,2017-01-19,India,England,Cuttack,India,5,1,4,1,0,1,1.0
+1000893,2017-01-22,Australia,Pakistan,Sydney,Australia,36,2,34,1,0,1,1.0
+1034823,2017-01-22,India,England,Kolkata,India,5,1,4,1,0,1,0.0
+1000895,2017-01-26,Australia,Pakistan,Adelaide,Australia,18,4,14,1,0,1,1.0
+936159,2017-01-28,South Africa,Sri Lanka,Port Elizabeth,South Africa,16,0,16,1,0,1,1.0
+1020013,2017-01-30,New Zealand,Australia,Auckland,New Zealand,21,7,14,1,0,1,1.0
+936161,2017-02-01,South Africa,Sri Lanka,Durban,South Africa,18,1,17,1,0,1,1.0
+936163,2017-02-04,South Africa,Sri Lanka,Johannesburg,South Africa,14,4,10,1,0,1,1.0
+1020017,2017-02-05,New Zealand,Australia,Hamilton,New Zealand,14,3,11,1,0,1,1.0
+936165,2017-02-07,South Africa,Sri Lanka,Cape Town,South Africa,15,1,14,1,0,1,1.0
+936167,2017-02-10,South Africa,Sri Lanka,Centurion,South Africa,22,2,20,1,0,1,1.0
+1020031,2017-02-19,New Zealand,South Africa,Hamilton,New Zealand,15,2,13,1,0,1,0.0
+1020033,2017-02-22,New Zealand,South Africa,Christchurch,New Zealand,13,0,13,1,0,1,1.0
+1020035,2017-02-25,New Zealand,South Africa,Wellington,New Zealand,18,2,16,1,0,1,0.0
+1020037,2017-03-01,New Zealand,South Africa,Hamilton,New Zealand,16,3,13,1,0,1,1.0
+1027315,2017-03-03,West Indies,England,Antigua,Antigua and Barbuda,11,5,6,1,0,1,0.0
+1020039,2017-03-04,New Zealand,South Africa,Auckland,New Zealand,22,3,19,1,0,1,0.0
+1027317,2017-03-05,West Indies,England,Antigua,Antigua and Barbuda,12,6,6,1,0,1,0.0
+1027319,2017-03-09,West Indies,England,Barbados,Barbados,9,5,4,1,0,1,0.0
+1083446,2017-03-25,Sri Lanka,Bangladesh,Dambulla,Sri Lanka,29,3,26,1,0,1,0.0
+1083447,2017-03-28,Sri Lanka,Bangladesh,Dambulla,Sri Lanka,30,4,26,1,0,1,
+1083448,2017-04-01,Sri Lanka,Bangladesh,Colombo,Sri Lanka,58,6,52,1,0,1,1.0
+1077949,2017-04-07,West Indies,Pakistan,Guyana,Guyana,10,3,7,1,0,1,1.0
+1077950,2017-04-09,West Indies,Pakistan,Guyana,Guyana,11,4,7,1,0,1,0.0
+1077951,2017-04-11,West Indies,Pakistan,Guyana,Guyana,12,5,7,1,0,1,0.0
+1029001,2017-05-05,England,Ireland,Bristol,England,6,0,6,1,0,1,1.0
+1029003,2017-05-07,England,Ireland,London,England,47,0,47,1,0,1,1.0
+1033361,2017-05-12,Ireland,Bangladesh,Dublin,Ireland,17,0,17,1,0,1,
+1033363,2017-05-14,Ireland,New Zealand,Dublin,Ireland,18,0,18,1,0,1,0.0
+1033365,2017-05-17,Bangladesh,New Zealand,Dublin,Ireland,1,1,0,0,0,0,0.0
+1033367,2017-05-19,Ireland,Bangladesh,Dublin,Ireland,19,2,17,1,0,1,0.0
+1033369,2017-05-21,Ireland,New Zealand,Dublin,Ireland,20,2,18,1,0,1,0.0
+1031425,2017-05-24,England,South Africa,Leeds,England,11,1,10,1,0,1,1.0
+1033371,2017-05-24,Bangladesh,New Zealand,Dublin,Ireland,3,3,0,0,0,0,1.0
+1031427,2017-05-27,England,South Africa,Southampton,England,14,2,12,1,0,1,1.0
+1031429,2017-05-29,England,South Africa,London,England,48,8,40,1,0,1,0.0
+1022347,2017-06-01,England,Bangladesh,London,England,49,1,48,1,0,1,1.0
+1022349,2017-06-02,Australia,New Zealand,Birmingham,England,5,3,2,0,0,0,
+1022351,2017-06-03,South Africa,Sri Lanka,London,England,9,10,-1,0,0,0,1.0
+1022353,2017-06-04,India,Pakistan,Birmingham,England,5,5,0,0,0,0,1.0
+1022355,2017-06-05,Australia,Bangladesh,London,England,13,2,11,0,0,0,
+1022357,2017-06-06,England,New Zealand,Cardiff,Wales,10,2,8,0,0,0,1.0
+1022359,2017-06-07,Pakistan,South Africa,Birmingham,England,6,1,5,0,0,0,1.0
+1022361,2017-06-08,India,Sri Lanka,London,England,8,11,-3,0,0,0,0.0
+1022363,2017-06-09,Bangladesh,New Zealand,Cardiff,Wales,1,3,-2,0,0,0,1.0
+1022365,2017-06-10,England,Australia,Birmingham,England,16,6,10,1,0,1,1.0
+1022367,2017-06-11,India,South Africa,London,England,9,10,-1,0,0,0,1.0
+1022369,2017-06-12,Pakistan,Sri Lanka,Cardiff,Wales,2,3,-1,0,0,0,1.0
+1022371,2017-06-14,England,Pakistan,Cardiff,Wales,11,3,8,0,0,0,0.0
+1022373,2017-06-15,Bangladesh,India,Birmingham,England,1,6,-5,0,0,0,0.0
+1089419,2017-06-15,Scotland,Zimbabwe,Edinburgh,Scotland,5,0,5,1,0,1,1.0
+1089420,2017-06-17,Scotland,Zimbabwe,Edinburgh,Scotland,6,1,5,1,0,1,0.0
+1022375,2017-06-18,India,Pakistan,London,England,10,8,2,0,0,0,0.0
+1098206,2017-06-23,West Indies,India,Trinidad,Trinidad and Tobago,12,10,2,1,0,1,
+1098207,2017-06-25,West Indies,India,Trinidad,Trinidad and Tobago,13,11,2,1,0,1,0.0
+1098208,2017-06-30,West Indies,India,Antigua,Antigua and Barbuda,13,2,11,1,0,1,0.0
+1104478,2017-06-30,Sri Lanka,Zimbabwe,Galle,Sri Lanka,0,0,0,1,0,1,0.0
+1098209,2017-07-02,West Indies,India,Antigua,Antigua and Barbuda,14,3,11,1,0,1,1.0
+1104479,2017-07-02,Sri Lanka,Zimbabwe,Galle,Sri Lanka,1,1,0,1,0,1,1.0
+1098210,2017-07-06,West Indies,India,Jamaica,Jamaica,13,6,7,1,0,1,0.0
+1104480,2017-07-06,Sri Lanka,Zimbabwe,Hambantota,Sri Lanka,16,0,16,1,0,1,1.0
+1104481,2017-07-08,Sri Lanka,Zimbabwe,Hambantota,Sri Lanka,17,1,16,1,0,1,0.0
+1104482,2017-07-10,Sri Lanka,Zimbabwe,Hambantota,Sri Lanka,18,2,16,1,0,1,0.0
+1109605,2017-08-20,Sri Lanka,India,Dambulla,Sri Lanka,31,13,18,1,0,1,0.0
+1109606,2017-08-24,Sri Lanka,India,Kandy,Sri Lanka,16,1,15,1,0,1,0.0
+1109607,2017-08-27,Sri Lanka,India,Kandy,Sri Lanka,17,2,15,1,0,1,0.0
+1109608,2017-08-31,India,Sri Lanka,Colombo,Sri Lanka,15,59,-44,0,1,-1,1.0
+1109609,2017-09-03,Sri Lanka,India,Colombo,Sri Lanka,60,16,44,1,0,1,0.0
+1119496,2017-09-17,India,Australia,Chennai,India,7,0,7,1,0,1,1.0
+1031667,2017-09-19,West Indies,England,Manchester,England,0,11,-11,0,1,-1,0.0
+1031669,2017-09-21,England,West Indies,Nottingham,England,17,2,15,1,0,1,
+1119497,2017-09-21,India,Australia,Kolkata,India,6,0,6,1,0,1,1.0
+1031671,2017-09-24,England,West Indies,Bristol,England,7,1,6,1,0,1,1.0
+1119498,2017-09-24,Australia,India,Indore,India,0,4,-4,0,1,-1,0.0
+1031673,2017-09-27,West Indies,England,London,England,8,50,-42,0,1,-1,0.0
+1119499,2017-09-28,Australia,India,Bengaluru,India,0,0,0,0,1,-1,1.0
+1031675,2017-09-29,West Indies,England,Southampton,England,3,15,-12,0,1,-1,0.0
+1119500,2017-10-01,Australia,India,Nagpur,India,4,6,-2,0,1,-1,0.0
+1120286,2017-10-13,Pakistan,Sri Lanka,Dubai,United Arab Emirates,15,4,11,0,0,0,1.0
+1075504,2017-10-15,Bangladesh,South Africa,Kimberley,South Africa,1,2,-1,0,1,-1,0.0
+1120287,2017-10-16,Pakistan,Sri Lanka,Abu Dhabi,United Arab Emirates,26,3,23,0,0,0,1.0
+1075505,2017-10-18,South Africa,Bangladesh,Paarl,South Africa,2,0,2,1,0,1,1.0
+1120288,2017-10-18,Sri Lanka,Pakistan,Abu Dhabi,United Arab Emirates,4,27,-23,0,0,0,0.0
+1120289,2017-10-20,Sri Lanka,Pakistan,Sharjah,United Arab Emirates,6,17,-11,0,0,0,0.0
+1075506,2017-10-22,South Africa,Bangladesh,East London,South Africa,5,0,5,1,0,1,1.0
+1120090,2017-10-22,India,New Zealand,Mumbai,India,6,4,2,1,0,1,0.0
+1120290,2017-10-23,Sri Lanka,Pakistan,Sharjah,United Arab Emirates,7,18,-11,0,0,0,0.0
+1120091,2017-10-25,New Zealand,India,Pune,India,1,3,-2,0,1,-1,0.0
+1120092,2017-10-29,India,New Zealand,Kanpur,India,5,0,5,1,0,1,1.0
+1122726,2017-12-10,India,Sri Lanka,Dharamsala,India,1,0,1,1,0,1,0.0
+1122727,2017-12-13,India,Sri Lanka,Chandigarh,India,10,2,8,1,0,1,1.0
+1122728,2017-12-17,Sri Lanka,India,Visakhapatnam,India,1,6,-5,0,1,-1,0.0
+1115795,2017-12-20,West Indies,New Zealand,Whangarei,New Zealand,0,1,-1,0,1,-1,0.0
+1115796,2017-12-23,New Zealand,West Indies,Christchurch,New Zealand,14,2,12,1,0,1,1.0
+1115797,2017-12-26,New Zealand,West Indies,Christchurch,New Zealand,15,3,12,1,0,1,1.0
+1115802,2018-01-06,New Zealand,Pakistan,Wellington,New Zealand,19,3,16,1,0,1,1.0
+1115803,2018-01-09,Pakistan,New Zealand,Nelson,New Zealand,0,6,-6,0,1,-1,0.0
+1115804,2018-01-13,New Zealand,Pakistan,Dunedin,New Zealand,6,0,6,1,0,1,1.0
+1072310,2018-01-14,Australia,England,Melbourne,Australia,35,6,29,1,0,1,0.0
+1130737,2018-01-15,Zimbabwe,Bangladesh,Dhaka,Bangladesh,1,4,-3,0,1,-1,0.0
+1115805,2018-01-16,Pakistan,New Zealand,Hamilton,New Zealand,1,17,-16,0,1,-1,0.0
+1131276,2018-01-16,Scotland,Ireland,Dubai,United Arab Emirates,2,5,-3,0,0,0,0.0
+1130738,2018-01-17,Zimbabwe,Sri Lanka,Dhaka,Bangladesh,2,0,2,0,0,0,1.0
+1131277,2018-01-18,Ireland,Scotland,Dubai,United Arab Emirates,6,3,3,0,0,0,1.0
+1072311,2018-01-19,Australia,England,Brisbane,Australia,19,5,14,1,0,1,0.0
+1115806,2018-01-19,New Zealand,Pakistan,Wellington,New Zealand,20,4,16,1,0,1,1.0
+1130739,2018-01-19,Bangladesh,Sri Lanka,Dhaka,Bangladesh,5,1,4,1,0,1,1.0
+1072312,2018-01-21,England,Australia,Sydney,Australia,8,37,-29,0,1,-1,1.0
+1130740,2018-01-21,Zimbabwe,Sri Lanka,Dhaka,Bangladesh,3,2,1,0,0,0,0.0
+1130741,2018-01-23,Bangladesh,Zimbabwe,Dhaka,Bangladesh,6,4,2,1,0,1,1.0
+1130742,2018-01-25,Bangladesh,Sri Lanka,Dhaka,Bangladesh,7,3,4,1,0,1,0.0
+1072313,2018-01-26,England,Australia,Adelaide,Australia,7,19,-12,0,1,-1,0.0
+1130743,2018-01-27,Sri Lanka,Bangladesh,Dhaka,Bangladesh,4,8,-4,0,1,-1,1.0
+1072314,2018-01-28,England,Australia,Perth,Australia,5,19,-14,0,1,-1,1.0
+1122279,2018-02-01,South Africa,India,Durban,South Africa,19,5,14,1,0,1,0.0
+1122280,2018-02-04,South Africa,India,Centurion,South Africa,23,8,15,1,0,1,0.0
+1122281,2018-02-07,India,South Africa,Cape Town,South Africa,3,16,-13,0,1,-1,1.0
+1122282,2018-02-10,India,South Africa,Johannesburg,South Africa,5,15,-10,0,1,-1,0.0
+1122283,2018-02-13,India,South Africa,Port Elizabeth,South Africa,2,17,-15,0,1,-1,1.0
+1122284,2018-02-16,South Africa,India,Centurion,South Africa,24,9,15,1,0,1,0.0
+1115775,2018-02-25,England,New Zealand,Hamilton,New Zealand,2,18,-16,0,1,-1,0.0
+1115776,2018-02-28,New Zealand,England,Mount Maunganui,New Zealand,3,0,3,1,0,1,0.0
+1115777,2018-03-03,England,New Zealand,Wellington,New Zealand,3,21,-18,0,1,-1,1.0
+1115778,2018-03-07,England,New Zealand,Dunedin,New Zealand,0,7,-7,0,1,-1,0.0
+1115779,2018-03-10,New Zealand,England,Christchurch,New Zealand,16,2,14,1,0,1,0.0
+1133010,2018-03-10,West Indies,Ireland,Harare,Zimbabwe,8,4,4,0,0,0,1.0
+1133017,2018-03-12,Zimbabwe,Scotland,Bulawayo,Zimbabwe,32,1,31,1,0,1,
+1133022,2018-03-16,Zimbabwe,Ireland,Harare,Zimbabwe,60,6,54,1,0,1,1.0
+1133025,2018-03-18,Ireland,Scotland,Harare,Zimbabwe,7,0,7,0,0,0,1.0
+1133026,2018-03-19,Zimbabwe,West Indies,Harare,Zimbabwe,61,9,52,1,0,1,0.0
+1133028,2018-03-21,West Indies,Scotland,Harare,Zimbabwe,10,1,9,0,0,0,1.0
+1119537,2018-06-13,Australia,England,London,England,14,51,-37,0,1,-1,0.0
+1119538,2018-06-16,England,Australia,Cardiff,Wales,12,3,9,0,0,0,1.0
+1119539,2018-06-19,England,Australia,Nottingham,England,18,2,16,1,0,1,1.0
+1119540,2018-06-21,Australia,England,Chester-le-Street,England,3,10,-7,0,1,-1,0.0
+1119541,2018-06-24,Australia,England,Manchester,England,6,12,-6,0,1,-1,0.0
+1119546,2018-07-12,England,India,Nottingham,England,19,2,17,1,0,1,0.0
+1142920,2018-07-13,Pakistan,Zimbabwe,Bulawayo,Zimbabwe,2,33,-31,0,1,-1,1.0
+1119547,2018-07-14,England,India,London,England,52,11,41,1,0,1,1.0
+1142921,2018-07-16,Zimbabwe,Pakistan,Bulawayo,Zimbabwe,34,3,31,1,0,1,0.0
+1119548,2018-07-17,India,England,Leeds,England,2,12,-10,0,1,-1,0.0
+1142922,2018-07-18,Zimbabwe,Pakistan,Bulawayo,Zimbabwe,35,4,31,1,0,1,0.0
+1142923,2018-07-20,Pakistan,Zimbabwe,Bulawayo,Zimbabwe,5,36,-31,0,1,-1,1.0
+1142924,2018-07-22,Pakistan,Zimbabwe,Bulawayo,Zimbabwe,6,37,-31,0,1,-1,1.0
+1146720,2018-07-22,Bangladesh,West Indies,Guyana,Guyana,1,13,-12,0,1,-1,1.0
+1146721,2018-07-25,West Indies,Bangladesh,Guyana,Guyana,14,2,12,1,0,1,1.0
+1146722,2018-07-28,Bangladesh,West Indies,St Kitts,Saint Kitts and Nevis,2,10,-8,0,1,-1,1.0
+1142584,2018-07-29,Sri Lanka,South Africa,Dambulla,Sri Lanka,32,1,31,1,0,1,0.0
+1142585,2018-08-01,Sri Lanka,South Africa,Dambulla,Sri Lanka,33,2,31,1,0,1,0.0
+1142586,2018-08-05,South Africa,Sri Lanka,Kandy,Sri Lanka,3,18,-15,0,1,-1,1.0
+1142587,2018-08-08,Sri Lanka,South Africa,Kandy,Sri Lanka,19,4,15,1,0,1,1.0
+1142588,2018-08-12,Sri Lanka,South Africa,Colombo,Sri Lanka,61,5,56,1,0,1,1.0
+1153243,2018-09-15,Bangladesh,Sri Lanka,Dubai,United Arab Emirates,0,5,-5,0,0,0,1.0
+1153247,2018-09-19,Pakistan,India,Dubai,United Arab Emirates,17,1,16,0,0,0,0.0
+1153249,2018-09-21,Bangladesh,India,Dubai,United Arab Emirates,1,2,-1,0,0,0,0.0
+1153251,2018-09-23,Pakistan,India,Dubai,United Arab Emirates,18,3,15,0,0,0,0.0
+1153254,2018-09-26,Bangladesh,Pakistan,Abu Dhabi,United Arab Emirates,0,28,-28,0,0,0,1.0
+1153255,2018-09-28,Bangladesh,India,Dubai,United Arab Emirates,2,4,-2,0,0,0,0.0
+1144146,2018-09-30,Zimbabwe,South Africa,Kimberley,South Africa,0,3,-3,0,1,-1,0.0
+1144147,2018-10-03,South Africa,Zimbabwe,Bloemfontein,South Africa,8,4,4,1,0,1,1.0
+1144148,2018-10-06,Zimbabwe,South Africa,Paarl,South Africa,0,3,-3,0,1,-1,0.0
+1140379,2018-10-10,England,Sri Lanka,Dambulla,Sri Lanka,3,34,-31,0,1,-1,
+1140380,2018-10-13,England,Sri Lanka,Dambulla,Sri Lanka,4,35,-31,0,1,-1,1.0
+1140381,2018-10-17,Sri Lanka,England,Kandy,Sri Lanka,20,2,18,1,0,1,0.0
+1140382,2018-10-20,Sri Lanka,England,Kandy,Sri Lanka,21,3,18,1,0,1,0.0
+1153635,2018-10-21,Bangladesh,Zimbabwe,Dhaka,Bangladesh,9,5,4,1,0,1,1.0
+1157754,2018-10-21,West Indies,India,Guwahati,India,0,3,-3,0,1,-1,0.0
+1140383,2018-10-23,Sri Lanka,England,Colombo,Sri Lanka,62,7,55,1,0,1,1.0
+1153636,2018-10-24,Zimbabwe,Bangladesh,Chattogram,Bangladesh,1,4,-3,0,1,-1,0.0
+1157755,2018-10-24,India,West Indies,Visakhapatnam,India,7,2,5,1,0,1,
+1153637,2018-10-26,Zimbabwe,Bangladesh,Chattogram,Bangladesh,2,5,-3,0,1,-1,0.0
+1157756,2018-10-27,West Indies,India,Pune,India,0,4,-4,0,1,-1,1.0
+1157757,2018-10-29,India,West Indies,Mumbai,India,7,3,4,1,0,1,1.0
+1157758,2018-11-01,West Indies,India,Thiruvananthapuram,India,0,0,0,0,1,-1,0.0
+1144986,2018-11-04,Australia,South Africa,Perth,Australia,20,4,16,1,0,1,0.0
+1157378,2018-11-07,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,5,29,-24,0,0,0,1.0
+1144987,2018-11-09,Australia,South Africa,Adelaide,Australia,20,2,18,1,0,1,1.0
+1157379,2018-11-09,New Zealand,Pakistan,Abu Dhabi,United Arab Emirates,6,30,-24,0,0,0,0.0
+1144988,2018-11-11,South Africa,Australia,Hobart,Australia,2,10,-8,0,1,-1,1.0
+1157380,2018-11-11,Pakistan,New Zealand,Dubai,United Arab Emirates,19,1,18,0,0,0,
+1153314,2018-12-09,Bangladesh,West Indies,Dhaka,Bangladesh,10,0,10,1,0,1,1.0
+1153315,2018-12-11,Bangladesh,West Indies,Dhaka,Bangladesh,11,1,10,1,0,1,0.0
+1153316,2018-12-14,Bangladesh,West Indies,Sylhet,Bangladesh,0,0,0,1,0,1,1.0
+1153840,2019-01-03,New Zealand,Sri Lanka,Mount Maunganui,New Zealand,4,1,3,1,0,1,1.0
+1153841,2019-01-05,New Zealand,Sri Lanka,Mount Maunganui,New Zealand,5,2,3,1,0,1,1.0
+1153842,2019-01-08,New Zealand,Sri Lanka,Nelson,New Zealand,7,3,4,1,0,1,1.0
+1144997,2019-01-12,Australia,India,Sydney,Australia,38,8,30,1,0,1,1.0
+1144998,2019-01-15,Australia,India,Adelaide,Australia,21,5,16,1,0,1,0.0
+1144999,2019-01-18,Australia,India,Melbourne,Australia,36,8,28,1,0,1,0.0
+1144156,2019-01-19,South Africa,Pakistan,Port Elizabeth,South Africa,18,2,16,1,0,1,0.0
+1144157,2019-01-22,South Africa,Pakistan,Durban,South Africa,20,2,18,1,0,1,1.0
+1153691,2019-01-23,New Zealand,India,Napier,New Zealand,14,3,11,1,0,1,0.0
+1144158,2019-01-25,South Africa,Pakistan,Centurion,South Africa,25,6,19,1,0,1,1.0
+1153692,2019-01-26,New Zealand,India,Mount Maunganui,New Zealand,6,0,6,1,0,1,0.0
+1144159,2019-01-27,South Africa,Pakistan,Johannesburg,South Africa,16,5,11,1,0,1,0.0
+1153693,2019-01-28,New Zealand,India,Mount Maunganui,New Zealand,7,1,6,1,0,1,0.0
+1144160,2019-01-30,South Africa,Pakistan,Cape Town,South Africa,17,3,14,1,0,1,1.0
+1153694,2019-01-31,New Zealand,India,Hamilton,New Zealand,19,5,14,1,0,1,1.0
+1153695,2019-02-03,New Zealand,India,Wellington,New Zealand,22,3,19,1,0,1,0.0
+1153844,2019-02-13,New Zealand,Bangladesh,Napier,New Zealand,15,2,13,1,0,1,1.0
+1153845,2019-02-16,New Zealand,Bangladesh,Christchurch,New Zealand,17,2,15,1,0,1,1.0
+1153846,2019-02-20,New Zealand,Bangladesh,Dunedin,New Zealand,8,1,7,1,0,1,1.0
+1158066,2019-02-20,West Indies,England,Bridgetown,Barbados,1,0,1,1,0,1,0.0
+1158067,2019-02-22,West Indies,England,Bridgetown,Barbados,2,1,1,1,0,1,1.0
+1158069,2019-02-27,West Indies,England,St George's,Grenada,3,0,3,1,0,1,0.0
+1158070,2019-03-02,West Indies,England,Gros Islet,Saint Lucia,1,1,0,1,0,1,1.0
+1168242,2019-03-02,India,Australia,Hyderabad,India,6,2,4,1,0,1,1.0
+1144167,2019-03-03,South Africa,Sri Lanka,Johannesburg,South Africa,17,5,12,1,0,1,1.0
+1168243,2019-03-05,India,Australia,Nagpur,India,7,5,2,1,0,1,1.0
+1144168,2019-03-06,South Africa,Sri Lanka,Centurion,South Africa,26,3,23,1,0,1,1.0
+1168244,2019-03-08,India,Australia,Ranchi,India,4,1,3,1,0,1,0.0
+1144169,2019-03-10,South Africa,Sri Lanka,Durban,South Africa,21,2,19,1,0,1,1.0
+1168245,2019-03-10,India,Australia,Chandigarh,India,11,5,6,1,0,1,0.0
+1144170,2019-03-13,South Africa,Sri Lanka,Port Elizabeth,South Africa,19,1,18,1,0,1,1.0
+1168246,2019-03-13,India,Australia,Delhi,India,9,1,8,1,0,1,0.0
+1144171,2019-03-16,South Africa,Sri Lanka,Cape Town,South Africa,18,2,16,1,0,1,1.0
+1174238,2019-03-22,Australia,Pakistan,Sharjah,United Arab Emirates,3,19,-16,0,0,0,1.0
+1174239,2019-03-24,Australia,Pakistan,Sharjah,United Arab Emirates,4,20,-16,0,0,0,1.0
+1174240,2019-03-27,Australia,Pakistan,Abu Dhabi,United Arab Emirates,5,31,-26,0,0,0,1.0
+1174241,2019-03-29,Australia,Pakistan,Dubai,United Arab Emirates,3,20,-17,0,0,0,1.0
+1174242,2019-03-31,Australia,Pakistan,Dubai,United Arab Emirates,4,21,-17,0,0,0,1.0
+1161014,2019-05-03,Ireland,England,Dublin,Ireland,21,3,18,1,0,1,0.0
+1168508,2019-05-05,Ireland,West Indies,Dublin,Ireland,22,1,21,1,0,1,0.0
+1168509,2019-05-07,Bangladesh,West Indies,Dublin,Ireland,4,2,2,0,0,0,1.0
+1152841,2019-05-08,England,Pakistan,London,England,53,9,44,1,0,1,
+1152842,2019-05-11,England,Pakistan,Southampton,England,16,4,12,1,0,1,1.0
+1168511,2019-05-11,Ireland,West Indies,Dublin,Ireland,23,3,20,1,0,1,0.0
+1168512,2019-05-13,Bangladesh,West Indies,Dublin,Ireland,5,4,1,0,0,0,1.0
+1152843,2019-05-14,England,Pakistan,Bristol,England,8,0,8,1,0,1,1.0
+1168513,2019-05-15,Ireland,Bangladesh,Dublin,Ireland,24,6,18,1,0,1,0.0
+1152844,2019-05-17,England,Pakistan,Nottingham,England,20,2,18,1,0,1,1.0
+1168514,2019-05-17,Bangladesh,West Indies,Dublin,Ireland,7,5,2,0,0,0,1.0
+1152845,2019-05-19,England,Pakistan,Leeds,England,13,2,11,1,0,1,1.0
+1169332,2019-05-21,Scotland,Sri Lanka,Edinburgh,Scotland,7,0,7,1,0,1,0.0
+1144483,2019-05-30,England,South Africa,London,England,54,11,43,1,0,1,1.0
+1144484,2019-05-31,Pakistan,West Indies,Nottingham,England,3,3,0,0,0,0,0.0
+1144485,2019-06-01,New Zealand,Sri Lanka,Cardiff,Wales,4,4,0,0,0,0,1.0
+1144487,2019-06-02,Bangladesh,South Africa,London,England,3,12,-9,0,0,0,1.0
+1144488,2019-06-03,England,Pakistan,Nottingham,England,21,4,17,1,0,1,0.0
+1144490,2019-06-05,India,South Africa,Southampton,England,3,3,0,0,0,0,1.0
+1144491,2019-06-05,Bangladesh,New Zealand,London,England,4,7,-3,0,0,0,0.0
+1144492,2019-06-06,Australia,West Indies,Nottingham,England,3,4,-1,0,0,0,1.0
+1144494,2019-06-08,England,Bangladesh,Cardiff,Wales,13,2,11,0,0,0,1.0
+1144496,2019-06-09,Australia,India,London,England,15,12,3,0,0,0,0.0
+1144497,2019-06-10,South Africa,West Indies,Southampton,England,4,4,0,0,0,0,
+1144499,2019-06-12,Australia,Pakistan,Taunton,England,0,0,0,0,0,0,1.0
+1144501,2019-06-14,England,West Indies,Southampton,England,17,5,12,1,0,1,1.0
+1144502,2019-06-15,Australia,Sri Lanka,London,England,16,12,4,0,0,0,1.0
+1144504,2019-06-16,India,Pakistan,Manchester,England,1,1,0,0,0,0,1.0
+1144505,2019-06-17,Bangladesh,West Indies,Taunton,England,0,0,0,0,0,0,1.0
+1144507,2019-06-19,New Zealand,South Africa,Birmingham,England,4,2,2,0,0,0,1.0
+1188377,2019-06-19,Netherlands,Zimbabwe,Deventer,Netherlands,0,0,0,1,0,1,1.0
+1144508,2019-06-20,Australia,Bangladesh,Nottingham,England,4,1,3,0,0,0,1.0
+1144509,2019-06-21,England,Sri Lanka,Leeds,England,14,2,12,1,0,1,0.0
+1188378,2019-06-21,Netherlands,Zimbabwe,Deventer,Netherlands,1,1,0,1,0,1,1.0
+1144511,2019-06-22,New Zealand,West Indies,Manchester,England,0,1,-1,0,0,0,1.0
+1144512,2019-06-23,Pakistan,South Africa,London,England,10,13,-3,0,0,0,1.0
+1144514,2019-06-25,England,Australia,London,England,55,17,38,1,0,1,0.0
+1144515,2019-06-26,New Zealand,Pakistan,Birmingham,England,5,7,-2,0,0,0,0.0
+1144516,2019-06-27,India,West Indies,Manchester,England,2,2,0,0,0,0,1.0
+1144517,2019-06-28,South Africa,Sri Lanka,Chester-le-Street,England,0,2,-2,0,0,0,1.0
+1144519,2019-06-29,Australia,New Zealand,London,England,18,8,10,0,0,0,1.0
+1144520,2019-06-30,England,India,Birmingham,England,17,7,10,1,0,1,1.0
+1144521,2019-07-01,Sri Lanka,West Indies,Chester-le-Street,England,3,0,3,0,0,0,1.0
+1168517,2019-07-01,Ireland,Zimbabwe,Bready,Northern Ireland,0,0,0,1,0,1,1.0
+1144522,2019-07-02,Bangladesh,India,Birmingham,England,2,8,-6,0,0,0,0.0
+1144523,2019-07-03,England,New Zealand,Chester-le-Street,England,11,3,8,1,0,1,1.0
+1168518,2019-07-04,Ireland,Zimbabwe,Belfast,Northern Ireland,9,0,9,1,0,1,1.0
+1144525,2019-07-05,Bangladesh,Pakistan,London,England,5,11,-6,0,0,0,0.0
+1144526,2019-07-06,India,Sri Lanka,Leeds,England,3,3,0,0,0,0,1.0
+1144527,2019-07-06,Australia,South Africa,Manchester,England,7,1,6,0,0,0,0.0
+1168519,2019-07-07,Ireland,Zimbabwe,Belfast,Northern Ireland,10,1,9,1,0,1,1.0
+1144528,2019-07-09,India,New Zealand,Manchester,England,3,1,2,0,0,0,0.0
+1144529,2019-07-11,Australia,England,Birmingham,England,7,18,-11,0,1,-1,0.0
+1144530,2019-07-14,England,New Zealand,London,England,56,9,47,1,0,1,
+1193504,2019-07-26,Sri Lanka,Bangladesh,Colombo,Sri Lanka,63,7,56,1,0,1,1.0
+1193505,2019-07-28,Sri Lanka,Bangladesh,Colombo,Sri Lanka,64,8,56,1,0,1,1.0
+1193506,2019-07-31,Sri Lanka,Bangladesh,Colombo,Sri Lanka,65,9,56,1,0,1,1.0
+1188624,2019-08-08,West Indies,India,Providence,Guyana,0,0,0,1,0,1,
+1188625,2019-08-11,West Indies,India,Port of Spain,Trinidad and Tobago,1,0,1,1,0,1,0.0
+1188626,2019-08-14,West Indies,India,Port of Spain,Trinidad and Tobago,2,1,1,1,0,1,0.0
+1198487,2019-09-30,Pakistan,Sri Lanka,Karachi,Pakistan,14,7,7,1,0,1,1.0
+1198488,2019-10-02,Pakistan,Sri Lanka,Karachi,Pakistan,15,8,7,1,0,1,1.0
+1187021,2019-12-15,India,West Indies,Chennai,India,8,4,4,1,0,1,0.0
+1187022,2019-12-18,India,West Indies,Visakhapatnam,India,8,3,5,1,0,1,1.0
+1187023,2019-12-22,India,West Indies,Cuttack,India,6,1,5,1,0,1,1.0
+1203673,2020-01-07,West Indies,Ireland,Bridgetown,Barbados,3,0,3,1,0,1,1.0
+1203674,2020-01-09,West Indies,Ireland,Bridgetown,Barbados,4,1,3,1,0,1,1.0
+1203675,2020-01-12,West Indies,Ireland,St George's,Grenada,4,0,4,1,0,1,1.0
+1187027,2020-01-14,India,Australia,Mumbai,India,8,4,4,1,0,1,0.0
+1187028,2020-01-17,India,Australia,Rajkot,India,6,0,6,1,0,1,1.0
+1187029,2020-01-19,India,Australia,Bengaluru,India,1,1,0,1,0,1,1.0
+1185310,2020-02-04,South Africa,England,Cape Town,South Africa,19,4,15,1,0,1,1.0
+1187682,2020-02-05,New Zealand,India,Hamilton,New Zealand,20,6,14,1,0,1,1.0
+1185311,2020-02-07,South Africa,England,Durban,South Africa,22,2,20,1,0,1,
+1187683,2020-02-08,New Zealand,India,Auckland,New Zealand,23,3,20,1,0,1,1.0
+1185312,2020-02-09,South Africa,England,Johannesburg,South Africa,18,4,14,1,0,1,0.0
+1187684,2020-02-11,New Zealand,India,Mount Maunganui,New Zealand,8,2,6,1,0,1,1.0
+1213871,2020-02-22,Sri Lanka,West Indies,Colombo,Sri Lanka,66,6,60,1,0,1,1.0
+1213872,2020-02-26,Sri Lanka,West Indies,Hambantota,Sri Lanka,19,0,19,1,0,1,1.0
+1185319,2020-02-29,South Africa,Australia,Paarl,South Africa,4,0,4,1,0,1,1.0
+1213873,2020-03-01,Sri Lanka,West Indies,Kandy,Sri Lanka,22,1,21,1,0,1,1.0
+1214667,2020-03-01,Bangladesh,Zimbabwe,Sylhet,Bangladesh,1,0,1,1,0,1,1.0
+1214668,2020-03-03,Bangladesh,Zimbabwe,Sylhet,Bangladesh,2,1,1,1,0,1,1.0
+1185320,2020-03-04,South Africa,Australia,Bloemfontein,South Africa,9,0,9,1,0,1,1.0
+1214669,2020-03-06,Bangladesh,Zimbabwe,Sylhet,Bangladesh,3,2,1,1,0,1,1.0
+1185321,2020-03-07,South Africa,Australia,Potchefstroom,South Africa,6,1,5,1,0,1,1.0
+1183537,2020-03-13,Australia,New Zealand,Sydney,Australia,39,5,34,1,0,1,1.0
+1198247,2020-07-30,Ireland,England,Southampton,England,0,18,-18,0,1,-1,0.0
+1198248,2020-08-01,Ireland,England,Southampton,England,1,19,-18,0,1,-1,0.0
+1198249,2020-08-04,England,Ireland,Southampton,England,20,2,18,1,0,1,0.0
+1198238,2020-09-11,Australia,England,Manchester,England,8,13,-5,0,1,-1,1.0
+1198239,2020-09-13,England,Australia,Manchester,England,14,9,5,1,0,1,1.0
+1198240,2020-09-16,England,Australia,Manchester,England,15,10,5,1,0,1,0.0
+1233461,2020-10-30,Pakistan,Zimbabwe,Rawalpindi,Pakistan,7,1,6,1,0,1,1.0
+1233462,2020-11-01,Zimbabwe,Pakistan,Rawalpindi,Pakistan,2,8,-6,0,1,-1,0.0
+1233463,2020-11-03,Zimbabwe,Pakistan,Rawalpindi,Pakistan,3,9,-6,0,1,-1,
+1223955,2020-11-27,Australia,India,Sydney,Australia,40,9,31,1,0,1,1.0
+1223956,2020-11-29,Australia,India,Sydney,Australia,41,10,31,1,0,1,1.0
+1223957,2020-12-02,India,Australia,Canberra,Australia,1,4,-3,0,1,-1,1.0
+1244022,2021-01-20,West Indies,Bangladesh,Dhaka,Bangladesh,2,12,-10,0,1,-1,0.0
+1244023,2021-01-22,West Indies,Bangladesh,Dhaka,Bangladesh,3,13,-10,0,1,-1,0.0
+1244024,2021-01-25,Bangladesh,West Indies,Chattogram,Bangladesh,6,0,6,1,0,1,1.0
+1252069,2021-03-10,West Indies,Sri Lanka,North Sound,Antigua and Barbuda,0,0,0,1,0,1,1.0
+1252070,2021-03-12,West Indies,Sri Lanka,North Sound,Antigua and Barbuda,1,1,0,1,0,1,1.0
+1252071,2021-03-14,West Indies,Sri Lanka,North Sound,Antigua and Barbuda,2,2,0,1,0,1,1.0
+1233976,2021-03-20,Bangladesh,New Zealand,Dunedin,New Zealand,2,9,-7,0,1,-1,0.0
+1233977,2021-03-23,Bangladesh,New Zealand,Christchurch,New Zealand,3,18,-15,0,1,-1,0.0
+1243393,2021-03-23,India,England,Pune,India,5,1,4,1,0,1,1.0
+1233978,2021-03-26,New Zealand,Bangladesh,Wellington,New Zealand,23,0,23,1,0,1,1.0
+1243394,2021-03-26,India,England,Pune,India,6,2,4,1,0,1,0.0
+1243395,2021-03-28,India,England,Pune,India,7,3,4,1,0,1,1.0
+1251572,2021-04-02,South Africa,Pakistan,Centurion,South Africa,27,7,20,1,0,1,0.0
+1251573,2021-04-04,South Africa,Pakistan,Johannesburg,South Africa,19,6,13,1,0,1,1.0
+1251574,2021-04-07,Pakistan,South Africa,Centurion,South Africa,8,28,-20,0,1,-1,1.0
+1260084,2021-05-19,Netherlands,Scotland,Rotterdam,Netherlands,0,0,0,1,0,1,1.0
+1260085,2021-05-20,Netherlands,Scotland,Rotterdam,Netherlands,1,1,0,1,0,1,0.0
+1262344,2021-05-23,Bangladesh,Sri Lanka,Dhaka,Bangladesh,14,5,9,1,0,1,1.0
+1262346,2021-05-25,Bangladesh,Sri Lanka,Mirpur,Bangladesh,71,14,57,1,0,1,1.0
+1262347,2021-05-28,Sri Lanka,Bangladesh,Dhaka,Bangladesh,6,15,-9,0,1,-1,1.0
+1251962,2021-06-02,Netherlands,Ireland,Utrecht,Netherlands,0,0,0,1,0,1,1.0
+1251963,2021-06-04,Netherlands,Ireland,Utrecht,Netherlands,1,1,0,1,0,1,0.0
+1251964,2021-06-07,Ireland,Netherlands,Utrecht,Netherlands,2,2,0,0,1,-1,0.0
+1239534,2021-06-29,Sri Lanka,England,Chester-le-Street,England,4,12,-8,0,1,-1,0.0
+1239535,2021-07-01,Sri Lanka,England,London,England,13,57,-44,0,1,-1,0.0
+1239536,2021-07-04,Sri Lanka,England,Bristol,England,1,9,-8,0,1,-1,
+1239537,2021-07-08,Pakistan,England,Cardiff,Wales,4,14,-10,0,0,0,0.0
+1239538,2021-07-10,England,Pakistan,London,England,58,12,46,1,0,1,1.0
+1251950,2021-07-11,Ireland,South Africa,Dublin,Ireland,25,0,25,1,0,1,
+1239539,2021-07-13,Pakistan,England,Birmingham,England,8,19,-11,0,1,-1,0.0
+1251951,2021-07-13,Ireland,South Africa,Dublin,Ireland,26,1,25,1,0,1,1.0
+1251952,2021-07-16,South Africa,Ireland,Dublin,Ireland,2,27,-25,0,1,-1,1.0
+1267677,2021-07-16,Bangladesh,Zimbabwe,Harare,Zimbabwe,5,66,-61,0,1,-1,1.0
+1262755,2021-07-18,Sri Lanka,India,Colombo,Sri Lanka,67,17,50,1,0,1,0.0
+1267678,2021-07-18,Zimbabwe,Bangladesh,Harare,Zimbabwe,67,6,61,1,0,1,0.0
+1262756,2021-07-20,Sri Lanka,India,Colombo,Sri Lanka,68,18,50,1,0,1,0.0
+1263161,2021-07-20,Australia,West Indies,Bridgetown,Barbados,0,5,-5,0,1,-1,1.0
+1267679,2021-07-20,Zimbabwe,Bangladesh,Harare,Zimbabwe,68,7,61,1,0,1,0.0
+1263162,2021-07-22,Australia,West Indies,Bridgetown,Barbados,1,6,-5,0,1,-1,0.0
+1262757,2021-07-23,India,Sri Lanka,Colombo,Sri Lanka,19,69,-50,0,1,-1,0.0
+1263163,2021-07-26,West Indies,Australia,Bridgetown,Barbados,7,2,5,1,0,1,0.0
+1271627,2021-09-02,Sri Lanka,South Africa,Colombo,Sri Lanka,70,6,64,1,0,1,1.0
+1271628,2021-09-04,South Africa,Sri Lanka,Colombo,Sri Lanka,7,71,-64,0,1,-1,1.0
+1271629,2021-09-07,Sri Lanka,South Africa,Colombo,Sri Lanka,72,8,64,1,0,1,1.0
+1272379,2021-09-08,Zimbabwe,Ireland,Belfast,Northern Ireland,2,11,-9,0,1,-1,1.0
+1272380,2021-09-10,Ireland,Zimbabwe,Belfast,Northern Ireland,12,3,9,1,0,1,
+1272381,2021-09-13,Zimbabwe,Ireland,Belfast,Northern Ireland,4,13,-9,0,1,-1,0.0
+1277073,2021-11-26,South Africa,Netherlands,Centurion,South Africa,29,0,29,1,0,1,
+1277085,2022-01-08,West Indies,Ireland,Kingston,Jamaica,1,0,1,1,0,1,1.0
+1277086,2022-01-13,West Indies,Ireland,Kingston,Jamaica,2,1,1,1,0,1,0.0
+1277087,2022-01-16,West Indies,Ireland,Kingston,Jamaica,3,2,1,1,0,1,0.0
+1294969,2022-01-16,Zimbabwe,Sri Lanka,Kandy,Sri Lanka,2,23,-21,0,1,-1,0.0
+1294970,2022-01-18,Zimbabwe,Sri Lanka,Kandy,Sri Lanka,3,24,-21,0,1,-1,1.0
+1277082,2022-01-19,South Africa,India,Paarl,South Africa,5,1,4,1,0,1,1.0
+1277083,2022-01-21,India,South Africa,Paarl,South Africa,2,6,-4,0,1,-1,0.0
+1294971,2022-01-21,Sri Lanka,Zimbabwe,Kandy,Sri Lanka,25,4,21,1,0,1,1.0
+1277084,2022-01-23,South Africa,India,Cape Town,South Africa,20,4,16,1,0,1,1.0
+1278676,2022-02-06,West Indies,India,Ahmedabad,India,4,7,-3,0,1,-1,0.0
+1278677,2022-02-09,India,West Indies,Ahmedabad,India,8,5,3,1,0,1,1.0
+1278678,2022-02-11,India,West Indies,Ahmedabad,India,9,6,3,1,0,1,1.0
+1277097,2022-03-18,Bangladesh,South Africa,Centurion,South Africa,0,30,-30,0,1,-1,1.0
+1277098,2022-03-20,Bangladesh,South Africa,Johannesburg,South Africa,1,20,-19,0,1,-1,0.0
+1277099,2022-03-23,South Africa,Bangladesh,Centurion,South Africa,31,1,30,1,0,1,0.0
+1288313,2022-03-29,Australia,Pakistan,Lahore,Pakistan,0,19,-19,0,1,-1,1.0
+1288987,2022-03-29,Netherlands,New Zealand,Mount Maunganui,New Zealand,1,9,-8,0,1,-1,0.0
+1288314,2022-03-31,Australia,Pakistan,Lahore,Pakistan,1,20,-19,0,1,-1,0.0
+1288315,2022-04-02,Australia,Pakistan,Lahore,Pakistan,2,21,-19,0,1,-1,0.0
+1288988,2022-04-02,New Zealand,Netherlands,Hamilton,New Zealand,21,0,21,1,0,1,1.0
+1288989,2022-04-04,New Zealand,Netherlands,Hamilton,New Zealand,22,1,21,1,0,1,1.0
+1302349,2022-05-31,Netherlands,West Indies,Amstelveen,Netherlands,1,0,1,1,0,1,0.0
+1302350,2022-06-02,Netherlands,West Indies,Amstelveen,Netherlands,2,1,1,1,0,1,0.0
+1302351,2022-06-04,West Indies,Netherlands,Amstelveen,Netherlands,2,3,-1,0,1,-1,1.0
+1315038,2022-06-08,West Indies,Pakistan,Multan,Pakistan,1,7,-6,0,1,-1,0.0
+1315039,2022-06-10,Pakistan,West Indies,Multan,Pakistan,8,2,6,1,0,1,1.0
+1315040,2022-06-12,Pakistan,West Indies,Multan,Pakistan,9,3,6,1,0,1,1.0
+1307296,2022-06-14,Sri Lanka,Australia,Kandy,Sri Lanka,26,2,24,1,0,1,0.0
+1307297,2022-06-16,Sri Lanka,Australia,Kandy,Sri Lanka,27,3,24,1,0,1,1.0
+1281444,2022-06-17,England,Netherlands,Amstelveen,Netherlands,0,4,-4,0,1,-1,1.0
+1281445,2022-06-19,Netherlands,England,Amstelveen,Netherlands,5,1,4,1,0,1,0.0
+1307298,2022-06-19,Australia,Sri Lanka,Colombo,Sri Lanka,7,73,-66,0,1,-1,0.0
+1307299,2022-06-21,Sri Lanka,Australia,Colombo,Sri Lanka,74,8,66,1,0,1,1.0
+1281446,2022-06-22,Netherlands,England,Amstelveen,Netherlands,6,2,4,1,0,1,0.0
+1307300,2022-06-24,Sri Lanka,Australia,Colombo,Sri Lanka,75,9,66,1,0,1,0.0
+1303309,2022-07-10,Ireland,New Zealand,Dublin,Ireland,28,4,24,1,0,1,0.0
+1317152,2022-07-10,West Indies,Bangladesh,Providence,Guyana,1,0,1,1,0,1,0.0
+1276907,2022-07-12,England,India,London,England,59,13,46,1,0,1,0.0
+1303310,2022-07-12,Ireland,New Zealand,Dublin,Ireland,29,5,24,1,0,1,0.0
+1317153,2022-07-13,West Indies,Bangladesh,Providence,Guyana,2,1,1,1,0,1,0.0
+1276908,2022-07-14,England,India,London,England,60,14,46,1,0,1,1.0
+1303311,2022-07-15,New Zealand,Ireland,Dublin,Ireland,6,30,-24,0,1,-1,1.0
+1317154,2022-07-16,West Indies,Bangladesh,Providence,Guyana,3,2,1,1,0,1,0.0
+1276909,2022-07-17,England,India,Manchester,England,16,4,12,1,0,1,0.0
+1276910,2022-07-19,South Africa,England,Chester-le-Street,England,1,13,-12,0,1,-1,1.0
+1276911,2022-07-22,England,South Africa,Manchester,England,17,2,15,1,0,1,1.0
+1317900,2022-07-22,India,West Indies,Port of Spain,Trinidad and Tobago,2,3,-1,0,1,-1,1.0
+1276912,2022-07-24,South Africa,England,Leeds,England,2,15,-13,0,1,-1,
+1317901,2022-07-24,West Indies,India,Port of Spain,Trinidad and Tobago,4,3,1,1,0,1,0.0
+1317902,2022-07-27,India,West Indies,Port of Spain,Trinidad and Tobago,4,5,-1,0,1,-1,1.0
+1307479,2022-07-31,Scotland,New Zealand,Edinburgh,Scotland,8,0,8,1,0,1,0.0
+1323292,2022-08-05,Bangladesh,Zimbabwe,Harare,Zimbabwe,8,69,-61,0,1,-1,0.0
+1323293,2022-08-07,Bangladesh,Zimbabwe,Harare,Zimbabwe,9,70,-61,0,1,-1,0.0
+1323294,2022-08-10,Bangladesh,Zimbabwe,Harare,Zimbabwe,10,71,-61,0,1,-1,1.0
+1311737,2022-08-16,Pakistan,Netherlands,Rotterdam,Netherlands,0,2,-2,0,1,-1,1.0
+1317911,2022-08-17,New Zealand,West Indies,Bridgetown,Barbados,0,8,-8,0,1,-1,0.0
+1311738,2022-08-18,Netherlands,Pakistan,Rotterdam,Netherlands,3,1,2,1,0,1,0.0
+1325549,2022-08-18,Zimbabwe,India,Harare,Zimbabwe,72,15,57,1,0,1,0.0
+1317912,2022-08-19,New Zealand,West Indies,Bridgetown,Barbados,1,9,-8,0,1,-1,1.0
+1325550,2022-08-20,Zimbabwe,India,Harare,Zimbabwe,73,16,57,1,0,1,0.0
+1311739,2022-08-21,Pakistan,Netherlands,Rotterdam,Netherlands,2,4,-2,0,1,-1,1.0
+1317913,2022-08-21,West Indies,New Zealand,Bridgetown,Barbados,10,2,8,1,0,1,0.0
+1325551,2022-08-22,India,Zimbabwe,Harare,Zimbabwe,17,74,-57,0,1,-1,1.0
+1317476,2022-08-28,Zimbabwe,Australia,Townsville,Australia,0,0,0,0,1,-1,0.0
+1317477,2022-08-31,Zimbabwe,Australia,Townsville,Australia,1,1,0,0,1,-1,0.0
+1317478,2022-09-03,Australia,Zimbabwe,Townsville,Australia,2,2,0,1,0,1,0.0
+1317479,2022-09-06,New Zealand,Australia,Cairns,Australia,0,2,-2,0,1,-1,0.0
+1317480,2022-09-08,Australia,New Zealand,Cairns,Australia,3,1,2,1,0,1,1.0
+1317481,2022-09-11,Australia,New Zealand,Cairns,Australia,4,2,2,1,0,1,1.0
+1327509,2022-10-06,South Africa,India,Lucknow,India,0,0,0,0,1,-1,1.0
+1327510,2022-10-09,South Africa,India,Ranchi,India,0,5,-5,0,1,-1,0.0
+1327511,2022-10-11,South Africa,India,Delhi,India,1,10,-9,0,1,-1,0.0
+1317489,2022-11-17,England,Australia,Adelaide,Australia,8,22,-14,0,1,-1,0.0
+1317490,2022-11-19,Australia,England,Sydney,Australia,42,9,33,1,0,1,1.0
+1317491,2022-11-22,Australia,England,Melbourne,Australia,37,7,30,1,0,1,1.0
+1322278,2022-11-25,India,New Zealand,Auckland,New Zealand,4,24,-20,0,1,-1,0.0
+1322279,2022-11-27,India,New Zealand,Hamilton,New Zealand,7,23,-16,0,1,-1,
+1322280,2022-11-30,India,New Zealand,Christchurch,New Zealand,2,19,-17,0,1,-1,
+1340845,2022-12-04,India,Bangladesh,Dhaka,Bangladesh,2,16,-14,0,1,-1,0.0
+1340846,2022-12-07,Bangladesh,India,Dhaka,Bangladesh,17,3,14,1,0,1,1.0
+1340847,2022-12-10,India,Bangladesh,Chattogram,Bangladesh,1,7,-6,0,1,-1,1.0
+1339611,2023-01-09,New Zealand,Pakistan,Karachi,Pakistan,0,16,-16,0,1,-1,0.0
+1348643,2023-01-10,India,Sri Lanka,Guwahati,India,4,0,4,1,0,1,1.0
+1339612,2023-01-11,New Zealand,Pakistan,Karachi,Pakistan,1,17,-16,0,1,-1,1.0
+1348644,2023-01-12,Sri Lanka,India,Kolkata,India,3,7,-4,0,1,-1,0.0
+1339613,2023-01-13,Pakistan,New Zealand,Karachi,Pakistan,18,2,16,1,0,1,0.0
+1348645,2023-01-15,India,Sri Lanka,Thiruvananthapuram,India,1,0,1,1,0,1,1.0
+1348326,2023-01-18,Ireland,Zimbabwe,Harare,Zimbabwe,8,75,-67,0,1,-1,0.0
+1348646,2023-01-18,India,New Zealand,Hyderabad,India,7,1,6,1,0,1,1.0
+1348327,2023-01-21,Ireland,Zimbabwe,Harare,Zimbabwe,9,76,-67,0,1,-1,1.0
+1348647,2023-01-21,New Zealand,India,Raipur,India,0,0,0,0,1,-1,0.0
+1348328,2023-01-23,Zimbabwe,Ireland,Harare,Zimbabwe,77,10,67,1,0,1,
+1348648,2023-01-24,India,New Zealand,Indore,India,5,0,5,1,0,1,1.0
+1339595,2023-01-27,South Africa,England,Bloemfontein,South Africa,10,2,8,1,0,1,1.0
+1339596,2023-01-29,England,South Africa,Bloemfontein,South Africa,3,11,-8,0,1,-1,0.0
+1339597,2023-02-01,England,South Africa,Kimberley,South Africa,0,4,-4,0,1,-1,1.0
+1351397,2023-03-01,Bangladesh,England,Dhaka,Bangladesh,18,2,16,1,0,1,0.0
+1351398,2023-03-03,England,Bangladesh,Dhaka,Bangladesh,3,19,-16,0,1,-1,1.0
+1351399,2023-03-06,Bangladesh,England,Chattogram,Bangladesh,8,1,7,1,0,1,1.0
+1348656,2023-03-17,Australia,India,Mumbai,India,5,9,-4,0,1,-1,0.0
+1339602,2023-03-18,West Indies,South Africa,East London,South Africa,1,6,-5,0,1,-1,1.0
+1355717,2023-03-18,Bangladesh,Ireland,Sylhet,Bangladesh,4,0,4,1,0,1,1.0
+1348657,2023-03-19,India,Australia,Visakhapatnam,India,9,1,8,1,0,1,0.0
+1355718,2023-03-20,Bangladesh,Ireland,Sylhet,Bangladesh,5,1,4,1,0,1,
+1339603,2023-03-21,West Indies,South Africa,Potchefstroom,South Africa,0,7,-7,0,1,-1,0.0
+1362379,2023-03-21,Zimbabwe,Netherlands,Harare,Zimbabwe,78,0,78,1,0,1,0.0
+1348658,2023-03-22,Australia,India,Chennai,India,1,9,-8,0,1,-1,1.0
+1355719,2023-03-23,Ireland,Bangladesh,Sylhet,Bangladesh,2,6,-4,0,1,-1,0.0
+1362380,2023-03-23,Zimbabwe,Netherlands,Harare,Zimbabwe,79,1,78,1,0,1,1.0
+1322359,2023-03-25,New Zealand,Sri Lanka,Auckland,New Zealand,25,2,23,1,0,1,1.0
+1362381,2023-03-25,Netherlands,Zimbabwe,Harare,Zimbabwe,2,80,-78,0,1,-1,0.0
+1322361,2023-03-31,Sri Lanka,New Zealand,Hamilton,New Zealand,1,24,-23,0,1,-1,0.0
+1339607,2023-03-31,Netherlands,South Africa,Benoni,South Africa,2,4,-2,0,1,-1,0.0
+1339608,2023-04-02,South Africa,Netherlands,Johannesburg,South Africa,21,0,21,1,0,1,1.0
+1339619,2023-04-27,New Zealand,Pakistan,Rawalpindi,Pakistan,1,10,-9,0,1,-1,0.0
+1339620,2023-04-29,New Zealand,Pakistan,Rawalpindi,Pakistan,2,11,-9,0,1,-1,0.0
+1339621,2023-05-03,Pakistan,New Zealand,Karachi,Pakistan,19,3,16,1,0,1,1.0
+1339622,2023-05-05,Pakistan,New Zealand,Karachi,Pakistan,20,4,16,1,0,1,1.0
+1339623,2023-05-07,New Zealand,Pakistan,Karachi,Pakistan,5,21,-16,0,1,-1,1.0
+1364124,2023-05-09,Bangladesh,Ireland,Chelmsford,England,0,0,0,0,0,0,
+1364125,2023-05-12,Ireland,Bangladesh,Chelmsford,England,1,1,0,0,0,0,0.0
+1365552,2023-05-14,Bangladesh,Ireland,Chelmsford,England,2,2,0,0,0,0,1.0
+1377750,2023-06-20,Netherlands,Zimbabwe,Harare,Zimbabwe,3,82,-79,0,1,-1,0.0
+1377752,2023-06-21,Ireland,Scotland,Bulawayo,Zimbabwe,1,3,-2,0,0,0,0.0
+1377758,2023-06-24,Zimbabwe,West Indies,Harare,Zimbabwe,83,13,70,1,0,1,1.0
+1377760,2023-06-25,Sri Lanka,Ireland,Bulawayo,Zimbabwe,8,2,6,0,0,0,1.0
+1377763,2023-06-26,West Indies,Netherlands,Harare,Zimbabwe,14,6,8,0,0,0,
+1377764,2023-06-27,Sri Lanka,Scotland,Bulawayo,Zimbabwe,9,6,3,0,0,0,1.0
+1377767,2023-06-30,Sri Lanka,Netherlands,Bulawayo,Zimbabwe,10,1,9,0,0,0,1.0
+1377769,2023-07-01,West Indies,Scotland,Harare,Zimbabwe,15,2,13,0,0,0,0.0
+1377770,2023-07-02,Zimbabwe,Sri Lanka,Bulawayo,Zimbabwe,39,11,28,1,0,1,0.0
+1377773,2023-07-04,Scotland,Zimbabwe,Bulawayo,Zimbabwe,7,40,-33,0,1,-1,1.0
+1377776,2023-07-06,Scotland,Netherlands,Bulawayo,Zimbabwe,8,2,6,0,0,0,0.0
+1377778,2023-07-07,West Indies,Sri Lanka,Harare,Zimbabwe,17,10,7,0,0,0,0.0
+1377779,2023-07-09,Sri Lanka,Netherlands,Harare,Zimbabwe,11,8,3,0,0,0,1.0
+1381214,2023-07-27,West Indies,India,Bridgetown,Barbados,11,0,11,1,0,1,0.0
+1381215,2023-07-29,India,West Indies,Bridgetown,Barbados,1,12,-11,0,1,-1,0.0
+1381216,2023-08-01,India,West Indies,Tarouba,Trinidad and Tobago,0,0,0,0,1,-1,1.0
+1388393,2023-08-31,Bangladesh,Sri Lanka,Kandy,Sri Lanka,1,28,-27,0,1,-1,0.0
+1388394,2023-09-02,India,Pakistan,Kandy,Sri Lanka,3,5,-2,0,0,0,
+1388401,2023-09-06,Bangladesh,Pakistan,Lahore,Pakistan,4,22,-18,0,1,-1,0.0
+1373571,2023-09-07,South Africa,Australia,Bloemfontein,South Africa,12,1,11,1,0,1,0.0
+1336052,2023-09-08,England,New Zealand,Cardiff,Wales,15,5,10,0,0,0,0.0
+1373572,2023-09-09,Australia,South Africa,Bloemfontein,South Africa,2,13,-11,0,1,-1,1.0
+1388403,2023-09-09,Sri Lanka,Bangladesh,Colombo,Sri Lanka,76,10,66,1,0,1,1.0
+1336053,2023-09-10,England,New Zealand,Southampton,England,21,2,19,1,0,1,1.0
+1388406,2023-09-10,India,Pakistan,Colombo,Sri Lanka,20,15,5,0,0,0,1.0
+1373573,2023-09-12,South Africa,Australia,Potchefstroom,South Africa,8,2,6,1,0,1,1.0
+1388407,2023-09-12,India,Sri Lanka,Colombo,Sri Lanka,21,77,-56,0,1,-1,1.0
+1336054,2023-09-13,England,New Zealand,London,England,61,10,51,1,0,1,1.0
+1388410,2023-09-14,Pakistan,Sri Lanka,Colombo,Sri Lanka,16,78,-62,0,1,-1,0.0
+1336055,2023-09-15,England,New Zealand,London,England,62,11,51,1,0,1,1.0
+1373574,2023-09-15,South Africa,Australia,Centurion,South Africa,32,10,22,1,0,1,1.0
+1388412,2023-09-15,Bangladesh,India,Colombo,Sri Lanka,11,22,-11,0,0,0,1.0
+1373575,2023-09-17,South Africa,Australia,Johannesburg,South Africa,22,6,16,1,0,1,1.0
+1388414,2023-09-17,Sri Lanka,India,Colombo,Sri Lanka,79,23,56,1,0,1,0.0
+1395700,2023-09-21,New Zealand,Bangladesh,Dhaka,Bangladesh,0,20,-20,0,1,-1,
+1389388,2023-09-22,Australia,India,Chandigarh,India,6,12,-6,0,1,-1,0.0
+1336129,2023-09-23,England,Ireland,Nottingham,England,22,0,22,1,0,1,1.0
+1395701,2023-09-23,New Zealand,Bangladesh,Dhaka,Bangladesh,1,21,-20,0,1,-1,1.0
+1389389,2023-09-24,India,Australia,Indore,India,6,1,5,1,0,1,1.0
+1336130,2023-09-26,England,Ireland,Bristol,England,10,1,9,1,0,1,
+1395702,2023-09-26,Bangladesh,New Zealand,Dhaka,Bangladesh,22,2,20,1,0,1,0.0
+1389390,2023-09-27,Australia,India,Rajkot,India,1,7,-6,0,1,-1,1.0
+1384392,2023-10-05,England,New Zealand,Ahmedabad,India,1,1,0,0,0,0,0.0
+1384393,2023-10-06,Pakistan,Netherlands,Hyderabad,India,0,0,0,0,0,0,1.0
+1384395,2023-10-07,South Africa,Sri Lanka,Delhi,India,2,1,1,0,0,0,1.0
+1384396,2023-10-08,Australia,India,Chennai,India,2,10,-8,0,1,-1,0.0
+1384397,2023-10-09,New Zealand,Netherlands,Hyderabad,India,2,1,1,0,0,0,1.0
+1384398,2023-10-10,England,Bangladesh,Dharamsala,India,1,0,1,0,0,0,1.0
+1384399,2023-10-10,Sri Lanka,Pakistan,Hyderabad,India,1,1,0,0,0,0,0.0
+1384401,2023-10-12,South Africa,Australia,Lucknow,India,1,0,1,0,0,0,1.0
+1384402,2023-10-13,Bangladesh,New Zealand,Chennai,India,0,3,-3,0,0,0,0.0
+1384403,2023-10-14,Pakistan,India,Ahmedabad,India,1,10,-9,0,1,-1,0.0
+1384405,2023-10-16,Sri Lanka,Australia,Lucknow,India,0,1,-1,0,0,0,0.0
+1384406,2023-10-17,Netherlands,South Africa,Dharamsala,India,0,0,0,0,0,0,1.0
+1384408,2023-10-19,Bangladesh,India,Pune,India,0,8,-8,0,1,-1,0.0
+1384409,2023-10-20,Australia,Pakistan,Bengaluru,India,2,0,2,0,0,0,1.0
+1384410,2023-10-21,Netherlands,Sri Lanka,Lucknow,India,0,1,-1,0,0,0,0.0
+1384411,2023-10-21,South Africa,England,Mumbai,India,3,1,2,0,0,0,1.0
+1384412,2023-10-22,New Zealand,India,Dharamsala,India,0,2,-2,0,1,-1,0.0
+1384414,2023-10-24,South Africa,Bangladesh,Mumbai,India,4,0,4,0,0,0,1.0
+1384415,2023-10-25,Australia,Netherlands,Delhi,India,2,2,0,0,0,0,1.0
+1384416,2023-10-26,England,Sri Lanka,Bengaluru,India,0,0,0,0,0,0,0.0
+1384417,2023-10-27,Pakistan,South Africa,Chennai,India,1,2,-1,0,0,0,0.0
+1384418,2023-10-28,Australia,New Zealand,Dharamsala,India,0,1,-1,0,0,0,1.0
+1384419,2023-10-28,Netherlands,Bangladesh,Kolkata,India,1,0,1,0,0,0,1.0
+1384420,2023-10-29,India,England,Lucknow,India,1,0,1,1,0,1,1.0
+1384422,2023-10-31,Bangladesh,Pakistan,Kolkata,India,1,1,0,0,0,0,0.0
+1384423,2023-11-01,South Africa,New Zealand,Pune,India,0,2,-2,0,0,0,1.0
+1384424,2023-11-02,India,Sri Lanka,Mumbai,India,10,4,6,1,0,1,1.0
+1384426,2023-11-04,New Zealand,Pakistan,Bengaluru,India,0,1,-1,0,0,0,0.0
+1384427,2023-11-04,Australia,England,Ahmedabad,India,2,2,0,0,0,0,1.0
+1384428,2023-11-05,India,South Africa,Kolkata,India,8,1,7,1,0,1,1.0
+1384429,2023-11-06,Sri Lanka,Bangladesh,Delhi,India,2,0,2,0,0,0,0.0
+1384431,2023-11-08,England,Netherlands,Pune,India,4,0,4,0,0,0,1.0
+1384432,2023-11-09,Sri Lanka,New Zealand,Bengaluru,India,1,1,0,0,0,0,0.0
+1384434,2023-11-11,Bangladesh,Australia,Pune,India,1,2,-1,0,0,0,0.0
+1384435,2023-11-11,England,Pakistan,Kolkata,India,2,2,0,0,0,0,1.0
+1384436,2023-11-12,India,Netherlands,Bengaluru,India,2,0,2,1,0,1,1.0
+1384437,2023-11-15,India,New Zealand,Mumbai,India,11,5,6,1,0,1,1.0
+1384438,2023-11-16,South Africa,Australia,Kolkata,India,2,1,1,0,0,0,0.0
+1384439,2023-11-19,India,Australia,Ahmedabad,India,11,3,8,1,0,1,0.0
+1373576,2023-12-03,England,West Indies,North Sound,Antigua and Barbuda,0,3,-3,0,1,-1,0.0
+1373577,2023-12-06,West Indies,England,North Sound,Antigua and Barbuda,4,1,3,1,0,1,0.0
+1373578,2023-12-09,England,West Indies,Bridgetown,Barbados,2,13,-11,0,1,-1,0.0
+1408106,2023-12-13,Zimbabwe,Ireland,Harare,Zimbabwe,85,13,72,1,0,1,
+1408107,2023-12-15,Zimbabwe,Ireland,Harare,Zimbabwe,86,14,72,1,0,1,0.0
+1387600,2023-12-17,South Africa,India,Johannesburg,South Africa,23,6,17,1,0,1,0.0
+1408102,2023-12-17,New Zealand,Bangladesh,Dunedin,New Zealand,10,3,7,1,0,1,1.0
+1408108,2023-12-17,Zimbabwe,Ireland,Harare,Zimbabwe,87,15,72,1,0,1,0.0
+1387601,2023-12-19,India,South Africa,Gqeberha,South Africa,0,0,0,0,1,-1,0.0
+1388211,2023-12-20,Bangladesh,New Zealand,Nelson,New Zealand,3,8,-5,0,1,-1,0.0
+1387602,2023-12-21,India,South Africa,Paarl,South Africa,3,7,-4,0,1,-1,1.0
+1388212,2023-12-23,New Zealand,Bangladesh,Napier,New Zealand,16,3,13,1,0,1,0.0
+1412539,2024-01-06,Sri Lanka,Zimbabwe,Colombo,Sri Lanka,80,0,80,1,0,1,
+1412540,2024-01-08,Zimbabwe,Sri Lanka,Colombo,Sri Lanka,1,81,-80,0,1,-1,0.0
+1412541,2024-01-11,Zimbabwe,Sri Lanka,Colombo,Sri Lanka,2,82,-80,0,1,-1,0.0
+1375847,2024-02-02,West Indies,Australia,Melbourne,Australia,3,38,-35,0,1,-1,0.0
+1375848,2024-02-04,Australia,West Indies,Sydney,Australia,43,3,40,1,0,1,1.0
+1375849,2024-02-06,West Indies,Australia,Canberra,Australia,2,5,-3,0,1,-1,0.0
+1419827,2024-03-13,Sri Lanka,Bangladesh,Chattogram,Bangladesh,0,9,-9,0,1,-1,0.0
+1419828,2024-03-15,Bangladesh,Sri Lanka,Chattogram,Bangladesh,10,1,9,1,0,1,0.0
+1419829,2024-03-18,Sri Lanka,Bangladesh,Chattogram,Bangladesh,2,11,-9,0,1,-1,0.0
+1442990,2024-08-02,Sri Lanka,India,Colombo,Sri Lanka,83,24,59,1,0,1,
+1442991,2024-08-04,Sri Lanka,India,Colombo,Sri Lanka,84,25,59,1,0,1,1.0
+1442992,2024-08-07,Sri Lanka,India,Colombo,Sri Lanka,85,26,59,1,0,1,1.0
+1385700,2024-09-19,England,Australia,Nottingham,England,23,5,18,1,0,1,0.0
+1385701,2024-09-21,Australia,England,Leeds,England,1,16,-15,0,1,-1,1.0
+1385702,2024-09-24,Australia,England,Chester-le-Street,England,4,14,-10,0,1,-1,0.0
+1385703,2024-09-27,England,Australia,London,England,63,19,44,1,0,1,1.0
+1385704,2024-09-29,England,Australia,Bristol,England,11,0,11,1,0,1,0.0
+1431088,2024-10-02,South Africa,Ireland,Abu Dhabi,United Arab Emirates,4,2,2,0,0,0,1.0
+1431089,2024-10-04,South Africa,Ireland,Abu Dhabi,United Arab Emirates,5,3,2,0,0,0,1.0
+1431090,2024-10-07,Ireland,South Africa,Abu Dhabi,United Arab Emirates,4,6,-2,0,0,0,1.0
+1451817,2024-10-20,West Indies,Sri Lanka,Kandy,Sri Lanka,2,29,-27,0,1,-1,0.0
+1451818,2024-10-23,West Indies,Sri Lanka,Kandy,Sri Lanka,3,30,-27,0,1,-1,0.0
+1451819,2024-10-26,Sri Lanka,West Indies,Kandy,Sri Lanka,31,4,27,1,0,1,0.0
+1433370,2024-10-31,England,West Indies,North Sound,Antigua and Barbuda,2,5,-3,0,1,-1,0.0
+1433371,2024-11-02,West Indies,England,North Sound,Antigua and Barbuda,6,3,3,1,0,1,0.0
+1426549,2024-11-04,Pakistan,Australia,Melbourne,Australia,2,39,-37,0,1,-1,0.0
+1433372,2024-11-06,England,West Indies,Bridgetown,Barbados,3,14,-11,0,1,-1,0.0
+1426550,2024-11-08,Australia,Pakistan,Adelaide,Australia,23,5,18,1,0,1,0.0
+1426551,2024-11-10,Australia,Pakistan,Perth,Australia,21,5,16,1,0,1,0.0
+1456443,2024-11-13,Sri Lanka,New Zealand,Dambulla,Sri Lanka,36,8,28,1,0,1,1.0
+1456444,2024-11-17,New Zealand,Sri Lanka,Kandy,Sri Lanka,3,32,-29,0,1,-1,0.0
+1456445,2024-11-19,New Zealand,Sri Lanka,Kandy,Sri Lanka,4,33,-29,0,1,-1,
+1444649,2024-11-24,Zimbabwe,Pakistan,Bulawayo,Zimbabwe,41,7,34,1,0,1,1.0
+1444650,2024-11-26,Zimbabwe,Pakistan,Bulawayo,Zimbabwe,42,8,34,1,0,1,0.0
+1444651,2024-11-28,Pakistan,Zimbabwe,Bulawayo,Zimbabwe,9,43,-34,0,1,-1,1.0
+1433380,2024-12-08,Bangladesh,West Indies,Basseterre,Saint Kitts and Nevis,0,0,0,0,1,-1,0.0
+1433381,2024-12-10,Bangladesh,West Indies,Basseterre,Saint Kitts and Nevis,1,1,0,0,1,-1,0.0
+1433382,2024-12-12,Bangladesh,West Indies,Basseterre,Saint Kitts and Nevis,2,2,0,0,1,-1,0.0
+1432214,2024-12-17,South Africa,Pakistan,Paarl,South Africa,8,1,7,1,0,1,0.0
+1432215,2024-12-19,Pakistan,South Africa,Cape Town,South Africa,4,21,-17,0,1,-1,1.0
+1432216,2024-12-22,Pakistan,South Africa,Johannesburg,South Africa,7,24,-17,0,1,-1,1.0
+1443546,2025-01-05,Sri Lanka,New Zealand,Wellington,New Zealand,3,24,-21,0,1,-1,0.0
+1443547,2025-01-08,New Zealand,Sri Lanka,Hamilton,New Zealand,25,2,23,1,0,1,1.0
+1443548,2025-01-11,Sri Lanka,New Zealand,Auckland,New Zealand,3,26,-23,0,1,-1,1.0
+1439904,2025-02-06,England,India,Nagpur,India,1,8,-7,0,1,-1,0.0
+1442220,2025-02-08,New Zealand,Pakistan,Lahore,Pakistan,2,23,-21,0,1,-1,1.0
+1439905,2025-02-09,England,India,Cuttack,India,2,7,-5,0,1,-1,0.0
+1442221,2025-02-10,South Africa,New Zealand,Lahore,Pakistan,5,3,2,0,0,0,0.0
+1439906,2025-02-12,India,England,Ahmedabad,India,12,3,9,1,0,1,1.0
+1442222,2025-02-12,South Africa,Pakistan,Karachi,Pakistan,0,22,-22,0,1,-1,0.0
+1459908,2025-02-12,Sri Lanka,Australia,Colombo,Sri Lanka,86,10,76,1,0,1,1.0
+1442223,2025-02-14,Pakistan,New Zealand,Karachi,Pakistan,23,6,17,1,0,1,0.0
+1467701,2025-02-14,Zimbabwe,Ireland,Harare,Zimbabwe,88,16,72,1,0,1,1.0
+1469168,2025-02-14,Sri Lanka,Australia,Colombo,Sri Lanka,87,11,76,1,0,1,1.0
+1467702,2025-02-16,Zimbabwe,Ireland,Harare,Zimbabwe,89,17,72,1,0,1,0.0
+1467703,2025-02-18,Ireland,Zimbabwe,Harare,Zimbabwe,18,90,-72,0,1,-1,0.0
+1466414,2025-02-19,New Zealand,Pakistan,Karachi,Pakistan,7,24,-17,0,1,-1,1.0
+1466415,2025-02-20,Bangladesh,India,Dubai,United Arab Emirates,3,5,-2,0,0,0,0.0
+1466417,2025-02-22,England,Australia,Lahore,Pakistan,1,3,-2,0,0,0,0.0
+1466418,2025-02-23,Pakistan,India,Dubai,United Arab Emirates,22,6,16,0,0,0,0.0
+1466419,2025-02-24,Bangladesh,New Zealand,Rawalpindi,Pakistan,1,3,-2,0,0,0,0.0
+1466424,2025-03-01,England,South Africa,Karachi,Pakistan,1,1,0,0,0,0,0.0
+1466425,2025-03-02,India,New Zealand,Dubai,United Arab Emirates,7,2,5,0,0,0,1.0
+1466426,2025-03-04,Australia,India,Dubai,United Arab Emirates,5,8,-3,0,0,0,0.0
+1466427,2025-03-05,New Zealand,South Africa,Lahore,Pakistan,4,6,-2,0,0,0,1.0
+1466428,2025-03-09,New Zealand,India,Dubai,United Arab Emirates,3,9,-6,0,0,0,0.0
+1443554,2025-03-29,New Zealand,Pakistan,Napier,New Zealand,17,3,14,1,0,1,1.0
+1443555,2025-04-02,New Zealand,Pakistan,Hamilton,New Zealand,26,2,24,1,0,1,1.0
+1443556,2025-04-05,New Zealand,Pakistan,Mount Maunganui,New Zealand,10,0,10,1,0,1,1.0
+1481532,2025-05-10,Netherlands,Scotland,Amstelveen,Netherlands,8,2,6,1,0,1,1.0
+1481535,2025-05-16,Scotland,Netherlands,Utrecht,Netherlands,1,4,-3,0,1,-1,1.0
+1472511,2025-05-21,Ireland,West Indies,Dublin,Ireland,31,6,25,1,0,1,1.0
+1472512,2025-05-23,West Indies,Ireland,Dublin,Ireland,7,32,-25,0,1,-1,
+1472513,2025-05-25,West Indies,Ireland,Dublin,Ireland,8,33,-25,0,1,-1,1.0
+1448343,2025-05-29,England,West Indies,Birmingham,England,20,2,18,1,0,1,1.0
+1448344,2025-06-01,West Indies,England,Cardiff,Wales,1,16,-15,0,0,0,0.0
+1448345,2025-06-03,West Indies,England,London,England,9,64,-55,0,1,-1,0.0
+1486774,2025-06-06,Scotland,Netherlands,Dundee,Scotland,5,1,4,1,0,1,1.0
+1486777,2025-06-12,Scotland,Netherlands,Dundee,Scotland,7,3,4,1,0,1,0.0
+1485505,2025-07-02,Sri Lanka,Bangladesh,Colombo,Sri Lanka,88,12,76,1,0,1,1.0
+1485506,2025-07-05,Bangladesh,Sri Lanka,Colombo,Sri Lanka,13,89,-76,0,1,-1,1.0
+1485507,2025-07-08,Sri Lanka,Bangladesh,Kandy,Sri Lanka,34,2,32,1,0,1,1.0
+1472528,2025-08-08,West Indies,Pakistan,Tarouba,Trinidad and Tobago,1,0,1,1,0,1,0.0
+1472529,2025-08-10,Pakistan,West Indies,Tarouba,Trinidad and Tobago,1,2,-1,0,1,-1,0.0
+1472530,2025-08-12,West Indies,Pakistan,Tarouba,Trinidad and Tobago,3,2,1,1,0,1,1.0
+1478901,2025-08-19,South Africa,Australia,Cairns,Australia,0,5,-5,0,1,-1,1.0
+1478902,2025-08-22,South Africa,Australia,Mackay,Australia,0,0,0,0,1,-1,1.0
+1478903,2025-08-24,Australia,South Africa,Mackay,Australia,1,1,0,1,0,1,1.0
+1492821,2025-08-29,Sri Lanka,Zimbabwe,Harare,Zimbabwe,12,91,-79,0,1,-1,1.0
+1492822,2025-08-31,Zimbabwe,Sri Lanka,Harare,Zimbabwe,92,13,79,1,0,1,0.0
+1448354,2025-09-02,England,South Africa,Leeds,England,17,3,14,1,0,1,0.0
+1448355,2025-09-04,South Africa,England,London,England,14,65,-51,0,1,-1,1.0
+1448356,2025-09-07,England,South Africa,Southampton,England,22,5,17,1,0,1,1.0
+1505122,2025-10-18,Bangladesh,West Indies,Dhaka,Bangladesh,23,4,19,1,0,1,1.0
+1478904,2025-10-19,India,Australia,Perth,Australia,6,22,-16,0,1,-1,0.0
+1505123,2025-10-21,Bangladesh,West Indies,Dhaka,Bangladesh,24,5,19,1,0,1,
+1478905,2025-10-23,India,Australia,Adelaide,Australia,6,24,-18,0,1,-1,0.0
+1505124,2025-10-23,Bangladesh,West Indies,Dhaka,Bangladesh,25,6,19,1,0,1,1.0
+1478906,2025-10-25,Australia,India,Sydney,Australia,44,11,33,1,0,1,0.0
+1491720,2025-10-26,England,New Zealand,Mount Maunganui,New Zealand,1,11,-10,0,1,-1,0.0
+1491721,2025-10-29,England,New Zealand,Hamilton,New Zealand,3,27,-24,0,1,-1,0.0
+1491722,2025-11-01,England,New Zealand,Wellington,New Zealand,4,25,-21,0,1,-1,0.0
+1501898,2025-11-04,South Africa,Pakistan,Faisalabad,Pakistan,2,5,-3,0,1,-1,0.0
+1501899,2025-11-06,Pakistan,South Africa,Faisalabad,Pakistan,6,3,3,1,0,1,0.0
+1501900,2025-11-08,South Africa,Pakistan,Faisalabad,Pakistan,4,7,-3,0,1,-1,0.0
+1502167,2025-11-11,Pakistan,Sri Lanka,Rawalpindi,Pakistan,12,1,11,1,0,1,1.0
+1502168,2025-11-14,Sri Lanka,Pakistan,Rawalpindi,Pakistan,2,13,-11,0,1,-1,0.0
+1491728,2025-11-16,New Zealand,West Indies,Christchurch,New Zealand,20,4,16,1,0,1,1.0
+1502169,2025-11-16,Sri Lanka,Pakistan,Rawalpindi,Pakistan,3,14,-11,0,1,-1,0.0
+1491729,2025-11-19,West Indies,New Zealand,Napier,New Zealand,2,18,-16,0,1,-1,0.0
+1491730,2025-11-22,West Indies,New Zealand,Hamilton,New Zealand,1,28,-27,0,1,-1,0.0
+1479573,2025-11-30,India,South Africa,Ranchi,India,6,1,5,1,0,1,1.0
+1479574,2025-12-03,India,South Africa,Raipur,India,1,0,1,1,0,1,0.0
+1479575,2025-12-06,South Africa,India,Visakhapatnam,India,0,10,-10,0,1,-1,0.0
+1490231,2026-01-11,New Zealand,India,Vadodara,India,1,5,-4,0,1,-1,0.0
+1490232,2026-01-14,India,New Zealand,Rajkot,India,8,0,8,1,0,1,0.0
+1490233,2026-01-18,New Zealand,India,Indore,India,1,7,-6,0,1,-1,1.0
+1507716,2026-01-22,Sri Lanka,England,Colombo,Sri Lanka,90,8,82,1,0,1,1.0
+1507717,2026-01-24,Sri Lanka,England,Colombo,Sri Lanka,91,9,82,1,0,1,0.0
+1507718,2026-01-27,England,Sri Lanka,Colombo,Sri Lanka,10,92,-82,0,1,-1,1.0
+1525652,2026-03-11,Pakistan,Bangladesh,Dhaka,Bangladesh,0,26,-26,0,1,-1,0.0
+1525653,2026-03-13,Pakistan,Bangladesh,Dhaka,Bangladesh,1,27,-26,0,1,-1,1.0
+1525654,2026-03-15,Bangladesh,Pakistan,Dhaka,Bangladesh,28,2,26,1,0,1,1.0
+1528272,2026-04-17,New Zealand,Bangladesh,Dhaka,Bangladesh,3,29,-26,0,1,-1,1.0
+1528273,2026-04-20,New Zealand,Bangladesh,Dhaka,Bangladesh,4,30,-26,0,1,-1,0.0
+1528274,2026-04-23,Bangladesh,New Zealand,Chattogram,Bangladesh,12,1,11,1,0,1,1.0
+1535645,2026-05-30,Australia,Pakistan,Rawalpindi,Pakistan,0,15,-15,0,1,-1,0.0
+1535646,2026-06-02,Australia,Pakistan,Lahore,Pakistan,4,24,-20,0,1,-1,1.0
+1538304,2026-06-03,Sri Lanka,West Indies,Kingston,Jamaica,0,4,-4,0,1,-1,1.0
+1535647,2026-06-04,Australia,Pakistan,Lahore,Pakistan,5,25,-20,0,1,-1,0.0
+1532480,2026-06-09,Bangladesh,Australia,Dhaka,Bangladesh,31,0,31,1,0,1,1.0
+1532481,2026-06-11,Australia,Bangladesh,Dhaka,Bangladesh,1,32,-31,0,1,-1,0.0
+1532482,2026-06-14,Bangladesh,Australia,Dhaka,Bangladesh,33,2,31,1,0,1,0.0
+1538298,2026-07-06,Zimbabwe,Bangladesh,Harare,Zimbabwe,93,11,82,1,0,1,1.0
+1538299,2026-07-09,Zimbabwe,Bangladesh,Harare,Zimbabwe,94,12,82,1,0,1,1.0
+1538300,2026-07-11,Zimbabwe,Bangladesh,Harare,Zimbabwe,95,13,82,1,0,1,0.0
+1538624,2026-07-11,New Zealand,West Indies,Providence,Guyana,0,4,-4,0,1,-1,0.0
+1538625,2026-07-13,West Indies,New Zealand,Providence,Guyana,5,1,4,1,0,1,0.0
+1496579,2026-07-14,England,India,Birmingham,England,21,9,12,1,0,1,0.0
+1496580,2026-07-16,India,England,Cardiff,Wales,4,17,-13,0,0,0,0.0
+1538626,2026-07-16,West Indies,New Zealand,Providence,Guyana,6,2,4,1,0,1,0.0
+1496581,2026-07-19,England,India,London,England,66,15,51,1,0,1,1.0
+1538627,2026-07-19,West Indies,New Zealand,Bridgetown,Barbados,15,3,12,1,0,1,0.0
+1538628,2026-07-21,New Zealand,West Indies,Bridgetown,Barbados,4,16,-12,0,1,-1,0.0
+1530203,2026-09-15,Australia,Zimbabwe,Harare,Zimbabwe,8,96,-88,0,1,-1,1.0
+1530204,2026-09-18,Australia,Zimbabwe,Harare,Zimbabwe,9,97,-88,0,1,-1,1.0
+1530205,2026-09-20,Zimbabwe,Australia,Harare,Zimbabwe,98,10,88,1,0,1,0.0
+1496588,2026-09-22,England,Sri Lanka,Chester-le-Street,England,15,5,10,1,0,1,1.0
+1496589,2026-09-24,Sri Lanka,England,Leeds,England,4,18,-14,0,1,-1,1.0
+1525655,2026-09-24,South Africa,Australia,Durban,South Africa,23,5,18,1,0,1,1.0
+1496590,2026-09-27,England,Sri Lanka,London,England,67,14,53,1,0,1,1.0
+1525656,2026-09-27,South Africa,Australia,Johannesburg,South Africa,25,7,18,1,0,1,1.0
+1529227,2026-09-27,West Indies,India,Thiruvananthapuram,India,1,2,-1,0,1,-1,0.0
+1525657,2026-09-30,Australia,South Africa,Potchefstroom,South Africa,3,9,-6,0,1,-1,1.0
+1529228,2026-09-30,West Indies,India,Guwahati,India,1,5,-4,0,1,-1,0.0
+1529229,2026-10-03,India,West Indies,New Chandigarh,India,0,0,0,1,0,1,0.0
+1555117,2026-10-17,Zimbabwe,Bangladesh,Abu Dhabi,United Arab Emirates,0,1,-1,0,0,0,1.0
+1550713,2026-10-18,Pakistan,Sri Lanka,Rawalpindi,Pakistan,16,4,12,1,0,1,1.0
+1550714,2026-10-20,Pakistan,England,Rawalpindi,Pakistan,17,1,16,1,0,1,1.0
+1550715,2026-10-22,England,Sri Lanka,Rawalpindi,Pakistan,2,5,-3,0,0,0,0.0
+1550716,2026-10-25,England,Pakistan,Lahore,Pakistan,2,26,-24,0,1,-1,0.0

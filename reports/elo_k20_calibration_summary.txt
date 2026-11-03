@@ -1,0 +1,21 @@
+ELO K=20 CALIBRATION DIAGNOSTICS
+==================================================
+
+model: Elo K=20
+split: test
+matches: 380
+mean_predicted_probability: 0.495773
+actual_team_1_win_rate: 0.489474
+log_loss: 0.668920
+brier_score: 0.237820
+expected_calibration_error_10_bins: 0.076269
+
+Interpretation:
+- A perfectly calibrated model follows the diagonal
+  in the reliability diagram.
+- If observed win rate is below predicted probability,
+  the model is overconfident in that bin.
+- If observed win rate is above predicted probability,
+  the model is underconfident in that bin.
+- ECE is a bin-based summary and depends on the chosen
+  number of bins; interpret it alongside the plot.

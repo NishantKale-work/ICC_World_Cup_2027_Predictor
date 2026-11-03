@@ -1,0 +1,26 @@
+ODI FEATURE BUILD VALIDATION
+============================================================
+Input rows: 2,607
+Output rows: 2,607
+Date range: 2002-06-27 to 2026-10-25
+Unique match IDs: 2,607
+Duplicate match IDs: 0
+Dates with multiple matches: 349
+
+Target validation:
+Decided matches: 2,477
+Excluded no-result/tie/invalid-winner matches: 130
+Target 1 (team_1 wins): 1,353
+Target 0 (team_2 wins): 1,124
+
+Feature validation:
+Missing Elo difference: 0
+Missing recent form difference: 0
+Missing match count features: 0
+
+Leakage protection:
+Features for all matches on a date were created from the same start-of-day team-state snapshot.
+Match results were applied only after feature creation for that date.
+No-result, tie, or invalid-winner matches do not update Elo, form, or match counts.
+
+Saved features: C:\Users\dhana\PycharmProjects\PythonProject\ICC Cricket World Cup 2027 Predictor\data\processed\odi_features.csv
